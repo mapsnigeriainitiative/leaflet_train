@@ -1,0 +1,2393 @@
+airport_code,ident,airport_type,name,latitude,longitude,elevation,iata
+9,FN18,small_airport,Matala Airport,-14.7274999619,15.013999939,4120,AO
+10,FN19,small_airport,Cabo Ledo Airport,-9.6530504227,13.26060009,360,AO
+2051,DAAJ,medium_airport,Djanet Inedbirene Airport,24.2928009033,9.4524402618,3176,DZ
+2053,DAAN,small_airport,Reggane Airport,26.710100174,0.2856470048,955,DZ
+2054,DAAP,medium_airport,Illizi Takhamalt Airport,26.7234992981,8.6226501465,1778,DZ
+2056,DAAT,medium_airport,Aguenar � Hadj Bey Akhamok Airport,22.8115005493,5.4510798454,4518,DZ
+2058,DAAY,medium_airport,Mecheria Airport,33.535900116,-0.2423530072,3855,DZ
+2064,DAFH,medium_airport,Hassi R'Mel Airport,32.9304008484,3.3115398884,2540,DZ
+2067,DAOF,medium_airport,Tindouf Airport,27.7003993988,-8.1670999527,1453,DZ
+2072,DAOR,medium_airport,B�char Boudghene Ben Ali Lotfi Airport,31.6457004547,-2.2698600292,2661,DZ
+2075,DAUA,medium_airport,Touat Cheikh Sidi Mohamed Belkebir Airport,27.837600708,-0.1864140034,919,DZ
+2077,DAUE,medium_airport,El Golea Airport,30.5713005066,2.8595900536,1306,DZ
+2078,DAUG,medium_airport,Noum�rat - Moufdi Zakaria Airport,32.3841018677,3.7941100597,1512,DZ
+2079,DAUH,medium_airport,Oued Irara Airport,31.6730003357,6.1404399872,463,DZ
+2080,DAUI,medium_airport,In Salah Airport,27.2509994507,2.5120201111,896,DZ
+2081,DAUK,medium_airport,Touggourt Sidi Madhi Airport,33.0677986145,6.0886697769,279,DZ
+2082,DAUL,medium_airport,Laghouat Airport,33.7644004822,2.9283399582,2510,DZ
+2083,DAUO,medium_airport,Guemar Airport,33.5113983154,6.7767901421,203,DZ
+2084,DAUT,medium_airport,Timimoun Airport,29.2371006012,0.2760330141,1027,DZ
+2085,DAUU,medium_airport,Ain el Beida Airport,31.9172000885,5.412779808,492,DZ
+2086,DAUZ,medium_airport,In Am�nas Airport,28.0515003204,9.6429100037,1847,DZ
+2087,DBBB,medium_airport,Cadjehoun Airport,6.3572301865,2.3843500614,19,BJ
+2088,DFFD,medium_airport,Ouagadougou Airport,12.3531999588,-1.5124200583,1037,BF
+2089,DFOO,medium_airport,Bobo Dioulasso Airport,11.1600999832,-4.3309698105,1511,BF
+2090,DGAA,large_airport,Kotoka International Airport,5.6051898003,-0.1667860001,205,GH
+2091,DGLE,medium_airport,Tamale Airport,9.5571899414,-0.863214016,553,GH
+2092,DGLW,small_airport,Wa Airport,10.0826997757,-2.5076899529,1060,GH
+2093,DGSI,medium_airport,Kumasi Airport,6.7145600319,-1.5908199549,942,GH
+2094,DGSN,medium_airport,Sunyani Airport,7.3618302345,-2.3287599087,1014,GH
+2095,DGTK,medium_airport,Takoradi Airport,4.8960599899,-1.7747600079,21,GH
+2096,DIAP,medium_airport,Port Bouet Airport,5.2613902092,-3.9262900352,21,CI
+2097,DIBK,medium_airport,Bouak� Airport,7.7388000488,-5.0736699104,1230,CI
+2098,DIDL,medium_airport,Daloa Airport,6.7928099632,-6.4731898308,823,CI
+2099,DIKO,medium_airport,Korhogo Airport,9.3871803284,-5.5566601753,1214,CI
+2100,DIMN,medium_airport,Man Airport,7.272069931,-7.5873599052,1089,CI
+2101,DISP,medium_airport,San Pedro Airport,4.7467198372,-6.6608200073,26,CI
+2102,DIYO,medium_airport,Yamoussoukro Airport,6.9031701088,-5.3655800819,699,CI
+2104,DNAA,large_airport,Nnamdi Azikiwe International Airport,9.0067901611,7.2631697655,1123,NG
+2105,DNAK,medium_airport,Akure Airport,7.2467398643,5.3010101318,1100,NG
+2106,DNBE,medium_airport,Benin Airport,6.3169798851,5.5995001793,258,NG
+2107,DNCA,medium_airport,Margaret Ekpo International Airport,4.9760198593,8.3472003937,210,NG
+2108,DNEN,medium_airport,Akanu Ibiam International Airport,6.4742698669,7.5619602203,466,NG
+2109,DNGU,medium_airport,Gusau Airport,12.1716995239,6.6961097717,1520,NG
+2110,DNIB,medium_airport,Ibadan Airport,7.3624601364,3.9783298969,725,NG
+2111,DNIL,medium_airport,Ilorin International Airport,8.4402103424,4.4939198494,1126,NG
+2112,DNIM,medium_airport,Sam Mbakwe International Airport,5.4270601273,7.206029892,373,NG
+2113,DNJO,medium_airport,Yakubu Gowon Airport,9.6398296356,8.8690500259,4232,NG
+2114,DNKA,medium_airport,Kaduna Airport,10.6960000992,7.3201098442,2073,NG
+2115,DNKN,medium_airport,Mallam Aminu International Airport,12.0475997925,8.5246200562,1562,NG
+2116,DNMA,medium_airport,Maiduguri International Airport,11.8552999496,13.0809001923,1099,NG
+2117,DNMK,medium_airport,Makurdi Airport,7.7038798332,8.613940239,371,NG
+2118,DNMM,large_airport,Murtala Muhammed International Airport,6.5773701668,3.321160078,135,NG
+2119,DNMN,medium_airport,Minna Airport,9.6521701813,6.4622597694,834,NG
+2120,DNPO,medium_airport,Port Harcourt International Airport,5.0154900551,6.9495902061,87,NG
+2121,DNSO,medium_airport,Sadiq Abubakar III International Airport,12.9162998199,5.2071900368,1010,NG
+2122,DNYO,medium_airport,Yola Airport,9.2575502396,12.4303998947,599,NG
+2123,DNZA,medium_airport,Zaria Airport,11.130200386,7.6858100891,2170,NG
+2124,DRRM,medium_airport,Maradi Airport,13.5024995804,7.1267499924,1240,NE
+2125,DRRN,medium_airport,Diori Hamani International Airport,13.4814996719,2.1836099625,732,NE
+2126,DRRT,medium_airport,Tahoua Airport,14.8756999969,5.2653598785,1266,NE
+2127,DRZA,medium_airport,Mano Dayak International Airport,16.9659996033,8.0001096725,1657,NE
+2128,DRZD,small_airport,Dirkou Airport,18.9687004089,12.8687000275,1273,NE
+2129,DRZF,small_airport,Diffa Airport,13.3729000092,12.6267004013,994,NE
+2130,DRZR,medium_airport,Zinder Airport,13.7790002823,8.9837598801,1516,NE
+2135,DTTD,medium_airport,Remada Air Base,32.3061981201,10.3821001053,1004,TN
+2137,DTTG,medium_airport,Gab�s Matmata International Airport,33.8768997192,10.1033000946,26,TN
+2139,DTTJ,medium_airport,Djerba Zarzis International Airport,33.875,10.7755002975,19,TN
+2140,DTTR,medium_airport,El Borma Airport,31.7042999268,9.2546195984,827,TN
+2142,DTTZ,medium_airport,Tozeur Nefta International Airport,33.9397010803,8.1105604172,287,TN
+2143,DXNG,medium_airport,Niamtougou International Airport,9.7673301697,1.0912499428,1515,TG
+2144,DXXX,medium_airport,Lom�-Tokoin Airport,6.1656098366,1.2545100451,72,TG
+2145,DA10,small_airport,Illizi Airport,26.573600769,8.4836597443,1778,DZ
+2146,DA11,small_airport,Hamaguir Airport,30.8789997101,-3.0677499771,2454,DZ
+2147,DA12,small_airport,El Abiodh Sidi Cheikh Airport,32.8984985352,0.5246940255,2965,DZ
+2148,DA13,small_airport,Tinfouchy Airport,28.8792991638,-5.8228998184,1804,DZ
+2151,DA16,small_airport,Tindouf East Airport,27.585899353,-7.5001101494,1425,DZ
+2354,HE11,small_airport,Badr El Din Airport,29.8743991852,27.9405994415,-62,EG
+2357,HE14,small_airport,Ras Banas Airport,23.9741001129,35.4603004456,100,EG
+2358,HE17,small_airport,Bir Abu Rahal Airport,24.9943008423,33.5009994507,995,EG
+2359,HE18,small_airport,Habata Airport,31.1075000763,25.4521007538,670,EG
+2360,HE19,small_airport,As Sallum Airport,31.4573001862,25.283700943,85,EG
+2364,HE23,small_airport,Daraw Airport,24.4158000946,32.9557991028,325,EG
+2366,HE25,small_airport,El Minya Airport,28.1012992859,30.7303009033,121,EG
+2367,HE27,small_airport,Uthman Air Base,29.5552005768,25.5890007019,460,EG
+2368,HE28,small_airport,Gebel El Basur Airport,30.5405006409,30.5601997375,85,EG
+2370,HE30,small_airport,Kom Awshim Airport,29.5541000366,30.8950996399,,EG
+2371,HE31,small_airport,Malan Frein Airport,29.8111000061,28.547700882,206,EG
+2373,HE33,small_airport,Deir El Gill Airport,30.7320995331,27.0191993713,740,EG
+2378,HE38,small_airport,Wadi Abu Rish Airport,28.9757003784,31.6989002228,1092,EG
+2380,HE40,small_airport,Sidi Barrani Airport,31.4666004181,25.8780002594,320,EG
+2381,HE41,small_airport,Misheifa Airport,31.0286006927,25.8511009216,740,EG
+2767,FAAB,medium_airport,Alexander Bay Airport,-28.5750007629,16.5333003998,98,ZA
+2768,FAAG,medium_airport,Aggeneys Airport,-29.2817993164,18.8138999939,2648,ZA
+2769,FAAL,small_airport,Alldays Airport,-22.6790008545,29.0555000305,2600,ZA
+2770,FABB,small_airport,Brakpan Airport,-26.2385997772,28.3017997742,5300,ZA
+2771,FABE,medium_airport,Bisho Airport,-32.8970985413,27.2791004181,1950,ZA
+2772,FABL,medium_airport,J B M Hertzog International Airport,-29.0926990509,26.302400589,4458,ZA
+2773,FABM,small_airport,Bethlehem Airport,-28.2483997345,28.3360996246,5561,ZA
+2774,FABO,small_airport,Hendrik Potgieter Airport,-27.3668003082,26.6291999817,4236,ZA
+2775,FACT,large_airport,Cape Town International Airport,-33.9648017883,18.6016998291,151,ZA
+2776,FACV,small_airport,Calvinia Airport,-31.5002994537,19.72590065,3250,ZA
+2777,FADK,small_airport,Mubatuba Airport,-28.3684005737,32.2481002808,210,ZA
+2778,FADN,medium_airport,Durban International Airport,-29.9701004028,30.9505004883,33,ZA
+2779,FAEL,medium_airport,Ben Schoeman Airport,-33.0355987549,27.8258991241,435,ZA
+2780,FAEO,medium_airport,Ermelo Airport,-26.4955997467,29.9797992706,5700,ZA
+2781,FAFB,medium_airport,Ficksburg Sentraoes Airport,-28.8230991364,27.9088993073,5315,ZA
+2782,FAGC,medium_airport,Grand Central Airport,-25.9862995148,28.1401004791,5325,ZA
+2783,FAGG,large_airport,George Airport,-34.0055999756,22.378900528,648,ZA
+2784,FAGM,medium_airport,Rand Airport,-26.2425003052,28.1511993408,5483,ZA
+2785,FAGR,small_airport,Graaff Reinet Airport,-32.1935997009,24.5414009094,2604,ZA
+2786,FAGT,small_airport,Grahamstown Airport,-33.2846984863,26.4981002808,2135,ZA
+2787,FAGY,small_airport,Greytown Airport,-29.1219997406,30.5867004395,3531,ZA
+2788,FAHA,small_airport,Harmony Airport,-28.0786991119,26.8612003326,4399,ZA
+2789,FAHR,medium_airport,Harrismith Airport,-28.2350997925,29.1061992645,5585,ZA
+2790,FAHS,small_airport,Hoedspruit Air Force Base Airport,-24.3686008453,31.0487003326,1743,ZA
+2791,FAHV,small_airport,Gariep Dam Airport,-30.5622005463,25.5282993317,4176,ZA
+2792,FAJS,large_airport,OR Tambo International Airport,-26.1392002106,28.2460002899,5558,ZA
+2793,FAKD,medium_airport,P C Pelser Airport,-26.871099472,26.718000412,4444,ZA
+2794,FAKM,medium_airport,Kimberley Airport,-28.8027992249,24.7651996613,3950,ZA
+2795,FAKN,medium_airport,Kruger Mpumalanga International Airport,-25.3831996918,31.1056003571,2829,ZA
+2796,FAKR,small_airport,Krugersdorp Airport,-26.0809993744,27.7257003784,5499,ZA
+2797,FAKS,small_airport,Kroonstad Airport,-27.6606006622,27.3157997131,4700,ZA
+2798,FAKU,medium_airport,Johan Pienaar Airport,-27.4566993713,23.4113998413,4382,ZA
+2799,FAKZ,medium_airport,Kleinsee Airport,-29.6884002686,17.0939998627,270,ZA
+2800,FALA,medium_airport,Lanseria Airport,-25.9384994507,27.9260997772,4517,ZA
+2801,FALC,medium_airport,Lime Acres Finsch Mine Airport,-28.3600997925,23.4391002655,4900,ZA
+2802,FALI,small_airport,Lichtenburg Airport,-26.175699234,26.1846008301,4875,ZA
+2803,FALM,small_airport,Makhado Air Force Base Airport,-23.1599006653,29.6965007782,3069,ZA
+2804,FALO,small_airport,Louis Trichardt Airport,-23.0618991852,29.8647003174,3025,ZA
+2805,FALW,medium_airport,Langebaanweg Airport,-32.9688987732,18.1602993011,108,ZA
+2806,FALY,medium_airport,Ladysmith Airport,-28.5816993713,29.7497005463,3548,ZA
+2807,FAMB,small_airport,Middelburg Airport,-25.6847991943,29.4402008057,4886,ZA
+2808,FAMD,medium_airport,Malamala Airport,-24.8180999756,31.5445995331,1124,ZA
+2809,FAMG,medium_airport,Margate Airport,-30.8574008942,30.343000412,495,ZA
+2810,FAMI,small_airport,Marble Hall Airport,-24.9890995026,29.2831001282,2980,ZA
+2811,FAMJ,small_airport,Majuba Power Station Airport,-27.0792999268,29.7784996033,5600,ZA
+2812,FAMM,medium_airport,Mmabatho International Airport,-25.7984008789,25.5480003357,4181,ZA
+2813,FAMN,medium_airport,Riverside Airport,-25.4300003052,31.5767002106,1024,ZA
+2814,FAMS,medium_airport,Morningside Farm Airport,-25.7045001984,26.9090003967,4251,ZA
+2815,FAMU,medium_airport,Mkuze Airport,-27.6261005402,32.0443000793,400,ZA
+2816,FANC,medium_airport,Newcastle Airport,-27.7705993652,29.9769001007,4074,ZA
+2817,FANY,small_airport,Nylstroom Airfield,-24.6861000061,28.4349002838,3900,ZA
+2818,FAOB,small_airport,Overberg Airport,-34.554901123,20.2506999969,52,ZA
+2819,FAOH,medium_airport,Oudtshoorn Airport,-33.6069984436,22.188999176,1063,ZA
+2820,FAPE,medium_airport,Port Elizabeth Airport,-33.9849014282,25.6173000336,226,ZA
+2821,FAPG,medium_airport,Plettenberg Bay Airport,-34.0903015137,23.3278007507,465,ZA
+2822,FAPH,medium_airport,Hendrik Van Eck Airport,-23.9372005463,31.1553993225,1432,ZA
+2823,FAPI,medium_airport,Pietersburg Municipal Airport,-23.9260997772,29.4843997955,4354,ZA
+2824,FAPJ,medium_airport,Port St Johns Airport,-31.6058998108,29.5198001862,1227,ZA
+2825,FAPM,medium_airport,Pietermaritzburg Airport,-29.6490001678,30.3987007141,2423,ZA
+2826,FAPN,small_airport,Pilanesberg International Airport,-25.3337993622,27.1734008789,3412,ZA
+2827,FAPP,medium_airport,Polokwane International Airport,-23.8453006744,29.4585990906,4076,ZA
+2828,FAPS,medium_airport,Potchefstroom Airport,-26.670999527,27.0818996429,4520,ZA
+2829,FAPY,small_airport,Parys Airport,-26.8892993927,27.5034008026,4740,ZA
+2830,FAQT,medium_airport,Queenstown Airport,-31.9202003479,26.8822002411,3637,ZA
+2831,FARB,medium_airport,Richards Bay Airport,-28.7409992218,32.0920982361,109,ZA
+2832,FARG,medium_airport,Rustenburg Airport,-25.6443004608,27.2710990906,3700,ZA
+2833,FARS,medium_airport,Robertson Airport,-33.8121986389,19.9027996063,640,ZA
+2834,FASB,medium_airport,Springbok Airport,-29.6893005371,17.9395999908,2690,ZA
+2835,FASC,medium_airport,Secunda Airport,-26.52409935,29.1700992584,5250,ZA
+2836,FASD,medium_airport,Saldanha /Vredenburg Airport,-32.964099884,17.9692993164,50,ZA
+2837,FASI,medium_airport,Springs Airfield,-26.2483997345,28.3974990845,5340,ZA
+2838,FASK,small_airport,Swartkop Airport,-25.8097000122,28.1646003723,4780,ZA
+2839,FASS,medium_airport,Sishen Airport,-27.6485996246,22.9993000031,3848,ZA
+2840,FASX,small_airport,Hendrik Swellengrebel Airport,-34.0481987,20.4745998383,407,ZA
+2841,FASZ,medium_airport,Skukuza Airport,-24.960899353,31.5886993408,1020,ZA
+2842,FATF,small_airport,Tommys Field Airport,-28.2600002289,22.9932003021,4360,ZA
+2843,FATP,small_airport,New Tempe Airport,-29.0328998566,26.1576004028,4547,ZA
+2844,FATT,small_airport,Tutuka Power Station Airport,-26.776599884,29.3388004303,5313,ZA
+2845,FATZ,medium_airport,Tzaneen Airport,-23.8243999481,30.3292999268,1914,ZA
+2846,FAUL,medium_airport,Prince Mangosuthu Buthelezi Airport,-28.3206005096,31.4165000916,1720,ZA
+2847,FAUP,medium_airport,Pierre Van Ryneveld Airport,-28.39909935,21.2602005005,2782,ZA
+2848,FAUT,medium_airport,K. D. Matanzima Airport,-31.5478992462,28.6742992401,2400,ZA
+2849,FAVB,medium_airport,Vryburg Airport,-26.9824008942,24.7287998199,3920,ZA
+2850,FAVG,medium_airport,Virginia Airport,-29.7705993652,31.0583992004,20,ZA
+2851,FAVM,small_airport,Venetia Airport,-22.4480991364,29.3376998901,2333,ZA
+2852,FAVR,medium_airport,Vredendal Airport,-31.6410007477,18.5447998047,330,ZA
+2853,FAVV,medium_airport,Vereeniging Airport,-26.566400528,27.9608001709,4846,ZA
+2854,FAWB,medium_airport,Wonderboom Airport,-25.6539001465,28.224199295,4095,ZA
+2855,FAWI,small_airport,Witbank Airport,-25.8323001862,29.1919994354,5078,ZA
+2856,FAWK,medium_airport,Waterkloof Air Force Base Airport,-25.8299999237,28.2224998474,4940,ZA
+2857,FAWM,medium_airport,Welkom Airport,-27.9979991913,26.6695995331,4399,ZA
+2858,FAYP,medium_airport,Ysterplaat Air Force Base,-33.9001998901,18.4983005524,52,ZA
+2859,FAZR,small_airport,Zeerust Airport,-25.5990009308,26.0422992706,4258,ZA
+2860,FBFT,medium_airport,Francistown Airport,-21.1595993042,27.4745006561,3283,BW
+2861,FBJW,medium_airport,Jwaneng Airport,-24.6023006439,24.6909999847,3900,BW
+2862,FBKE,medium_airport,Kasane Airport,-17.8328990936,25.162399292,3289,BW
+2863,FBMN,medium_airport,Maun Airport,-19.9726009369,23.4311008453,3093,BW
+2864,FBSK,medium_airport,Sir Seretse Khama International Airport,-24.5552005768,25.9181995392,3299,BW
+2865,FBSN,medium_airport,Sua Pan Airport,-20.5534000397,26.1158008575,2985,BW
+2866,FBSP,medium_airport,Selebi Phikwe Airport,-22.0583000183,27.8288002014,2925,BW
+2867,FBTP,small_airport,Thebephatshwa Airport,-24.2210998535,25.3472995758,3750,BW
+2868,FCBB,medium_airport,Maya-Maya Airport,-4.2516999245,15.2530002594,1048,CG
+2869,FCOO,medium_airport,Owando Airport,-0.5313500166,15.9500999451,1214,CG
+2870,FCOU,medium_airport,Ouesso Airport,1.6159900427,16.0379009247,1158,CG
+2871,FCPP,medium_airport,Pointe Noire Airport,-4.8160300255,11.8865995407,55,CG
+2872,FDMS,medium_airport,Matsapha Airport,-26.5289993286,31.3075008392,2075,SZ
+2873,FEFF,medium_airport,Bangui M'Poko International Airport,4.3984799385,18.5188007355,1208,CF
+2874,FEFT,medium_airport,Berb�rati Airport,4.2215800285,15.7863998413,1929,CF
+2875,FGBT,medium_airport,Bata Airport,1.9054700136,9.805680275,13,GQ
+2876,FGSL,medium_airport,Malabo Airport,3.7552700043,8.7087202072,76,GQ
+2881,FKKC,medium_airport,Tiko Airport,4.0891900063,9.3605298996,151,CM
+2882,FKKD,medium_airport,Douala International Airport,4.0060801506,9.7194795609,33,CM
+2883,FKKL,medium_airport,Salak Airport,10.4513998032,14.257399559,1390,CM
+2884,FKKM,medium_airport,Foumban Nkounja Airport,5.6369199753,10.7508001328,3963,CM
+2885,FKKN,medium_airport,N'Gaound�r� Airport,7.3570098877,13.5592002869,3655,CM
+2886,FKKR,medium_airport,Garoua International Airport,9.3358898163,13.3701000214,794,CM
+2887,FKKU,medium_airport,Bafoussam Airport,5.5369200707,10.3545999527,4347,CM
+2888,FKKV,medium_airport,Bamenda Airport,6.0392398834,10.1225996017,4065,CM
+2889,FKKY,medium_airport,Yaound� Airport,3.83604002,11.5235004425,2464,CM
+2890,FKYS,medium_airport,Yaound� Nsimalen International Airport,3.7225599289,11.5532999039,2278,CM
+2891,FLKE,medium_airport,Kasompe Airport,-12.5727996826,27.8938999176,4636,ZM
+2892,FLLC,medium_airport,Lusaka City Airport,-15.4138002396,28.3306999207,4200,ZM
+2893,FLLI,medium_airport,Livingstone Airport,-17.8218002319,25.8227005005,3302,ZM
+2894,FLLS,medium_airport,Lusaka International Airport,-15.3308000565,28.4526004791,3779,ZM
+2895,FLMF,medium_airport,Mfuwe Airport,-13.2588996887,31.9365997314,1853,ZM
+2896,FLMG,medium_airport,Mongu Airport,-15.2545003891,23.1623001099,3488,ZM
+2897,FLND,medium_airport,Ndola Airport,-12.9981002808,28.664899826,4167,ZM
+2898,FLSO,medium_airport,Southdowns Airport,-12.9005002975,28.1499004364,4145,ZM
+2901,FMCH,medium_airport,Prince Said Ibrahim International Airport,-11.5336999893,43.271900177,93,KM
+2902,FMCI,medium_airport,Moh�li Bandar Es Eslam Airport,-12.2981004715,43.7663993835,46,KM
+2903,FMCV,medium_airport,Ouani Airport,-12.1316995621,44.4303016663,62,KM
+2904,FMCZ,medium_airport,Dzaoudzi Pamandzi International Airport,-12.8046998978,45.2811012268,23,YT
+2907,FMMA,small_airport,Antananarivo Arivonimamo Airport,-19.0289993286,47.1717987061,4757,MG
+2908,FMMI,medium_airport,Ivato Airport,-18.7968997955,47.4788017273,4198,MG
+2909,FMMN,medium_airport,Miandrivazo Airport,-19.5627994537,45.4508018494,203,MG
+2910,FMMS,medium_airport,Sainte Marie Airport,-17.0939006805,49.8157997131,7,MG
+2911,FMMT,medium_airport,Toamasina Airport,-18.109500885,49.3925018311,22,MG
+2912,FMMV,medium_airport,Morondava Airport,-20.2847003937,44.3176002502,30,MG
+2913,FMNA,medium_airport,Arrachart Airport,-12.3493995667,49.2916984558,374,MG
+2914,FMNC,medium_airport,Mananara Nord Airport,-16.1639003754,49.7737998962,9,MG
+2915,FMND,medium_airport,Andapa Airport,-14.6517000198,49.6206016541,1552,MG
+2916,FMNE,small_airport,Ambilobe Airport,-13.1884002686,48.9879989624,72,MG
+2917,FMNH,medium_airport,Antsirabato Airport,-14.9994001389,50.3202018738,20,MG
+2918,FMNL,medium_airport,Analalava Airport,-14.629699707,47.7638015747,345,MG
+2919,FMNM,medium_airport,Amborovy Airport,-15.6668417421,46.3512325287,87,MG
+2920,FMNN,medium_airport,Fascene Airport,-13.3121004105,48.3148002625,36,MG
+2921,FMNQ,medium_airport,Besalampy Airport,-16.7445302965,44.4824838638,125,MG
+2922,FMNR,medium_airport,Maroantsetra Airport,-15.4366998672,49.6883010864,13,MG
+2923,FMNS,medium_airport,Sambava Airport,-14.2785997391,50.1747016907,20,MG
+2924,FMNV,medium_airport,Vohimarina Airport,-13.3758001328,50.0027999878,19,MG
+2925,FMNW,medium_airport,Ambalabe Airport,-14.8987998962,47.9939002991,92,MG
+2926,FMNZ,small_airport,Ampampamena Airport,-13.4848003387,48.6327018738,49,MG
+2927,FMSD,medium_airport,T�lanaro Airport,-25.0380992889,46.9561004639,29,MG
+2928,FMSF,medium_airport,Fianarantsoa Airport,-21.4416007996,47.1116981506,3658,MG
+2929,FMSG,small_airport,Farafangana Airport,-22.8052997589,47.8205986023,26,MG
+2930,FMSK,medium_airport,Manakara Airport,-22.1196994781,48.0217018127,33,MG
+2931,FMSM,medium_airport,Mananjary Airport,-21.2017993927,48.3582992554,20,MG
+2932,FMSR,medium_airport,Morombe Airport,-21.753900528,43.3754997253,16,MG
+2933,FMST,medium_airport,Toliara Airport,-23.3833999634,43.7285003662,29,MG
+2934,FNBC,medium_airport,Mbanza Congo Airport,-6.2698998451,14.2469997406,1860,AO
+2935,FNBG,medium_airport,Benguela Airport,-12.609000206,13.4036998749,118,AO
+2936,FNCA,medium_airport,Cabinda Airport,-5.5969901085,12.1884002686,66,AO
+2937,FNDU,medium_airport,Dundo Airport,-7.4008898735,20.8185005188,2451,AO
+2938,FNGI,medium_airport,Ngjiva Pereira Airport,-17.0435009003,15.6837997437,3566,AO
+2939,FNHU,medium_airport,Nova Lisboa Airport,-12.8088998795,15.7604999542,5587,AO
+2940,FNKU,medium_airport,Kuito Airport,-12.4046001434,16.9473991394,5618,AO
+2941,FNLB,small_airport,Lobito Airport,-12.3711996078,13.5366001129,10,AO
+2942,FNLU,medium_airport,Quatro De Fevereiro Airport,-8.8583698273,13.2312002182,243,AO
+2943,FNLZ,small_airport,Luzamba Airport,-9.1159601212,18.0492992401,2904,AO
+2944,FNMA,medium_airport,Malanje Airport,-9.5250902176,16.3124008179,3868,AO
+2945,FNME,medium_airport,Menongue Airport,-14.6576004028,17.7198009491,4469,AO
+2946,FNMO,medium_airport,Namibe Airport,-15.2611999512,12.1468000412,210,AO
+2947,FNNG,medium_airport,Negage Airport,-7.7545099258,15.2876996994,4105,AO
+2948,FNPA,medium_airport,Porto Amboim Airport,-10.7220001221,13.7655000687,16,AO
+2949,FNSA,medium_airport,Saurimo Airport,-9.6890697479,20.4319000244,3584,AO
+2950,FNSO,medium_airport,Soyo Airport,-6.1410899162,12.3718004227,15,AO
+2951,FNSU,medium_airport,Sumbe Airport,-11.1679000854,13.8474998474,36,AO
+2952,FNUB,medium_airport,Lubango Airport,-14.9246997833,13.5749998093,5778,AO
+2953,FNUE,medium_airport,Luena Airport,-11.7680997849,19.8976993561,4360,AO
+2954,FNUG,medium_airport,Uige Airport,-7.6030697823,15.0277996063,2720,AO
+2955,FNXA,medium_airport,Xangongo Airport,-16.755399704,14.9652996063,3635,AO
+2956,FNZG,small_airport,Nzagi Airport,-7.7169399262,21.3582000732,2431,AO
+2957,FOGK,medium_airport,Koulamoutou Airport,-1.1846100092,12.4413003922,1070,GA
+2958,FOGM,medium_airport,Mouilla Ville Airport,-1.8451399803,11.0566997528,295,GA
+2959,FOGO,medium_airport,Oyem Airport,1.543110013,11.5813999176,2158,GA
+2960,FOGQ,medium_airport,Okondja Airport,-0.6652140021,13.6731004715,1325,GA
+2961,FOGR,medium_airport,Lambarene Airport,-0.7043889761,10.2456998825,82,GA
+2962,FOOB,medium_airport,Bitam Airport,2.0756399632,11.4932003021,1969,GA
+2963,FOOG,medium_airport,Port Gentil Airport,-0.7117390037,8.7543802261,13,GA
+2964,FOOH,medium_airport,Omboue Hopital Airport,-1.5747300386,9.2626895905,33,GA
+2965,FOOK,medium_airport,Makokou Airport,0.5792109966,12.8908996582,1726,GA
+2966,FOOL,medium_airport,Leon M Ba Airport,0.4586000144,9.4122800827,39,GA
+2967,FOON,medium_airport,M'Vengue El Hadj Omar Bongo Ondimba International Airport,-1.656159997,13.4379997253,1450,GA
+2968,FPPR,medium_airport,Principe Airport,1.6629400253,7.4117398262,591,ST
+2969,FPST,medium_airport,S�o Tom� International Airport,0.3781749904,6.7121500969,33,ST
+2970,FQBR,medium_airport,Beira Airport,-19.7964000702,34.9076004028,33,MZ
+2971,FQCH,medium_airport,Chimoio Airport,-19.1513004303,33.4290008545,2287,MZ
+2972,FQIN,medium_airport,Inhambane Airport,-23.8763999939,35.4085006714,30,MZ
+2973,FQLC,medium_airport,Lichinga Airport,-13.2740001678,35.2663002014,4505,MZ
+2974,FQLU,small_airport,Lumbo Airport,-15.0331001282,40.6716995239,33,MZ
+2975,FQMA,medium_airport,Maputo Airport,-25.9207992554,32.5726013184,145,MZ
+2976,FQMD,medium_airport,Mueda Airport,-11.6729001999,39.5630989075,2789,MZ
+2977,FQMP,medium_airport,Moc�mboa da Praia Airport,-11.3618001938,40.3549003601,89,MZ
+2978,FQMR,small_airport,Marrupa Airport,-13.2250995636,37.5521011353,2480,MZ
+2979,FQNC,small_airport,Nacala Airport,-14.4882001877,40.7122001648,410,MZ
+2980,FQNP,medium_airport,Nampula Airport,-15.1056003571,39.2817993164,1444,MZ
+2981,FQPB,medium_airport,Pemba Airport,-12.9917621613,40.5240135193,331,MZ
+2982,FQQL,medium_airport,Quelimane Airport,-17.8554992676,36.8690986633,36,MZ
+2983,FQSG,small_airport,Songo Airport,-15.6027002335,32.7732009888,2904,MZ
+2984,FQTT,medium_airport,Chingozi Airport,-16.1047992706,33.6402015686,525,MZ
+2985,FQUG,small_airport,Ulongwe Airport,-14.7046003342,34.3524017334,4265,MZ
+2986,FQVL,medium_airport,Vilankulo Airport,-22.0184001923,35.3133010864,46,MZ
+2991,FSAS,small_airport,Assumption Island Airport,-9.74222,46.506802,10,SC
+2992,FSFA,small_airport,Farquhar Airport,-10.1096,51.176102,10,SC
+2996,FTTC,medium_airport,Abeche Airport,13.8470001221,20.8442993164,1788,TD
+2997,FTTD,medium_airport,Moundou Airport,8.6244096756,16.0713996887,1407,TD
+2998,FTTJ,medium_airport,N'Djamena International Airport,12.1337003708,15.0340003967,968,TD
+2999,FTTY,medium_airport,Faya Largeau Airport,17.9171009064,19.1110992432,771,TD
+3000,FVBU,medium_airport,Joshua Mqabuko Nkomo International Airport,-20.0174007416,28.6179008484,4359,ZW
+3001,FVCN,small_airport,Centenary Airport,-16.7341003418,31.1219997406,4058,ZW
+3002,FVCP,small_airport,Charles Prince Airport,-17.7516002655,30.9246997833,4845,ZW
+3003,FVCZ,medium_airport,Buffalo Range Airport,-21.0081005096,31.5785999298,1421,ZW
+3004,FVFA,medium_airport,Victoria Falls International Airport,-18.0958995819,25.8390007019,3490,ZW
+3005,FVHA,medium_airport,Harare International Airport,-17.9318008423,31.0928001404,4887,ZW
+3006,FVKB,medium_airport,Kariba International Airport,-16.5198001862,28.8850002289,1706,ZW
+3007,FVMD,small_airport,Mount Darwin Airport,-16.7691993713,31.5597991943,3240,ZW
+3008,FVMT,medium_airport,Mutoko Airport,-17.4319000244,32.1845016479,3950,ZW
+3009,FVMU,small_airport,Mutare Airport,-18.9974994659,32.6272010803,3410,ZW
+3010,FVMV,medium_airport,Masvingo International Airport,-20.0552997589,30.8591003418,3595,ZW
+3011,FVOT,small_airport,Kotwa Airport,-16.9848003387,32.6726989746,2450,ZW
+3012,FVSH,small_airport,Zvishavane Airport,-20.2894992828,30.0881996155,3012,ZW
+3013,FVTL,medium_airport,Thornhill Air Base,-19.4363994598,29.8619003296,4680,ZW
+3014,FVWN,medium_airport,Hwange National Park Airport,-18.6298999786,27.0209999084,3543,ZW
+3015,FWCL,medium_airport,Chileka International Airport,-15.6791000366,34.9739990234,2555,MW
+3016,FWKA,medium_airport,Karonga Airport,-9.9535703659,33.8930015564,1765,MW
+3017,FWKG,small_airport,Kasungu Airport,-13.0145998001,33.4686012268,3470,MW
+3018,FWKI,medium_airport,Lilongwe International Airport,-13.7894001007,33.78099823,4035,MW
+3019,FWLE,small_airport,Lilongwe Airport,-13.9659996033,33.7018013,3722,MW
+3020,FWUU,medium_airport,Mzuzu Airport,-11.4447002411,34.0117988586,4115,MW
+3021,FWZA,small_airport,Zomba Airport,-15.3853998184,35.3844985962,2650,MW
+3022,FXMM,medium_airport,Moshoeshoe I International Airport,-29.4622993469,27.5524997711,5348,LS
+3023,FXMU,small_airport,Mejametalana Airbase,-29.3041000366,27.5034999847,5105,LS
+3024,FYAR,medium_airport,Arandis Airport,-22.4622001648,14.9799995422,1905,NA
+3025,FYEN,small_airport,Eenhana Airport,-17.4829998016,16.3220005035,3660,NA
+3026,FYGF,medium_airport,Grootfontein Airport,-19.6021995544,18.1226997375,4636,NA
+3027,FYKM,small_airport,Katima Mulilo Airport,-17.6343994141,24.176700592,3144,NA
+3028,FYKT,medium_airport,Keetmanshoop Airport,-26.5398006439,18.1114006042,3506,NA
+3029,FYLZ,medium_airport,Luderitz Airport,-26.6874008179,15.2428998947,457,NA
+3030,FYML,medium_airport,Mariental Airport,-24.6054000854,17.9253997803,3650,NA
+3031,FYOA,medium_airport,Ondangwa Airport,-17.878200531,15.9525995255,3599,NA
+3032,FYOG,medium_airport,Oranjemund Airport,-28.5846996307,16.4466991425,14,NA
+3033,FYRC,small_airport,Ruacana Airport,-17.4206008911,14.3717002869,3765,NA
+3034,FYRP,small_airport,Rosh Pinah Airport,-27.9643001556,16.753900528,1274,NA
+3035,FYRU,medium_airport,Rundu Airport,-17.9564990997,19.7194004059,3627,NA
+3036,FYTM,medium_airport,Tsumeb Airport,-19.2618999481,17.7325000763,4353,NA
+3037,FYWB,medium_airport,Walvis Bay Airport,-22.9799003601,14.6452999115,299,NA
+3038,FYWE,medium_airport,Eros Airport,-22.6121997833,17.0804004669,5575,NA
+3039,FYWH,medium_airport,Hosea Kutako International Airport,-22.4799003601,17.4708995819,5640,NA
+3040,FZAA,medium_airport,Ndjili International Airport,-4.3857498169,15.4446001053,1027,CD
+3041,FZAB,medium_airport,Ndolo Airport,-4.3266601563,15.3275003433,915,CD
+3042,FZAG,small_airport,Muanda Airport,-5.9308600426,12.3517999649,89,CD
+3043,FZAI,small_airport,Kitona Base Airport,-5.9180598259,12.4476995468,394,CD
+3044,FZBO,medium_airport,Bandundu Airport,-3.3113200665,17.3817005157,1063,CD
+3045,FZCA,medium_airport,Kikwit Airport,-5.0357699394,18.7856006622,1572,CD
+3046,FZEA,medium_airport,Mbandaka Airport,0.0226000007,18.2887001038,1040,CD
+3047,FZFD,medium_airport,Gbadolite Airport,4.2532100677,20.9752998352,1509,CD
+3048,FZFK,medium_airport,Gemena Airport,3.2353699207,19.7712993622,1378,CD
+3049,FZFP,small_airport,Kotakoli Airport,4.1576399803,21.6508998871,1801,CD
+3050,FZGA,medium_airport,Lisala Airport,2.1706600189,21.4969005585,1509,CD
+3051,FZIA,small_airport,Kisangani Simisini Airport,0.5174999833,25.1550006866,1289,CD
+3052,FZIC,medium_airport,Bangoka International Airport,0.4816389978,25.3379993439,1417,CD
+3053,FZJH,medium_airport,Matari Airport,2.8276100159,27.588300705,2438,CD
+3054,FZKA,medium_airport,Bunia Airport,1.5657199621,30.2208003998,4045,CD
+3055,FZKJ,medium_airport,Buta Zega Airport,2.8183500767,24.7936992645,1378,CD
+3056,FZMA,medium_airport,Bukavu Kavumu Airport,-2.3089799881,28.8087997437,5643,CD
+3057,FZNA,medium_airport,Goma International Airport,-1.6708099842,29.2385005951,5089,CD
+3058,FZOA,medium_airport,Kindu Airport,-2.9191799164,25.9153995514,1630,CD
+3059,FZQA,medium_airport,Lubumbashi International Airport,-11.5913000107,27.5308990479,4295,CD
+3060,FZQM,medium_airport,Kolwezi Airport,-10.7658996582,25.5056991577,5007,CD
+3061,FZRF,medium_airport,Kalemie Airport,-5.8755598068,29.25,2569,CD
+3062,FZSA,medium_airport,Kamina Base Airport,-8.6420202255,25.2528991699,3543,CD
+3063,FZUA,medium_airport,Kananga Airport,-5.9000501633,22.4692001343,2139,CD
+3064,FZWA,medium_airport,Mbuji Mayi Airport,-6.121240139,23.5690002441,2221,CD
+3066,GABS,medium_airport,Senou Airport,12.5334997177,-7.9499402046,1247,ML
+3067,GAGO,medium_airport,Gao Airport,16.2483997345,-0.0054560001,870,ML
+3068,GAKY,medium_airport,Kayes Dag Dag Airport,14.4812002182,-11.4043998718,164,ML
+3069,GAMB,medium_airport,Ambodedjo Airport,14.5128002167,-4.079559803,906,ML
+3070,GASO,small_airport,Dignangan Airport,11.5979995728,-5.7997097969,1301,ML
+3071,GATB,medium_airport,Timbuktu Airport,16.7304992676,-3.0075800419,863,ML
+3072,GATS,small_airport,Tessalit Airport,20.2430000305,0.9773079753,1621,ML
+3076,GBYD,medium_airport,Banjul International Airport,13.3380002975,-16.6522006989,95,GM
+3077,GCFV,medium_airport,Fuerteventura Airport,28.4526996613,-13.8638000488,85,ES
+3078,GCGM,small_airport,La Gomera Airport,28.0296001434,-17.2145996094,716,ES
+3079,GCHI,medium_airport,Hierro Airport,27.8148002625,-17.8871002197,103,ES
+3080,GCLA,medium_airport,La Palma Airport,28.626499176,-17.7555999756,107,ES
+3081,GCLP,large_airport,Gran Canaria Airport,27.9319000244,-15.3865995407,78,ES
+3082,GCRR,medium_airport,Lanzarote Airport,28.9454994202,-13.6051998138,46,ES
+3083,GCTS,large_airport,Tenerife South Airport,28.044500351,-16.5725002289,209,ES
+3084,GCXO,large_airport,Tenerife Norte Airport,28.4827003479,-16.3414993286,2076,ES
+3095,GFLL,medium_airport,Lungi International Airport,8.6164398193,-13.1955003738,84,SL
+3096,GGCF,small_airport,Cufar Airport,11.287899971,-15.1805000305,65,GW
+3097,GGOV,medium_airport,Osvaldo Vieira International Airport,11.8948001862,-15.6536998749,129,GW
+3098,GLMR,medium_airport,Spriggs Payne Airport,6.2890601158,-10.7587003708,25,LR
+3099,GLRB,medium_airport,Roberts International Airport,6.2337899208,-10.3622999191,31,LR
+3100,GMAA,small_airport,Inezgane Airport,30.3813991547,-9.5463104248,89,MA
+3101,GMAD,medium_airport,Al Massira Airport,30.3250007629,-9.413069725,250,MA
+3102,GMAT,medium_airport,Tan Tan Airport,28.4482002258,-11.1612997055,653,MA
+3103,GMFF,medium_airport,Sa�ss Airport,33.9272994995,-4.9779601097,1900,MA
+3104,GMFI,small_airport,Ifrane Airport,33.5052986145,-5.152900219,5459,MA
+3105,GMFK,medium_airport,Moulay Ali Cherif Airport,31.9475002289,-4.3983302116,3428,MA
+3106,GMFM,medium_airport,Bassatine Airport,33.8791007996,-5.5151200294,1890,MA
+3107,GMFO,medium_airport,Angads Airport,34.7872009277,-1.9239900112,1535,MA
+3108,GMMA,medium_airport,Smara Airport,26.7318000793,-11.6847000122,350,EH
+3109,GMME,medium_airport,Rabat-Sal� Airport,34.0514984131,-6.7515201569,276,MA
+3110,GMMH,medium_airport,Dakhla Airport,23.7182998657,-15.9320001602,36,EH
+3111,GMMI,small_airport,Mogador Airport,31.3974990845,-9.6816701889,384,MA
+3112,GMML,medium_airport,Hassan I Airport,27.1516990662,-13.2192001343,207,EH
+3113,GMMN,large_airport,Mohammed V International Airport,33.3675003052,-7.5899701118,656,MA
+3115,GMMX,medium_airport,Menara Airport,31.6068992615,-8.0362997055,1545,MA
+3116,GMMY,medium_airport,Kenitra Airport,34.2989006042,-6.5958800316,16,MA
+3117,GMMZ,medium_airport,Ouarzazate Airport,30.9391002655,-6.909430027,3782,MA
+3118,GMSL,small_airport,Sidi Slimane Airport,34.2305984497,-6.050139904,179,MA
+3122,GOGG,medium_airport,Ziguinchor Airport,12.5556001663,-16.2817993164,75,SN
+3123,GOGS,medium_airport,Cap Skirring Airport,12.410200119,-16.746099472,52,SN
+3124,GOOK,medium_airport,Kaolack Airport,14.146900177,-16.0513000488,26,SN
+3125,GOOY,large_airport,L�opold S�dar Senghor International Airport,14.7397003174,-17.4902000427,85,SN
+3126,GOSS,medium_airport,Saint Louis Airport,16.0508003235,-16.4631996155,9,SN
+3127,GOTB,medium_airport,Bakel Airport,14.8472995758,-12.4682998657,98,SN
+3128,GOTK,medium_airport,K�dougou Airport,12.5722999573,-12.2202997208,584,SN
+3129,GOTT,medium_airport,Tambacounda Airport,13.7368001938,-13.6531000137,161,SN
+3130,GQNA,small_airport,Aioun el Atrouss Airport,16.7112998962,-9.6378803253,951,MR
+3131,GQND,small_airport,Tidjikja Airport,18.5701007843,-11.423500061,1363,MR
+3132,GQNF,small_airport,Kiffa Airport,16.5900001526,-11.4062004089,424,MR
+3133,GQNI,small_airport,N�ma Airport,16.6219997406,-7.3165998459,751,MR
+3134,GQNK,small_airport,Ka�di Airport,16.1595001221,-13.5075998306,66,MR
+3135,GQNN,medium_airport,Nouakchott International Airport,18.0981998444,-15.9484996796,13,MR
+3136,GQNS,small_airport,S�libaby Airport,15.1796998978,-12.2073001862,219,MR
+3137,GQPA,medium_airport,Atar International Airport,20.5067996979,-13.0431995392,734,MR
+3138,GQPP,medium_airport,Nouadhibou International Airport,20.9330997467,-17.0300006866,24,MR
+3139,GQPT,small_airport,Bir Moghrein Airport,25.236700058,-11.5887002945,1206,MR
+3146,GUCY,medium_airport,Conakry Airport,9.57689,-13.612,72,GN
+3147,GUFA,medium_airport,Fria Airport,10.3506002426,-13.5691995621,499,GN
+3148,GUFH,medium_airport,Faranah Airport,10.0354995728,-10.7698001862,1476,GN
+3149,GULB,medium_airport,Labe Airport,11.3261003494,-12.2868003845,3396,GN
+3150,GVAC,medium_airport,Am�lcar Cabral International Airport,16.741399765,-22.9493999481,177,CV
+3151,GVBA,medium_airport,Rabil Airport,16.1364994049,-22.8889007568,69,CV
+3152,GVMA,medium_airport,Maio Airport,15.1559000015,-23.2136993408,36,CV
+3153,GVNP,medium_airport,Praia International Airport,14.9245004654,-23.4934997559,230,CV
+3154,GVSN,medium_airport,Pregui�a Airport,16.5883998871,-24.2847003937,669,CV
+3155,GVSV,medium_airport,S�o Pedro Airport,16.8332004547,-25.0552997589,66,CV
+3156,GG64,small_airport,Quebo Airport,11.5355997086,-14.7622995377,165,GW
+3157,HAAB,medium_airport,Bole International Airport,8.9778900146,38.7993011475,7630,ET
+3158,HAAL,small_airport,Lideta Army Airport,9.0036802292,38.7260017395,7749,ET
+3159,HAAM,medium_airport,Arba Minch Airport,6.0393900871,37.5904998779,3901,ET
+3160,HAAX,medium_airport,Axum Airport,14.1468000412,38.7728004456,6959,ET
+3161,HABD,medium_airport,Bahir Dar Airport,11.6080999374,37.3216018677,5978,ET
+3162,HADR,medium_airport,Aba Tenna Dejazmach Yilma International Airport,9.6246995926,41.8541984558,3827,ET
+3163,HAGM,medium_airport,Gambella Airport,8.1287603378,34.5630989075,1614,ET
+3164,HAGN,medium_airport,Gonder Airport,12.519900322,37.4339981079,6449,ET
+3165,HAGO,medium_airport,Gode Airport,5.9351301193,43.5786018372,834,ET
+3166,HAJM,medium_airport,Jimma Airport,7.6660900116,36.8166007996,5500,ET
+3167,HALL,small_airport,Lalibella Airport,11.9750003815,38.9799995422,6506,ET
+3168,HAMK,medium_airport,Mekele Airport,13.4673995972,39.5335006714,7396,ET
+3169,HASO,medium_airport,Asosa Airport,10.0185003281,34.5862998962,5100,ET
+3170,HBBA,medium_airport,Bujumbura International Airport,-3.3240199089,29.3185005188,2582,BI
+3171,HCMH,medium_airport,Egal International Airport,9.5181703568,44.0887985229,4423,SO
+3172,HCMI,medium_airport,Berbera Airport,10.3892002106,44.9411010742,30,SO
+3173,HCMK,medium_airport,Kisimayu Airport,-0.3773530126,42.4592018127,49,SO
+3174,HDAM,medium_airport,Djibouti-Ambouli Airport,11.5473003387,43.1595001221,49,DJ
+3175,HEAL,medium_airport,El Alamein International Airport,30.9244995117,28.4613990784,143,EG
+3177,HEAT,medium_airport,Assiut International Airport,27.0464992523,31.0119991302,772,EG
+3178,HEAX,medium_airport,El Nouzha Airport,31.1839008331,29.9489002228,-6,EG
+3179,HEAZ,medium_airport,Almaza Air Force Base,30.0918006897,31.3600006104,300,EG
+3180,HEBA,medium_airport,Borg El Arab International Airport,30.9176998138,29.6963996887,177,EG
+3181,HEBL,medium_airport,Abu Simbel Airport,22.3759994507,31.611700058,616,EG
+3182,HEBS,medium_airport,Beni Suef Air Base,29.2082996368,31.0165996552,108,EG
+3183,HECA,large_airport,Cairo International Airport,30.1219005585,31.4055995941,382,EG
+3184,HECW,medium_airport,Cairo West Airport,30.116399765,30.9153995514,550,EG
+3185,HEDK,small_airport,Dakhla Airport,25.4116001129,29.0030994415,613,EG
+3189,HEGS,medium_airport,Jiyanklis Air Base,30.8197994232,30.1912002563,49,EG
+3190,HEKG,small_airport,El Kharga Airport,25.4736003876,30.5907001495,192,EG
+3191,HELX,medium_airport,Luxor International Airport,25.670999527,32.7066001892,294,EG
+3192,HEMA,medium_airport,Marsa Alam International Airport,25.557100296,34.5836982727,251,EG
+3193,HEMM,medium_airport,Mersa Matruh Airport,31.3253993988,27.2217006683,94,EG
+3194,HEOC,small_airport,October Airport,29.8120994568,30.8234004974,807,EG
+3195,HEOW,small_airport,Shark El Oweinat International Airport,22.5856990814,28.7166004181,859,EG
+3199,HESN,medium_airport,Aswan International Airport,23.9643993378,32.8199996948,662,EG
+3202,HHAS,medium_airport,Asmara International Airport,15.2918996811,38.9107017517,7661,ER
+3203,HHMS,medium_airport,Massawa International Airport,15.6700000763,39.370098114,194,ER
+3204,HHSB,medium_airport,Assab International Airport,13.0718002319,42.6450004578,46,ER
+3205,HKEL,medium_airport,Eldoret International Airport,0.4044579864,35.238899231,6941,KE
+3206,HKJK,large_airport,Jomo Kenyatta International Airport,-1.319239974,36.9277992249,5330,KE
+3207,HKKG,small_airport,Kakamega Airport,0.2713420093,34.7873001099,5020,KE
+3208,HKKI,medium_airport,Kisumu Airport,-0.086139001,34.7289009094,3734,KE
+3209,HKKT,medium_airport,Kitale Airport,0.971988976,34.9585990906,6070,KE
+3210,HKLK,medium_airport,Lokichoggio Airport,4.2041201591,34.3482017517,2074,KE
+3211,HKLO,medium_airport,Lodwar Airport,3.1219699383,35.6086997986,1715,KE
+3212,HKLU,medium_airport,Manda Airstrip,-2.2524199486,40.9131011963,20,KE
+3213,HKMO,large_airport,Mombasa Moi International Airport,-4.0348300934,39.5942001343,200,KE
+3214,HKNV,small_airport,Naivasha Airport,-0.7879530191,36.4334983826,6380,KE
+3215,HKNW,medium_airport,Nairobi Wilson Airport,-1.3217200041,36.8148002625,5536,KE
+3216,HKRE,medium_airport,Moi Air Base,-1.2772699594,36.8623008728,5336,KE
+3217,HKWJ,medium_airport,Wajir Airport,1.7332400084,40.0915985107,770,KE
+3218,HLFL,small_airport,Bu Attifel Airport,28.7954006195,22.0809001923,161,LY
+3219,HLGD,medium_airport,Gardabya Airport,31.0634994507,16.5949993134,267,LY
+3220,HLGL,small_airport,Warehouse 59e Airport,28.6385002136,21.4379997253,325,LY
+3221,HLGT,medium_airport,Ghat Airport,25.1455993652,10.1426000595,2296,LY
+3222,HLKF,medium_airport,Kufra Airport,24.1786994934,23.313999176,1367,LY
+3223,HLLB,medium_airport,Benina International Airport,32.0968017578,20.2695007324,433,LY
+3224,HLLM,medium_airport,Mitiga Airport,32.8941001892,13.2760000229,36,LY
+3225,HLLQ,medium_airport,La Abraq Airport,32.7887001038,21.9643001556,2157,LY
+3226,HLLS,medium_airport,Sabha Airport,26.9869995117,14.4724998474,1427,LY
+3227,HLLT,large_airport,Tripoli International Airport,32.6635017395,13.1590003967,263,LY
+3228,HLMB,medium_airport,Marsa Brega Airport,30.3780994415,19.5764007568,50,LY
+3229,HLNF,small_airport,Ras Lanuf Oil Airport,30.5,18.5272006989,42,LY
+3230,HLON,small_airport,Hon Airport,29.1100997925,15.9656000137,919,LY
+3231,HLRA,small_airport,Dahra Airport,29.4726009369,17.9349002838,1050,LY
+3232,HLTD,medium_airport,Ghadames East Airport,30.1516990662,9.7153100967,1122,LY
+3233,HLZA,small_airport,Zella 74 Airport,28.5898990631,17.2938995361,1085,LY
+3234,HLZW,small_airport,Zwara Airport,32.9523010254,12.0155000687,,LY
+3236,HRYG,medium_airport,Gisenyi Airport,-1.6771999598,29.2588996887,5082,RW
+3237,HRYR,medium_airport,Kigali International Airport,-1.9686299563,30.1394996643,4859,RW
+3238,HRZA,medium_airport,Kamembe Airport,-2.4622399807,28.9078998566,5192,RW
+3239,HSDN,medium_airport,Dongola Airport,19.1539001465,30.4300994873,772,SD
+3240,HSDZ,small_airport,Damazin Airport,11.785900116,34.3367004395,1582,SD
+3241,HSFS,medium_airport,El Fasher Airport,13.6148996353,25.3246002197,2393,SD
+3242,HSKA,medium_airport,Kassala Airport,15.3874998093,36.3288002014,1671,SD
+3243,HSLI,small_airport,Kadugli Airport,11.1379995346,29.7010993958,1848,SD
+3244,HSNN,small_airport,Nyala Airport,12.0535001755,24.956199646,2106,SD
+3245,HSOB,medium_airport,El Obeid Airport,13.1532001495,30.2327003479,1927,SD
+3246,HSPN,medium_airport,Port Sudan New International Airport,19.433599472,37.2341003418,135,SD
+3247,HSSJ,medium_airport,Juba Airport,4.872010231,31.6011009216,1513,SS
+3248,HSSM,medium_airport,Malakal Airport,9.5589704514,31.6522006989,1291,SS
+3249,HSSS,large_airport,Khartoum International Airport,15.5895004272,32.5531997681,1265,SD
+3250,HTAR,medium_airport,Arusha Airport,-3.3677899837,36.6333007813,4550,TZ
+3251,HTDA,medium_airport,Mwalimu Julius K. Nyerere International Airport,-6.8781099319,39.2025985718,182,TZ
+3252,HTDO,medium_airport,Dodoma Airport,-6.170440197,35.7526016235,3673,TZ
+3253,HTIR,medium_airport,Iringa Airport,-7.6686301231,35.7521018982,4678,TZ
+3254,HTKJ,medium_airport,Kilimanjaro International Airport,-3.4294099808,37.0745010376,2932,TZ
+3255,HTLM,medium_airport,Lake Manyara Airport,-3.3763101101,35.8182983398,4150,TZ
+3256,HTMT,medium_airport,Mtwara Airport,-10.339099884,40.1818008423,371,TZ
+3257,HTMW,medium_airport,Mwanza Airport,-2.4444899559,32.9327011108,3763,TZ
+3258,HTPE,medium_airport,Pemba Airport,-5.2572598457,39.8114013672,80,TZ
+3259,HTTG,medium_airport,Tanga Airport,-5.0923600197,39.0712013245,129,TZ
+3260,HTZA,medium_airport,Zanzibar Airport,-6.2220201492,39.224899292,54,TZ
+3262,HUAJ,small_airport,Adjumani Airport,3.3392300606,31.7646999359,2611,UG
+3263,HUEN,medium_airport,Entebbe International Airport,0.0423859991,32.4435005188,3782,UG
+3264,HUGU,medium_airport,Gulu Airport,2.805560112,32.2718009949,3510,UG
+3265,HUSO,medium_airport,Soroti Airport,1.7276899815,33.6227989197,3697,UG
+4452,LPMA,medium_airport,Madeira Airport,32.6978988647,-16.7744998932,192,PT
+4460,LPPS,medium_airport,Porto Santo Airport,33.0733985901,-16.3500003815,341,PT
+4576,HL50,small_airport,Zelten Sw New Airport,28.5870990753,19.3034000397,550,LY
+4579,HL53,small_airport,Sidi Salih Airport,32.4948005676,13.2901000977,490,LY
+4580,HL54,small_airport,Beni Walid Airport,31.739200592,13.954000473,985,LY
+4582,HL56,medium_airport,Matan al-Sarra Air Base,21.6877002716,21.8309001923,1722,LY
+4583,HL57,small_airport,Al Wigh Airport,24.1858997345,14.5327997208,1558,LY
+4584,HL58,small_airport,Agedabia Airport,30.7651004791,20.191400528,50,LY
+4585,HL59,small_airport,Al Khadim Airport,31.998500824,21.1917991638,800,LY
+4586,HL60,small_airport,Al Marj Airport,32.5252990723,20.8750991821,950,LY
+4588,HL62,small_airport,Zuetina Airport,30.8701992035,20.0755004883,16,LY
+4590,HL64,small_airport,Qaryat Al Karmal Airport,31.9757003784,20.0268993378,85,LY
+4592,HL66,small_airport,Taminhint Airport,27.2401008606,14.6562995911,1325,LY
+4594,HL68,medium_airport,Al Bumbah North Air Base,32.4528999329,23.1186008453,33,LY
+4595,HL69,small_airport,Al Jufra Airport,29.1980991364,16.0009994507,846,LY
+4596,HL70,small_airport,Al Khuwaymat Airport,27.2572994232,21.6180992126,500,LY
+4597,HL71,small_airport,Bir Umran Airport,26.3323993683,13.4221000671,1400,LY
+4598,HL72,small_airport,Waddan Airport,29.1392002106,16.1602993011,910,LY
+4602,HL77,medium_airport,Okba Ibn Nafa Air Base,32.473400116,11.8978996277,253,LY
+4603,HL78,small_airport,Habit Awlad Muhammad Airport,30.7019004822,12.484000206,2000,LY
+4604,HL79,small_airport,Waw Al Kabir Airport,25.3568000793,16.8099994659,1465,LY
+4605,HL80,small_airport,Matratin Airport,30.642999649,18.3208007813,100,LY
+4606,HL81,small_airport,Al Hamada Con 66 East Airport,29.5310993195,12.9436998367,2090,LY
+4607,HL82,small_airport,Wadi Buzanad Sw Airport,28.9619007111,17.5881004333,381,LY
+4608,HL83,small_airport,Nanur Airport,31.7052001953,14.9116001129,185,LY
+4609,HL84,small_airport,Sarir Nw Airport,27.9757003784,22.3574008942,330,LY
+4641,FM43,small_airport,Antsiranana Andrakaka Airport,-12.2560997009,49.2541999817,200,MG
+4684,GA1A,small_airport,Kayes Airport,14.4313001633,-11.4397001266,161,ML
+4685,ML-0001,small_airport,Manantali Bengassi Airport,13.2555999756,-10.5043001175,538,ML
+4955,FQ49,small_airport,Vila Franca do Save Airport,-21.1644992828,34.5606994629,98,MZ
+4965,DN50,small_airport,Shiroro Airport,9.8846502304,6.8186302185,1305,NG
+4966,DN51,small_airport,Ajaokuta Airport,7.4572401047,6.4611301422,620,NG
+4967,DN53,small_airport,Kaduna Old Airport,10.5988998413,7.4487099648,2126,NG
+4968,DN54,small_airport,Bajoga Northeast Airport,10.9198999405,11.5011997223,1000,NG
+4969,DN55,small_airport,Eket Airport,4.642179966,7.9490399361,42,NG
+4970,DN56,small_airport,Escravos Airport,5.6253199577,5.1923799515,6,NG
+4971,DN57,small_airport,Katsina Airport,13.0078001022,7.6604499817,1660,NG
+6196,GO66,small_airport,Dodji Airport,15.5438995361,-14.9582996368,66,SN
+6197,GODK,small_airport,Kolda North Airport,12.8985004425,-14.9680995941,33,SN
+6401,DT70,small_airport,Medenine Airport,33.3502006531,10.4440002441,427,TN
+27232,FV76,small_airport,Kwekwe East Airport,-19.010799408,30.0251998901,4025,ZW
+27233,FV77,small_airport,Mhangura Airport,-16.9101009369,30.2423000336,4078,ZW
+27277,FAAN,small_airport,Aliwal North Airport,-30.6800003052,26.7299995422,4405,ZA
+27278,FABW,small_airport,Beaufort West Airport,-32.2999992371,22.6700000763,2941,ZA
+27279,FABS,small_airport,Brits Airport,-25.5323009491,27.7758998871,3756,ZA
+27280,FACK,small_airport,Christiana Airport,-27.8777008057,25.2017993927,3978,ZA
+27281,FAEM,small_airport,Empangeni Airport,-28.7199993134,31.8899993896,251,ZA
+27282,FAFK,small_airport,Fisantekraal Airport,-33.7700004578,18.7399997711,410,ZA
+27283,FAGI,small_airport,Giyani Airport,-23.2833003998,30.6499996185,1584,ZA
+27284,FAHG,small_airport,Heidelburg Airport,-26.5100002289,28.3899993896,5089,ZA
+27285,FAHH,small_airport,Hibberdene Airport,-30.6299991608,30.5200004578,89,ZA
+27286,ZA-0003,small_airport,Koppies Airport,-27.25,27.5499992371,,ZA
+27287,FAKE,small_airport,Keimouth Airport,-32.7000007629,28.3500003815,222,ZA
+27288,FAKT,small_airport,Kitty Hawk Airport,-25.8600006104,28.4500007629,4619,ZA
+27289,FANS,small_airport,Nelspruit Airport,-25.5,30.9137992859,2875,ZA
+27290,FAPA,small_airport,Port Alfred Airport,-33.5541992188,26.8777008057,307,ZA
+27291,FAPZ,small_airport,Progress Airport,-33.9300003052,25.3700008392,748,ZA
+27292,FASJ,small_airport,Saffier Airport,-26.7600002289,27.7600002289,4700,ZA
+27294,FASR,small_airport,Standerton Airport,-26.9270000458,29.2099990845,5200,ZA
+27295,FASH,small_airport,Stellenbosch Airport,-33.9799995422,18.8199996948,295,ZA
+27296,FATR,small_airport,Trennery's Airport,-32.6385993958,28.4242992401,114,ZA
+27297,FAVP,small_airport,Vanderbijlpark Airport,-26.6902999878,27.7770996094,4861,ZA
+27298,FAWA,small_airport,Warmbaths Airport,-24.9099998474,28.2999992371,3655,ZA
+27299,FAWD,small_airport,Wolmeransstad Airport,-27.1700000763,25.9799995422,4513,ZA
+27300,BZB,medium_airport,Bazaruto Island Airport,-21.5410995483,35.4729003906,,MZ
+27301,BCW,medium_airport,Benguera Island Airport,-21.8533000946,35.4383010864,,MZ
+27302,IBL,medium_airport,Indigo Bay Lodge Airport,-21.7080001831,35.4528007507,,MZ
+27303,MZ-0004,small_airport,Magaruque Airport,-21.9672451019,35.4247283936,,MZ
+27304,MZ-0005,small_airport,Paradise Island Airport,-21.6149997711,35.3380012512,,MZ
+27305,FBXG,small_airport,Xugana Airport,-19.0499992371,23.0900001526,,BW
+27306,FBXB,small_airport,Xaxaba Airport,-19.5505008698,23.0548000336,3100,BW
+28119,HABC,small_airport,Baco Airport,5.7828698158,36.5620002747,,ET
+28145,HIL,small_airport,Shilavo Airport,6.0833301544,44.7667007446,1296,ET
+28480,HKES,small_airport,Eliye Springs Airport,3.2166700363,35.9667015076,1395,KE
+28481,HKAM,medium_airport,Amboseli Airport,-2.6450500488,37.2531013489,3755,KE
+28482,BMQ,small_airport,Bamburi Airport,-3.9819096237,39.7307682037,,KE
+28483,DITB,small_airport,Tabou Airport,4.4378094673,-7.3627281189,39,CI
+28485,HKNK,small_airport,Nakuru Airport,-0.2980670035,36.1593017578,6200,KE
+28486,FYGK,small_airport,Geluk Kuala Lodge Airport,-24.6299991608,15.9392004013,857,NA
+29533,NA-0001,small_airport,Afro Venture Airport,-24.8377990723,15.9069004059,2907,NA
+29534,FYAM,small_airport,Aminuis Airstrip,-23.6557998657,19.3516998291,4012,NA
+29535,NA-0002,small_airport,Aminuis Pan Landing Site,-23.6072006226,19.9158000946,4075,NA
+29536,NA-0003,small_airport,Anib Lodge Landing Site,-24.4347000122,18.1044006348,3950,NA
+29537,NA-0004,small_airport,Aranos Airstrip,-24.1282997131,19.1149997711,3904,NA
+29538,NA-0005,small_airport,Aranos Pan Landing Site,-24.1093997955,19.2882995605,3891,NA
+29539,FYAB,small_airport,Aroab B Airport,-26.7761001587,19.6331005096,3235,NA
+29540,NA-0006,small_airport,Auob Lodge Airport,-24.8227996826,18.7628002167,3730,NA
+29541,FYAS,small_airport,Aus Airport,-26.6938991547,16.3188991547,4856,NA
+29542,NA-0007,closed,Basaroot Landing Site,-23.7583007812,18.2938995361,4163,NA
+29543,NA-0008,small_airport,Bitterwasser N. Sta Airport,-23.8658008575,17.9911003113,4150,NA
+29544,NA-0009,small_airport,Bitterwasser North Airport,-23.8672008514,17.9799995422,4154,NA
+29545,FYBJ,small_airport,Bitterwasser Lodge & Flying Club Airfield,-23.875,17.9911003113,4167,NA
+29546,NA-0010,small_airport,Blumfelde Pan Landing Site,-23.5650005341,18.371099472,4219,NA
+29547,NA-0011,small_airport,Bush Breaks Lodge Landing Site,-22.3278007507,19.7506008148,4734,NA
+29548,FYXX,small_airport,Canon Lodge Airport,-27.6597003937,17.8377990723,3058,NA
+29549,NA-0012,small_airport,Caprivi Strip,-18.1180992126,21.6243991852,3314,NA
+29550,NA-0013,small_airport,Derm East Pan Landing Site,-23.6667003632,18.2166996002,4219,NA
+29551,NA-0014,small_airport,Dordabis Carpet Airport,-22.9543991089,17.6396999359,4970,NA
+29552,NA-0015,small_airport,Eirup Landing Site,-24.2318992615,18.4092006683,3921,NA
+29553,NA-0016,small_airport,Eureka Na Airport,-21.1980991364,17.821100235,4705,NA
+29554,NA-0017,small_airport,Georgia Peter Schomarz Landing Site,-23.2805995941,18.6341991425,4298,NA
+29555,FYGB,small_airport,Gobabis Airport,-22.5044002533,18.9731006622,4731,NA
+29556,FYGC,small_airport,Gochas Airstrip,-24.8563995361,18.8178005219,3714,NA
+29557,NA-0018,small_airport,Greub Landing Site,-23.1219005585,16.7336006165,5604,NA
+29558,NA-0019,small_airport,Grootpan East Landing Site,-23.5431003571,18.3841991425,4259,NA
+29559,NA-0020,small_airport,Hannover N Airport,-23.3619003296,17.803899765,4459,NA
+29560,NA-0021,small_airport,Haribes Dam Strip,-24.621099472,17.5408000946,3894,NA
+29561,NA-0022,small_airport,Hetaku Game Lodge Landing Site,-21.9818992615,18.5072002411,5128,NA
+29562,FYIA,small_airport,Intu Africa Pan Airport,-24.088300705,17.9517002106,4012,NA
+29563,NA-0023,small_airport,Judaea Strip,-23.7458000183,18.0911006927,4216,NA
+29564,NA-0024,small_airport,Julia Landing Site,-22.9699993134,18.1938991547,4616,NA
+29565,FYKE,small_airport,Kalahari Game Lodge Airport,-25.6511001587,19.8780994415,3182,NA
+29566,FYKD,small_airport,Kalkfeld Airport,-20.9013996124,16.2077999115,5059,NA
+29567,NA-0025,small_airport,Kalkrand Pan Landing Site,-24.0622005463,17.5969009399,4022,NA
+29568,FYKJ,small_airport,Kamanjab Airport,-19.5205993652,14.8233003616,4259,NA
+29569,NA-0026,small_airport,Kamombombe East Airport,-21.614200592,16.0555992126,4098,NA
+29570,NA-0027,small_airport,Kansimba Landing Site,-22.0447006226,16.1786003113,4098,NA
+29571,FYKA,small_airport,Karibib Airport,-21.8477993011,15.9027996063,3829,NA
+29572,NA-0028,small_airport,Kentani Landing Site,-23.8621997833,17.8572006226,4055,NA
+29573,NA-0029,small_airport,Kentucky Sud Pan Landing Site,-22.7450008392,19.3132991791,4554,NA
+29574,NA-0030,small_airport,Kerweder Airport,-24.9631004333,16.0135993958,3179,NA
+29575,NA-0031,small_airport,Khorab Safari Lodge Airport,-19.6413993835,17.3194007874,4616,NA
+29576,NA-0032,small_airport,Kiripotib Landing Site,-23.3283004761,17.9463996887,4475,NA
+29577,NA-0033,small_airport,Klein Aub 15M Landing Site,-23.790599823,16.6585998535,5085,NA
+29578,NA-0034,small_airport,Klein Aub Pan Ok Landing Site,-23.7805995941,16.6450004578,5105,NA
+29579,FYLS,small_airport,Lianshulu Airport,-18.1166992188,23.3932991028,3143,NA
+29580,NA-0035,small_airport,Louwater Pan Landing Site,-23.2772006989,17.7236003876,4551,NA
+29581,NA-0036,small_airport,Maltahoehe 4 Kal Landing Site,-24.5314006805,17.1844005585,4446,NA
+29582,NA-0037,small_airport,Maltahoehe 5 Kal Landing Site,-24.1107997894,17.5641994476,4121,NA
+29583,NA-0038,small_airport,Maltahoehe 6 Kal Landing Site,-24.1252994537,17.557800293,4114,NA
+29584,NA-0039,small_airport,Maltahoehe 7 Kal Landing Site,-24.3367004395,17.3405990601,4229,NA
+29585,NA-0040,small_airport,Maltahoehe 8 Kal Landing Site,-24.3439006805,17.3321990967,4216,NA
+29586,NA-0041,small_airport,Maltahoehe 9 Kal Landing Site,-24.510799408,17.1882991791,4439,NA
+29587,FYMH,small_airport,Maltahoehe Airstrip,-24.771900177,16.9794006348,4511,NA
+29588,NA-0042,small_airport,Mbela Big Wings Landing Site,-23.7425003052,17.911699295,4226,NA
+29589,NA-0043,small_airport,Meier Airstrip Landing Site,-24.8918991089,16.2003002167,4849,NA
+29590,FYMO,small_airport,Mokuti Lodge Airport,-18.8127994537,17.0594005585,3665,NA
+29591,NA-0044,small_airport,Moscow Landing Site,-25.1833000183,19.2569007874,3481,NA
+29592,FYME,small_airport,Mount Etjo Airport,-21.0233001709,16.4528007507,5000,NA
+29594,NA-0046,small_airport,Namib Naukluft Landing Site,-23.9950008392,15.9306001663,3232,NA
+29595,NA-0047,small_airport,Namibia East Air Base,-17.7752990723,25.1867008209,3048,NA
+29596,FYNA,small_airport,Namutoni Airport,-18.8064002991,16.9272003174,3579,NA
+29597,NA-0048,small_airport,Oha Kaua/Otjiwa Lodge Landing Site,-20.7516994476,16.7985992432,5121,NA
+29598,NA-0049,small_airport,Ohlsenhagen Landing Site,-22.2710990906,19.0018997192,4954,NA
+29599,FYON,small_airport,Okahandja Airstrip,-22.0139007568,16.8974990845,4321,NA
+29600,FYOO,small_airport,Okaukuejo Airport,-19.1492004395,15.9118995667,3911,NA
+29601,NA-0050,small_airport,Okosongoro Airport Airport,-21.1180992126,16.0858001709,4872,NA
+29602,FYOM,small_airport,Omaruru Airport,-21.4150009155,15.9380998611,3993,NA
+29603,FYGL,small_airport,Omaruru Game Lodge Airport,-21.3260993958,16.0893993378,4226,NA
+29604,NA-0051,small_airport,Omawewoz Airport,-21.6082992554,19.4085998535,4623,NA
+29605,FYOE,small_airport,Omega Airport,-18.0303001404,22.189699173,3346,NA
+29606,NA-0052,small_airport,Omuramba Airport,-21.4230995178,19.2835998535,4728,NA
+29607,NA-0053,small_airport,Onjossa Airport,-22.1683006287,16.301700592,4055,NA
+29608,FYOU,small_airport,Operet Airport,-18.6093997955,17.1497001648,3625,NA
+29609,FYSN,small_airport,Osona Airstrip,-22.10779953,16.9797000885,4449,NA
+29610,FYOW,small_airport,Otjiwarongo Airport,-20.4347000122,16.6608009338,4859,NA
+29611,FYOJ,small_airport,Outjo Airport,-20.0753002167,16.1247005463,4334,NA
+29612,FYPO,small_airport,Pokweni Glider Airport,-23.6499996185,17.7299995422,4177,NA
+29613,NA-0054,small_airport,Roidina Peter Jo Airport,-21.1877994537,16.0622005463,4600,NA
+29614,NA-0055,small_airport,Rostock Ritz Lodge Airport,-23.5422000885,15.8388996124,2927,NA
+29615,NA-0056,small_airport,Schlip 1 Road113 Landing Site,-23.9636001587,17.8906002045,4049,NA
+29616,NA-0057,small_airport,Schlip 2 67 Road Landing Site,-24.0519008636,17.3696994781,4173,NA
+29617,NA-0058,small_airport,Schlip 2 87 Road Landing Site,-24.0571994781,17.1599998474,4383,NA
+29618,NA-0059,small_airport,Schlip Kalkrand1 Landing Site,-24.0018997192,16.8941993713,4606,NA
+29619,FYSS,small_airport,Sesriem Airstrip,-24.5128002167,15.7467002869,2454,NA
+29620,FYSA,small_airport,Skorpion Mine Airport,-27.8763999939,16.6478004456,1870,NA
+29621,FYSO,small_airport,Solitaire Airport,-23.900800705,16.004699707,3488,NA
+29622,NA-0060,small_airport,Sossusvlei Lodge Landing Site,-24.491399765,15.8235998154,2628,NA
+29623,FYSL,small_airport,Sossusvlei Moun Airport,-24.8033008575,15.8910999298,2844,NA
+29624,FYSP,small_airport,Stampriet Pan Airport,-24.3521995544,18.4333000183,3819,NA
+29625,NA-0061,small_airport,Stamprietpan Ok Landing Site,-24.3497009277,18.3267002106,3822,NA
+29626,FYST,small_airport,Strate Airport,-23.9678001404,18.5489006042,4019,NA
+29627,FYSM,small_airport,Swakopmund Airport,-22.6618995667,14.5680999756,207,NA
+29628,NA-0062,small_airport,Tatave Landing Site,-24.3899993896,18.6681003571,3839,NA
+29629,NA-0063,small_airport,Tivoli Landing Site,-23.4617004395,18.0144004822,4386,NA
+29630,FYTK,small_airport,Tsumkwe Airport,-19.5849990845,20.4528007507,3780,NA
+29631,FYUS,small_airport,Uis Mine Airport,-21.2299995422,14.8671998978,2644,NA
+29632,NA-0064,small_airport,Unbekannt Landing Site,-21.1308002472,18.7896995544,4718,NA
+29633,NA-0065,small_airport,Weltevrede Rest Landing Site,-24.1807994843,15.9774999619,3563,NA
+29634,NA-0066,small_airport,Wittenau Pfanne Landing Site,-23.4638996124,18.8733005524,4222,NA
+29635,FYWI,small_airport,Witvlei Airport,-22.4053001404,18.4591999054,4800,NA
+29636,NA-0067,small_airport,Witwater West Airport,-24.6732997894,15.7918996811,2402,NA
+29637,NA-0068,small_airport,Wohlzufrieden Airport,-24.1905994415,18.1611003876,3960,NA
+29638,FYWD,small_airport,Wolwedans Airport,-25.1168994904,16.0006008148,3271,NA
+29643,FAAE,small_airport,Aberdeen Airport,-32.4667015076,24.0666999817,2461,ZA
+29645,FAAD,small_airport,Adelaide Airport,-32.6831016541,26.2942008972,1955,ZA
+29653,FACO,small_airport,Alkantpan Copper Airport,-29.9064006805,22.3166999817,3589,ZA
+29661,FQAG,small_airport,Angoche Airport,-16.1818695068,39.9452171326,121,MZ
+29667,FYAV,small_airport,Ariamsvley Airport,-28.1189002991,19.8339004517,2549,NA
+29669,FAAP,small_airport,Arnot Power Station Airport,-25.9410991669,29.810300827,5594,ZA
+29684,FWBG,small_airport,Bangula Airport,-16.5832996368,35.1166992188,302,MW
+29685,FABN,closed,Barberton Municipal Airfield,-25.7786006927,31.0174999237,,ZA
+29688,FABX,small_airport,Beatrix Airport,-28.2450008392,26.771900177,4518,ZA
+29690,FVBB,small_airport,Beit Bridge Airport,-22.2000007629,30.0167007446,1509,ZW
+29694,GMMD,small_airport,Beni Mellal Airport,32.4000015259,-6.3333301544,1670,MA
+29698,FYBC,small_airport,Bethanien Airport,-26.5897006989,17.1674995422,3222,NA
+29699,FABH,small_airport,Bethal Airport,-26.4811000824,29.4668998718,5456,ZA
+29704,FDBS,small_airport,Big Bend Sugar E Airport,-26.7999992371,31.8999996185,541,SZ
+29706,FQBI,small_airport,Bilene Airport,-25.2659854889,33.2385978699,118,MZ
+29709,FABZ,small_airport,Bizana Airport,-30.8603000641,29.863899231,2740,ZA
+29713,FABK,small_airport,Bloemhof Airport,-27.6093997955,25.5793991089,4127,ZA
+29723,ZA-0103,small_airport,Bredasdorp Airport,-34.6650009155,20.0627994537,30,ZA
+29726,FABV,small_airport,Brandviei Airport,-30.4666996002,20.4666996002,2999,ZA
+29738,FABP,small_airport,Bultfontain Airport,-28.2752990723,26.1368999481,4383,ZA
+29740,FABD,small_airport,Burghersdorp Airport,-30.9775009155,26.3080997467,4734,ZA
+29755,FACF,small_airport,Cap St Francis Airport,-34.1869010925,24.8349990845,131,ZA
+29756,FACN,small_airport,Carnarvon Airport,-30.9885997772,22.1317005157,4160,ZA
+29757,FACL,small_airport,Carolina Airport,-26.0781002045,30.0925006866,5420,ZA
+29758,GMMC,small_airport,Anfa Airport,33.5532989502,-7.6613898277,200,MA
+29759,GMMT,small_airport,Tit Mellil Airport,33.5974998474,-7.4650001526,322,MA
+29779,FWCD,small_airport,Chelinda Malawi Airport,-10.5500001907,33.7999992371,7759,MW
+29780,FWCB,small_airport,Chilumba Prv Airport,-10.4333000183,34.25,1611,MW
+29781,FLCP,small_airport,Chipata Airport,-13.5583000183,32.5872001648,3360,ZM
+29792,FACB,small_airport,Colesberg Airport,-30.7339000702,25.0650005341,4639,ZA
+29811,FQCB,small_airport,Cuamba Airport,-14.8149995804,36.5299987793,1919,MZ
+29821,FADA,small_airport,De Aar Airport,-30.692199707,24.0205993652,4154,ZA
+29823,FADL,small_airport,Delareyville Airport,-26.6791992188,25.4747009277,4469,ZA
+29825,FADO,small_airport,Dendron Airport,-23.3805999756,29.3208007813,3399,ZA
+29833,FADD,small_airport,Dundee Airport,-28.1830997467,30.2224998474,4219,ZA
+29837,FADB,small_airport,Dwaalboom Airport,-24.8071994781,26.82970047,3652,ZA
+29842,GCLB,small_airport,El Berriel Aeroc Airport,27.7824993134,-15.5072002411,20,ES
+29845,GMMJ,small_airport,El Jadida Airport,33.2332992554,-8.5166702271,92,MA
+29846,FAER,small_airport,Ellisras Matimba Airport,-23.7266998291,27.6882991791,2799,ZA
+29853,FYEK,small_airport,Epukiro Airport,-21.786699295,19.1061000824,4892,NA
+29857,FAES,small_airport,Eshowe Airport,-28.8801994324,31.4549007416,1601,ZA
+29859,HLSD,small_airport,Essider Airport,30.625,18.3516998291,20,LY
+29860,FAEC,small_airport,Estcourt Airport,-29.0471992493,29.9106006622,4262,ZA
+29867,GMFU,small_airport,Fes Sefrou Airport,34.0080986023,-4.9655599594,1539,MA
+29871,FAFO,small_airport,Fort Beaufort Airport,-32.7905006409,26.5776996613,1581,ZA
+29878,FAFR,small_airport,Fraserburg Airport,-31.9339008331,21.5025005341,4180,ZA
+29879,FAFW,small_airport,Freeway Airport,-25.4771995544,28.2900009155,3819,ZA
+29891,FBGZ,small_airport,Ghanzi Airport,-21.6924991608,21.6581001282,3730,BW
+29892,FAGS,small_airport,Giants Castle Airport,-29.2696990967,29.5660991669,6086,ZA
+29893,FAGJ,small_airport,Gifvlei Airport,-30.3833007813,20.0333003998,3199,ZA
+29895,HEEM,small_airport,Giza Embaba Airport,30.0746994019,31.191400528,59,EG
+29900,FVGO,small_airport,Gokwe Airport,-18.2000007629,28.9167003632,4199,ZW
+29907,FAGO,small_airport,Setting Sun Airport,-24.702999115,31.5888004303,1310,ZA
+29908,FACD,small_airport,Gradock Airport,-32.1567001343,25.6455993652,3110,ZA
+29911,FYGV,small_airport,Gravenstein Prv Airport,-23.4589004517,17.497800827,4370,NA
+29912,FAGV,small_airport,Gravelotte Airport,-23.9167003632,30.7000007629,1650,ZA
+29919,FAGL,small_airport,Groblersdal Kob Airport,-25.1868991852,29.4032993317,3051,ZA
+29932,FAHK,small_airport,Haakdoornboom Airport,-25.5872001648,28.1158008575,4055,ZA
+29935,FAHI,small_airport,Halfweg Airport,-30.013299942,20.1392002106,3159,ZA
+29937,FAHJ,small_airport,Harding Airport,-30.5666999817,29.8833007813,2890,ZA
+29943,FAHO,small_airport,Heilbron Airport,-27.2786006927,27.9955997467,5200,ZA
+29944,FYHH,small_airport,Helmeringhausen Airport,-25.8633003235,16.8099994659,4603,NA
+29945,FAHF,small_airport,Henrys Flats Airport,-33.0461006165,25.7168998718,1709,ZA
+29948,FAHL,small_airport,Hluhluwe Airport,-28.0083007813,32.2750015259,249,ZA
+29950,FAHU,small_airport,H M S Bastard Memorial Airport,-30.5424995422,29.4990005493,4701,ZA
+29951,FYHS,small_airport,Hobas Airport,-27.6243991852,17.6933002472,2313,NA
+29953,FAHT,small_airport,Hoedspruit Airport,-24.3516998291,30.9493999481,1801,ZA
+29959,FAHP,small_airport,Hoopstad Airport,-27.8216991425,25.9169006348,4131,ZA
+29964,FAHC,small_airport,Howick Airport,-29.5527992249,30.2110996246,3619,ZA
+29970,FAID,small_airport,Idutywa Airport,-32.0999984741,28.3166999817,2530,ZA
+29974,FQIA,small_airport,Inhaca Airport,-25.9971446991,32.9293518066,10,MZ
+30006,FBKG,small_airport,Kang Airport,-23.6833000183,22.8166999817,3520,BW
+30008,FBKY,small_airport,Kanye Airport,-25.0499992371,25.3166999817,4199,BW
+30012,FLKS,small_airport,Kasama Airport,-10.2166996002,31.1333007813,4541,ZM
+30017,FXKA,small_airport,Katse Airport,-29.3637008667,28.527299881,7000,LS
+30023,FAKH,small_airport,Kenhardt Airport,-29.3267002106,21.1886005402,2723,ZA
+30034,FAKV,small_airport,Koffyfontein Min Airport,-29.4393997192,24.9885997772,3996,ZA
+30036,FAKG,small_airport,Komati Power Station Airport,-26.0932998657,29.4556007385,5289,ZA
+30037,FAKO,small_airport,Komga Airport,-32.5928001404,27.8757991791,2178,ZA
+30038,FAKP,small_airport,Komatipoort Airport,-25.4402999878,31.9300003052,541,ZA
+30045,FAKL,small_airport,Kriel Airport,-26.2511005402,29.1947002411,5262,ZA
+30056,FALB,small_airport,Ladybrand Af Airport,-29.1811008453,27.4535999298,5180,ZA
+30070,FXLR,small_airport,Leribe Airport,-28.8556003571,28.0527992249,5350,LS
+30075,FXLT,small_airport,Letseng Airport,-29.0093002319,28.8547000885,10400,LS
+30077,FBTL,small_airport,Limpopo Valley Airport,-22.1891994476,29.1268997192,1772,BW
+30087,FLLA,small_airport,Luanshya Zambia Airport,-13.141699791,28.4249992371,4101,ZM
+30090,FLKZ,small_airport,Lukuzi Airport,-12.8119001389,32.0648994446,1801,ZM
+30093,FALK,small_airport,Lusikisiki Airport,-31.3666992188,29.5832996368,1831,ZA
+30095,FALL,small_airport,Lydenburg Airport,-25.1033000946,30.4141998291,4882,ZA
+30097,FXMF,small_airport,Mafeteng Airport,-29.8010997772,27.2436008453,5350,LS
+30104,FAMY,small_airport,Malmesbury Airport,-33.4618988037,18.700799942,971,ZA
+30110,FLMA,small_airport,Mansa Airport,-11.1370000839,28.8726005554,4101,ZM
+30111,FAML,small_airport,Manyani Game Lodge Airport,-25.8166999817,25.7166996002,4383,ZA
+30126,FWMC,small_airport,Mchinji Airport,-13.8000001907,32.9000015259,3901,MW
+30135,FDMH,small_airport,Mhlume Airport,-26.0242004395,31.8099994659,926,SZ
+30136,FAMC,small_airport,Middelburg 2 Airport,-31.5471992493,25.0293998718,4022,ZA
+30149,FXMK,small_airport,Mokhotlong Airport,-29.2817993164,29.0727996826,7200,LS
+30164,FAMO,small_airport,Mossel Bay Airport,-34.1582984924,22.058599472,531,ZA
+30170,FLML,small_airport,Mufulira Airport,-12.565199852,28.2943000793,4350,ZM
+30176,FVGR,small_airport,Mutara Grand Ref Airport,-18.9775009155,32.4508018494,3333,ZW
+30183,FWSU,small_airport,Nchalo Sucoma Airport,-16.2667007446,34.9166984558,230,MW
+30185,FDNH,small_airport,Nhlangano Airport,-27.1166667938,31.2166671753,3522,SZ
+30201,FWCS,small_airport,Ntchisi Airport,-13.3758001328,33.8644981384,4301,MW
+30210,FAOF,small_airport,Jack Duvenhage Airport,-27.9617004395,22.7166004181,4216,ZA
+30218,FBOR,small_airport,Orapa Airport,-21.2667007446,25.3166999817,3100,BW
+30219,FAOI,small_airport,Orient Glider Airport,-26.0394001007,27.5956001282,5102,ZA
+30220,FAOY,small_airport,Orkney Airport,-26.9839000702,26.6513996124,4265,ZA
+30222,FAON,small_airport,Ornate Lake St L Airport,-28.0449008942,32.4253997803,59,ZA
+30228,GMFA,small_airport,Ouezzane Airport,34.7832984924,-5.6333298683,571,MA
+30257,FAPW,small_airport,Pietersrus Airport,-26.6061000824,29.3292007446,5472,ZA
+30258,FAPF,small_airport,Piet Retief Airport,-26.9969005585,30.8407993317,4423,ZA
+30259,FDNG,small_airport,Piggs Peak Airport,-25.7666664124,31.3666667938,1410,SZ
+30262,FAPO,small_airport,Pilgrims Rest Airport,-24.7847003937,30.7922000885,3802,ZA
+30275,FAPD,small_airport,Pofadder Airport,-29.1417007446,19.4130992889,3241,ZA
+30278,FAPL,small_airport,Pongola Airport,-27.3621997833,31.6067008972,942,ZA
+30279,FQPO,small_airport,Ponta do Ouro Airport,-26.8285522461,32.8377075195,92,MZ
+30283,FAPT,small_airport,Posmasburg Soil Airport,-28.3386001587,23.07970047,4301,ZA
+30291,FAPK,small_airport,Prieska Airport,-29.683599472,22.7705993652,3100,ZA
+30294,FAPC,small_airport,Prince Albert Airport,-33.2024993896,22.0321998596,2001,ZA
+30302,FAHE,small_airport,Pullenshope Hendrina Airport,-25.9778003693,29.6189002991,5171,ZA
+30309,FXQN,small_airport,Qacha's Nek Airport,-30.111700058,28.6718997955,6100,LS
+30316,FYRR,small_airport,Rag Rock Airport,-20.5380992889,14.4330997467,2100,NA
+30328,FARZ,small_airport,Reitz Airport,-22.7842006683,28.4302997589,5331,ZA
+30329,FARI,small_airport,Reivilo Airport,-27.5471992493,24.1725006104,4715,ZA
+30344,FARD,small_airport,Riversdale Airport,-34.1116981506,21.2628002167,591,ZA
+30365,FASU,small_airport,Sace Airport,-25.9568996429,29.2117004395,5151,ZA
+30369,GMMS,small_airport,Safi Airport,32.2832984924,-9.2333297729,171,MA
+30400,FASG,small_airport,Schweizer Reneke Airport,-27.1630992889,25.2861003876,4373,ZA
+30404,FXSH,small_airport,Sehonghong Airport,-29.7308998108,28.7688999176,6500,LS
+30405,FXSM,small_airport,Semonkong Airport,-29.8386001587,28.0599994659,7200,LS
+30407,FASN,small_airport,Senekal Airport,-28.3122005463,27.6460990906,4849,ZA
+30411,FBSW,small_airport,Shakawe Airport,-18.3738994598,21.8325996399,3379,BW
+30412,GMMF,small_airport,Sidi Ifni Xx Airport,29.3666992188,-10.1878004074,190,MA
+30416,FDSM,small_airport,Simunye Airport,-26.2000007629,31.9333324432,673,SZ
+30419,FASM,small_airport,Siteka Airport,-29.3250007629,30.1492004395,4400,ZA
+30424,FASW,small_airport,Slurry Airport,-25.8155994415,25.8864002228,4692,ZA
+30427,FLSW,small_airport,Solwesi Airport,-12.1737003326,26.3651008606,4551,ZM
+30428,FAST,small_airport,Somerset East Airport,-32.7501983643,25.5949993134,2349,ZA
+30436,FAZQ,small_airport,Star Airport,-26.8931007385,27.6900005341,4754,ZA
+30453,FASY,small_airport,Syferfontein Airport,-26.349199295,27.7793998718,5420,ZA
+30466,FDTM,small_airport,Tambankulu Airport,-26.1000003815,31.9666805267,811,SZ
+30472,GMMO,small_airport,Taroudant Airport,30.5016994476,-8.8275003433,869,MA
+30474,GMFZ,small_airport,Taza Airport,34.2332992554,-3.9500000477,1890,MA
+30482,FATN,small_airport,Thaba Nchu Tar Airport,-29.3178005219,26.8227996826,4941,ZA
+30485,FATH,small_airport,Thohoyandou Airport,-23.0769004822,30.383600235,2021,ZA
+30494,FBTS,small_airport,Tshabong Airport,-26.0333003998,22.3999996185,3179,BW
+30495,FDTS,small_airport,Tshaneni Airport,-25.9833335876,31.2000007629,1020,SZ
+30496,FATK,small_airport,Tsitsikama Fly Airport,-34.0847015381,24.2896995544,381,ZA
+30504,FAUH,small_airport,Uitenhage Airport,-33.7853012085,25.3833007813,289,ZA
+30515,FAUR,small_airport,Utrecht Airport,-27.6805000305,30.3167991638,4101,ZA
+30516,FAVA,small_airport,Vaalputs Airport,-30.1341991425,18.5266990662,3340,ZA
+30528,FAVF,small_airport,Verborgenfontei Airport,-31.1658000946,23.8094005585,4360,ZA
+30529,FAVW,small_airport,Victoria West Airport,-31.3994007111,23.1564006805,4124,ZA
+30538,FAVU,small_airport,Volksrust Airport,-27.3768997192,29.8600006104,5610,ZA
+30540,FAVD,small_airport,Vrede Airport,-27.4402999878,29.1530990601,5499,ZA
+30542,FAVY,small_airport,Vryheid Airport,-27.7868995667,30.7964000702,3799,ZA
+30553,HSWW,medium_airport,Wau Airport,7.7258300781,27.9750003815,1529,SS
+30555,FAWR,small_airport,Wavecrest Airport,-32.5896987915,28.5191993713,89,ZA
+30558,FAWS,small_airport,Wesselbronn Af Airport,-27.8467006683,26.3505992889,4301,ZA
+30561,FAWO,small_airport,Willowmore Airport,-33.2633018494,23.4906005859,2608,ZA
+30562,FAWL,small_airport,Williston Airport,-31.383600235,20.932800293,3484,ZA
+30563,FATW,small_airport,Witberg Tswalu Airport,-27.2049999237,22.4818992615,3921,ZA
+30569,FAWC,small_airport,Worcester Glider Airport,-33.6631011963,19.4153003693,673,ZA
+30573,GMAZ,small_airport,Zagora Airport,30.3202991486,-5.8666701317,2631,MA
+30583,FVSC,small_airport,Zisco Airport,-19.0291996002,29.7219009399,3990,ZW
+30587,HLZU,small_airport,Zueitina Airport,30.875,20.0699996948,20,LY
+30602,FWDW,medium_airport,Dwangwa Airport,-12.5183000565,34.1319007874,1605,MW
+30603,FWMG,medium_airport,Mangochi Airport,-14.4829998016,35.266998291,1580,MW
+30604,FWKB,small_airport,Katumbi Airport,-10.8170003891,33.516998291,3986,MW
+30605,FLEE,small_airport,East Five Airport,-10.5356998444,33.4071998596,4200,ZM
+30612,HAKD,small_airport,Kabri Dehar Airport,6.734000206,44.2529983521,1800,ET
+30626,FEFY,small_airport,Yalinga Airport,6.5199999809,23.2600002289,1975,CF
+30630,GQNJ,small_airport,Akjoujt Airport,19.7330169678,-14.3832492828,403,MR
+30633,GA-AKE,small_airport,Akieni Airport,-1.1396700144,13.9035997391,1660,GA
+30639,FTTN,small_airport,Am Timan Airport,11.0340003967,20.2740001678,1420,TD
+30641,FTTU,small_airport,Mao Airport,14.1456003189,15.3143997192,1072,TD
+30642,FMSY,small_airport,Ampanihy Airport,-24.6996994019,44.7341995239,771,MG
+30645,FCBZ,small_airport,Zanaga Airport,-2.8499999046,13.8170003891,1870,CG
+30651,DFER,small_airport,Arly Airport,11.5970001221,1.4830000401,761,BF
+30653,FNZE,small_airport,N'zeto Airport,-7.2594399452,12.8631000519,69,AO
+30654,HSAT,small_airport,Atbara Airport,17.7103443146,34.05701828,1181,SD
+30656,FMME,small_airport,Antsirabe Airport,-19.8392214824,47.0637130737,4997,MG
+30658,FTTI,small_airport,Ati Airport,13.2389001846,18.3132991791,1089,TD
+30664,HALA,small_airport,Awassa Airport,7.0669999123,38.5,5450,ET
+30674,FNAM,small_airport,Ambriz Airport,-7.8622198105,13.1161003113,144,AO
+30676,FZVR,small_airport,Basongo Airport,-4.3169999123,20.4330005646,1640,CD
+30684,FEFM,small_airport,Bambari Airport,5.8469400406,20.6474990845,1549,CF
+30685,FLZB,small_airport,Zambezi Airport,-13.5361003876,23.108499527,3538,ZM
+30686,FEGU,small_airport,Bouca Airport,6.5170001984,18.2670001984,1532,CF
+30688,LY-BCQ,medium_airport,Brack Airport,27.6529998779,14.2720003128,1056,LY
+30689,NG-BCU,small_airport,Bauchi Airport,10.2944002151,9.8166704178,1998,NG
+30692,DIBU,small_airport,Soko Airport,8.0172195435,-2.7619400024,1247,CI
+30693,FZRB,small_airport,Moba Airport,-7.0669999123,29.783000946,2953,CD
+30694,HABE,small_airport,Beica Airport,9.3863897324,34.521900177,5410,ET
+30695,FEFL,small_airport,Bossemb�l� Airport,5.2670001984,17.6329994202,2231,CF
+30698,FOGB,small_airport,Booue Airport,-0.1000000015,11.9499998093,604,GA
+30699,GQNE,small_airport,Abbaye Airport,16.6333141327,-14.2000007629,66,MR
+30703,FEFG,small_airport,Bangassou Airport,4.7849998474,22.7810001373,1706,CF
+30711,HCMB,small_airport,Baidoa Airport,3.1022200584,43.6286010742,1820,SO
+30756,FEFR,small_airport,Bria Airport,6.527780056,21.9894008636,1975,CF
+30763,GUOK,small_airport,Boke Airport,10.9658002853,-14.2811002731,164,GN
+30765,FTTK,small_airport,Bokoro Airport,12.3830003738,17.0669994354,984,TD
+30766,FMSV,small_airport,Betioky Airport,-23.7329998016,44.388999939,919,MG
+30767,HTBU,small_airport,Bukoba Airport,-1.332,31.8212,3745,TZ
+30773,FZFU,small_airport,Bumbar Airport,2.1827800274,22.4817008972,,CD
+30774,FMML,small_airport,Belo sur Tsiribihina Airport,-19.6867008209,44.5419006348,154,MG
+30775,FEGM,small_airport,Bakouma Airport,5.6939997673,22.8010005951,1640,CF
+30777,DATM,small_airport,Bordj Badji Mokhtar Airport,21.375,0.9238889813,1303,DZ
+30779,FZGN,small_airport,Boende Airport,-0.2169999927,20.8500003815,1168,CD
+30780,FZNP,small_airport,Beni Airport,0.5749999881,29.4738998413,3517,CD
+30782,DFOB,small_airport,Banfora Airport,10.6829996109,-4.7170000076,984,BF
+30783,FZAJ,small_airport,Boma Airport,-5.8540000916,13.0640001297,26,CD
+30784,FCOB,small_airport,Boundji Airport,-1.0329999924,15.3830003738,1247,CG
+30785,FEFO,small_airport,Bouar Airport,5.9580001831,15.6370000839,3360,CF
+30787,FEGZ,small_airport,Bozoum Airport,6.3441700935,16.3218994141,2215,CF
+30790,DIBN,small_airport,Bouna Airport,9.2775001526,-3.0252799988,1148,CI
+30794,FEFS,small_airport,Bossangoa Airport,6.492000103,17.4290008545,1637,CF
+30796,FZEN,small_airport,Basankusu Airport,1.2247200012,19.7889003754,1217,CD
+30797,FKKO,small_airport,Bertoua Airport,4.5486102104,13.726099968,2133,CM
+30798,FCOT,small_airport,Betou Airport,3.0499999523,18.5,1168,CG
+30799,GFBN,medium_airport,Sherbro International Airport,7.5324201584,-12.5188999176,14,SL
+30800,FEGF,small_airport,Batangafo Airport,7.3141098022,18.3087997437,1378,CF
+30801,HRYI,small_airport,Butare Airport,-2.5958299637,29.736700058,5801,RW
+30802,HCMV,small_airport,Burao Airport,9.5275,45.5549,3400,SO
+30805,DIBI,small_airport,Boundiali Airport,9.5329999924,-6.4670000076,1286,CI
+30811,FNCZ,small_airport,Cazombo Airport,-11.8930997849,22.9164009094,3700,AO
+30813,FNCT,medium_airport,Catumbela Airport,-12.4792003632,13.4869003296,,AO
+30820,FNWK,small_airport,Waco Kungo Airport,-11.4264001846,15.1014003754,4324,AO
+30821,FNCF,small_airport,Cafunfo Airport,-8.7836103439,17.9897003174,,AO
+30828,FVCH,small_airport,Chipinge Airport,-20.2066993713,32.6282997131,3720,ZW
+30835,FWCM,small_airport,Club Makokola Airport,-14.3069000244,35.1324996948,1587,MW
+30836,HCMO,small_airport,Obbia Airport,5.3666667938,48.5166664124,65,SO
+30840,AO-CNZ,small_airport,Cangamba Airport,-13.7105998993,19.8610992432,,AO
+30844,GLCP,small_airport,Cape Palmas Airport,4.3790202141,-7.6969499588,20,LR
+30850,FEFC,small_airport,Carnot Airport,4.9369997978,15.8940000534,1985,CF
+30857,FNCV,small_airport,Cuito Cuanavale Airport,-15.1603002548,19.1560993195,,AO
+30864,FNCX,small_airport,Camaxilo Airport,-8.3736095428,18.9235992432,3957,AO
+30873,DAAW,small_airport,Bordj Omar Driss Airport,28.1313991547,6.8336100578,1207,DZ
+30874,DAOC,small_airport,Ouakda Airport,31.6424999237,-2.1838901043,2660,DZ
+30879,DBBC,small_airport,Cana Airport,7.1669998169,2.0669999123,548,BJ
+30880,DBBO,small_airport,Porga Airport,11.0329999924,0.9829999804,531,BJ
+30881,DBBR,small_airport,Bembereke Airport,10.2829999924,2.7000000477,1188,BJ
+30882,HADM,small_airport,Debra Marcos Airport,10.3500003815,37.716999054,8136,ET
+30883,HADT,small_airport,Debre Tabor Airport,11.9670000076,38,8490,ET
+30885,HADD,small_airport,Dembidollo Airport,8.5539999008,34.858001709,5200,ET
+30887,DFCB,small_airport,Barsalogho Airport,13.3999996185,-1.0670000315,1083,BF
+30888,DFCD,small_airport,Didyr Airport,12.5500001907,-2.617000103,958,BF
+30889,DFCE,small_airport,Batie Airport,9.8830003738,-2.9170000553,984,BF
+30890,DFCG,small_airport,Kongoussi Airport,13.3170003891,-1.5329999924,1056,BF
+30891,DFCI,small_airport,Titao Airport,13.7670001984,-2.0829999447,1047,BF
+30892,DFCK,small_airport,Koudougou Airport,12.2670001984,-2.4000000954,1001,BF
+30893,DFCM,small_airport,Manga Airport,11.6669998169,-1.0670000315,820,BF
+30894,DFCR,small_airport,Poura Airport,11.6169996262,-2.75,853,BF
+30895,DFCS,small_airport,Seguenega Airport,13.4329996109,-2,1139,BF
+30896,DFCT,small_airport,Tenado Airport,12.1999998093,-2.5829999447,951,BF
+30897,DFCU,small_airport,Gourcy Airport,13.1999998093,-2.367000103,1050,BF
+30898,DFCY,small_airport,Yako Airport,12.9499998093,-2.2829999924,984,BF
+30899,DFEC,small_airport,Komin-Yanga Airport,11.6999998093,0.150000006,1116,BF
+30900,DFEK,small_airport,Koupela Airport,12.1669998169,-0.3000000119,902,BF
+30901,DFEO,small_airport,Zorgo Airport,12.25,-0.6169999838,978,BF
+30902,DFEY,small_airport,Ouargaye Airport,11.5170001984,0.0500000007,951,BF
+30903,DFOA,small_airport,Dano Airport,11.1330003738,-3.0669999123,935,BF
+30904,DFOF,small_airport,Safane Airport,12.1499996185,-3.1830000877,1017,BF
+30905,DFOH,small_airport,Hounde Airport,11.4829998016,-3.5169999599,1063,BF
+30906,DFOL,small_airport,Loumana Airport,10.5670003891,-5.3499999046,1148,BF
+30907,DFOR,small_airport,Orodara Airport,10.9829998016,-4.9330000877,1706,BF
+30908,DFOS,small_airport,Sideradougou Airport,10.6669998169,-4.2670001984,1047,BF
+30910,DGLN,small_airport,Navrongo Airport,10.8999996185,-1.1000000238,2221,GH
+30911,DGLY,small_airport,Yendi Airport,9.4250001907,-0.0047220001,2408,GH
+30912,DFOD,small_airport,Dedougou Airport,12.4589996338,-3.4900000095,984,BF
+30914,DIBC,small_airport,Bocanda Airport,7.0329999924,-4.5329999924,427,CI
+30915,DIDB,small_airport,Dabou Airport,5.3513851166,-4.4034576416,141,CI
+30917,DIGN,small_airport,Nero-Mer Airport,4.6434130669,-6.9239616394,20,CI
+30918,DIDK,small_airport,Dimbokro Airport,6.6516699791,-4.6405601501,344,CI
+30919,DFED,small_airport,Diapaga Airport,12.0500001907,1.7829999924,951,BF
+30920,FCPL,small_airport,Loubomo Airport,-4.20635,12.6599,1079,CG
+30921,FCBD,small_airport,Djambala Airport,-2.5329999924,14.75,2595,CG
+30927,DNBI,small_airport,Bida Airport,9.1000003815,6.0170001984,450,NG
+30928,LY-DNF,small_airport,Martubah Airport,32.5419998169,22.7450008392,1235,LY
+30930,DNOS,small_airport,Oshogbo Airport,7.7829999924,4.4829998016,997,NG
+30932,HSGG,small_airport,Galegu Airport,12.5329999924,35.0670013428,1640,SD
+30933,MG-DOA,small_airport,Doany Airport,-14.3681001663,49.510799408,,MG
+30937,DFEE,small_airport,Dori Airport,14.0329999924,-0.0329999998,919,BF
+30938,DRRA,small_airport,Tessaoua Airport,13.7670001984,8.0170001984,1358,NE
+30939,DRRC,small_airport,Dogondoutchi Airport,13.6669998169,4.0999999046,961,NE
+30940,DRRD,small_airport,Dosso Airport,13.0481247896,3.2209682465,738,NE
+30941,DRRE,small_airport,Tera Airport,13.9499998093,0.7329999804,850,NE
+30942,DRRG,small_airport,Gaya Airport,11.8830003738,3.4330000877,662,NE
+30943,DRRL,small_airport,Tillabery Airport,14.1999998093,1.4670000076,692,NE
+30944,DRRP,small_airport,La Tapoa Airport,12.4829998016,2.4000000954,722,NE
+30945,DRRU,small_airport,Ouallam Airport,14.3330001831,2.0829999447,892,NE
+30946,DRZI,small_airport,Iferouane Airport,19.0669994354,8.3669996262,2162,NE
+30947,FKKS,small_airport,Dschang Airport,5.4499998093,10.0670003891,4593,CM
+30949,HADC,small_airport,Combolcha Airport,11.0825004578,39.7113990784,6117,ET
+30951,FMNO,small_airport,Soalala Airport,-16.1016904207,45.3588366508,141,MG
+30953,DXAK,small_airport,Akpaka Airport,7.5830001831,1.1169999838,689,TG
+30954,DXDP,small_airport,Djangou Airport,10.8000001907,0.25,919,TG
+30955,DXKP,small_airport,Kolokope Airport,7.8000001907,1.2829999924,591,TG
+30956,DXMG,small_airport,Sansann�-Mango Airport,10.3730106354,0.4713821411,460,TG
+30957,DXSK,small_airport,Sokod� Airport,8.9829998016,1.1499999762,1214,TG
+30978,FKKW,small_airport,Ebolowa Airport,2.8759999275,11.1850004196,1975,CM
+30980,HSDB,small_airport,El Debba Airport,18.0249996185,30.9582996368,843,SD
+30990,HSGN,small_airport,Geneina Airport,13.4816999435,22.4671993256,2650,SD
+31032,FCOE,small_airport,Ewo Airport,-0.8830000162,14.8000001907,1503,CG
+31034,GAYE,small_airport,Y�liman� Airport,15.1330003738,-10.5670003891,325,ML
+31035,FABA,small_airport,Bapsfontein Airport,-25.9918880463,28.4158325195,5280,ZA
+31036,FACA,small_airport,Monte Carlo Airport,-28.7999992371,27.4169998169,4995,ZA
+31037,FACW,small_airport,Clanwilliam Airport,-32.1831016541,18.8885993958,650,ZA
+31038,FADH,small_airport,Durnacol Airport,-28.0461006165,30.0063991547,4317,ZA
+31039,FAEG,small_airport,Egnep Airport,-24.5669994354,30.3169994354,2299,ZA
+31040,FAFU,small_airport,Fraaiuitzicht Airport,-27.3169994354,27.25,4841,ZA
+31042,FAGA,small_airport,Grange Airport,-30.2670001984,29.966999054,2600,ZA
+31043,FAGW,small_airport,Magwa Airport,-31.3939418793,29.6934700012,1823,ZA
+31045,FAHM,small_airport,Hermanus Airport,-34.4000015259,19.2000007629,72,ZA
+31046,FAIO,small_airport,Odi Airport,-25.5499992371,27.9330005646,3862,ZA
+31047,FAIW,small_airport,Indwe Airport,-31.4833335876,27.3500003815,4167,ZA
+31048,FAKI,small_airport,Kobb Inn Airport,-32.433799,28.683467,147,ZA
+31049,FAKK,small_airport,Kakamas Airport,-28.7999992371,20.6329994202,2322,ZA
+31050,FALF,small_airport,Loeriesfontein Airport,-30.9064006805,19.4253005981,2997,ZA
+31051,FAMA,small_airport,Matatiele Airport,-30.3222007751,28.7942008972,4762,ZA
+31052,FAMF,small_airport,Malabar Airport,-29.0118999481,23.8474006653,3348,ZA
+31053,FAMZ,small_airport,Msauli Airport,-26.0499992371,31.0170001984,2548,ZA
+31054,FAOL,small_airport,Othawa Airport,-24.7329998016,31.3999996185,1098,ZA
+31055,FAOR,small_airport,Olifants River Bridge Landing Strip Airport,-24.2670001984,29.783000946,2420,ZA
+31056,FAPQ,small_airport,Pomfret Airport,-25.847700119,23.5373001099,3817,ZA
+31057,FAPV,small_airport,Petrusville Airport,-30.0818004608,24.679599762,4116,ZA
+31059,FASL,small_airport,Sutherland Airport,-32.4882011414,20.6970996857,5247,ZA
+31060,FAWN,small_airport,Winburg Airport,-28.5,27.0166664124,4800,ZA
+31061,FAWP,small_airport,Wepener Airport,-29.7423992157,27.022600174,4755,ZA
+31062,FAWT,small_airport,Cape Blue Mine Airport,-29.3333339691,22.2833328247,3050,ZA
+31063,FAZA,small_airport,Zastron Airport,-30.2999992371,27.1170005798,4265,ZA
+31064,FBCO,small_airport,Camp Okavango Airport,-19.1170005798,23.1000003815,3150,BW
+31066,FBGM,small_airport,Gumare Airport,-19.3666305542,22.1666660309,3100,BW
+31067,FBMG,small_airport,Machaneng Airport,-23.1830005646,27.466999054,2900,BW
+31068,FBML,small_airport,Molepolole Airport,-24.389444444,25.498611111,3790,BW
+31069,FBMM,small_airport,Makalamabedi Airport,-20.3330001831,23.8829994202,3100,BW
+31070,FBNN,small_airport,Nokaneng Airport,-19.3386001587,22.153799057,3200,BW
+31071,FBNT,small_airport,Nata Airport,-20.2161006927,26.1588993073,2690,BW
+31072,FBNW,small_airport,Gaborone Notwane Airport,-24.6830005646,25.9330005646,3218,BW
+31073,FBOK,small_airport,Okwa Airport,-23.0830001831,21.8829994202,3500,BW
+31074,FBRK,small_airport,Rakops Airport,-21,24.3330001831,3000,BW
+31075,FBSR,small_airport,Serowe Airport,-22.4232997894,26.7567005157,3800,BW
+31076,FBSV,small_airport,Savuti Airport,-18.5205993652,24.0767002106,3150,BW
+31077,FBTE,small_airport,Tshane Airport,-24.0170001984,21.8829994202,3700,BW
+31078,FCBA,small_airport,La Louila Airport,-4.0830001831,14.2329998016,984,CG
+31079,FCBP,small_airport,M'passa Airport,-4.367000103,14.1499996185,1115,CG
+31080,FCBT,small_airport,Loutete Airport,-4.2829999924,13.8669996262,656,CG
+31081,FCBU,small_airport,Aubeville Airport,-4.2670001984,13.5329999924,1148,CG
+31082,FCMA,small_airport,Mavinza Airport,-2.4500000477,11.6499996185,509,CG
+31083,FCMB,small_airport,N'Ziba Airport,-2.7170000076,12.5329999924,2149,CG
+31084,FCMD,small_airport,Sidetra Airport,-2.867000103,12.8669996262,2133,CG
+31085,FCMF,small_airport,Loufoula Airport,-3,12,650,CG
+31086,FCMG,small_airport,Gokango Airport,-3.0329999924,12.1330003738,820,CG
+31087,FCMI,small_airport,Irogo Airport,-2.7170000076,11.8830003738,919,CG
+31088,FCMK,small_airport,Kele Kibangou Airport,-3.3169999123,12.6169996262,902,CG
+31089,FCML,small_airport,Leboulou Airport,-2.9000000954,12.3669996262,886,CG
+31090,FCMN,small_airport,N'gongo Airport,-2.9830000401,12.1999998093,906,CG
+31091,FCMO,small_airport,Mandoro Airport,-2.6500000954,12.8830003738,1772,CG
+31092,FCMR,small_airport,Marala Airport,-2.9000000954,12.6330003738,1535,CG
+31093,FCMS,small_airport,Nyanga Airport,-2.867000103,11.9499998093,558,CG
+31094,FCMY,small_airport,Legala Airport,-2.2170000076,12.8330001831,2152,CG
+31095,FCMZ,small_airport,N'Zabi Airport,-3.1670000553,12.8669996262,1640,CG
+31096,FCPB,small_airport,Bangamba Airport,-3.6830000877,13.1999998093,1312,CG
+31097,FCPE,small_airport,Leganda Airport,-3.4330000877,12.9329996109,1198,CG
+31098,FCPG,small_airport,Kibangou Airport,-3.4830000401,12.3000001907,427,CG
+31099,FCPI,small_airport,Loubetsi Airport,-3.7000000477,12.1330003738,328,CG
+31100,FCPK,small_airport,N'komo Airport,-3.9170000553,11.3830003738,98,CG
+31101,FCPN,small_airport,Noumbi Airport,-4.1500000954,11.3830003738,39,CG
+31102,FCPO,small_airport,Pemo Airport,-2.867000103,12.5329999924,1686,CG
+31103,FCPY,small_airport,Loukanyi Airport,-4.0329999924,11.5170001984,295,CG
+31105,FDBM,small_airport,Matata Airport,-26.8670005798,31.9330005646,500,SZ
+31106,FDBT,small_airport,Tambuti Airport,-26.735200882,31.7758998871,595,SZ
+31108,FDNS,small_airport,Nsoko Airport,-27.0333003998,31.9333324432,614,SZ
+31109,FDST,small_airport,Siteki Airport,-26.4500007629,31.9500007629,2220,SZ
+31111,FEFA,small_airport,Alindao Airport,5.0163898468,21.1996994019,1470,CF
+31112,FEFD,small_airport,Damara Airport,4.9499998093,18.7000007629,1427,CF
+31113,FEFE,small_airport,Mobaye Mbanga Airport,4.3746500015,21.1319007874,1332,CF
+31114,FEFK,small_airport,Kemb� Airport,4.5999999046,21.8670005798,1913,CF
+31115,FEFP,small_airport,Paoua Airport,7.25,16.4330005646,2037,CF
+31116,FEFQ,small_airport,Kaga-Bandoro Airport,6.9829998016,19.1830005646,1476,CF
+31117,FEFU,small_airport,Sibut Airport,5.7329998016,19.0830001831,1411,CF
+31119,FEGB,small_airport,Bambouli Airport,5.4330000877,27.216999054,2264,CF
+31120,FEGC,small_airport,Bocaranga Airport,6.9169998169,15.6169996262,3464,CF
+31121,FEGD,small_airport,Dekoa Airport,6.3000001907,19.0830001831,1804,CF
+31122,FEGG,small_airport,Gamboula Airport,4.132999897,15.1499996185,2001,CF
+31123,FEGI,small_airport,Grimari Airport,5.6830000877,20.0499992371,1312,CF
+31124,FEGL,small_airport,Gordil Airport,9.5830001831,21.7329998016,1427,CF
+31125,DIFK,small_airport,Ferkessedougou Airport,9.6000003815,-5.1999998093,1102,CI
+31126,GQPF,small_airport,Fderik Airport,22.6669998169,-12.7329998016,961,MR
+31130,FKAB,small_airport,Banyo Airport,6.7749900818,11.8070001602,3642,CM
+31131,FKAF,small_airport,Bafia Airport,4.7670001984,11.2170000076,1591,CM
+31132,FKAG,small_airport,Abong M'bang Airport,3.9670000076,13.1999998093,2297,CM
+31133,FKAO,small_airport,B�tar� Oya Airport,5.5041699409,14.0982999802,3002,CM
+31134,FKKE,small_airport,Eseka Airport,3.6500000954,10.7829999924,738,CM
+31135,FKKT,small_airport,Tibati Airport,6.4829998016,12.6330003738,2854,CM
+31136,FLAT,small_airport,Katete Airport,-14.120300293,32.0643997192,3520,ZM
+31137,FLCC,small_airport,Chocha Airport,-8.428730011,29.8059005737,3270,ZM
+31138,FLCH,small_airport,Choma Airport,-16.783000946,27,4300,ZM
+31139,FLCS,small_airport,Chinsali Airport,-10.5329999924,32.0670013428,4350,ZM
+31140,FLEA,small_airport,East One Airport,-11.6357002258,29.7359008789,3900,ZM
+31141,FLEB,small_airport,East Two Airport,-11.1034002304,30.3381996155,3900,ZM
+31142,FLEC,small_airport,East Three Airport,-14.1134996414,30.1294994354,2300,ZM
+31143,FLED,small_airport,East Four Airport,-14.8330001831,30.0830001831,1880,ZM
+31144,FLEF,small_airport,East Six Airport,-11.1342000961,30.01720047,3800,ZM
+31145,FLEG,small_airport,East Seven Airport,-12.4499998093,29.4829998016,4000,ZM
+31146,FLEH,small_airport,East Eight Airport,-12.1169996262,29.4500007629,4000,ZM
+31148,FLIK,small_airport,Isoka Airport,-10.1169996262,32.6329994202,4462,ZM
+31149,FLKB,small_airport,Kawambwa Airport,-9.7980604172,29.0916996002,4640,ZM
+31150,FLKG,small_airport,Kalengwa Airport,-13.4741001129,25.0140991211,4093,ZM
+31151,FLKJ,small_airport,Kanja Airport,-16.4500007629,23.3670005798,3370,ZM
+31152,FLKU,small_airport,Kanyau Airport,-16.5,22.4169998169,3448,ZM
+31153,FLKW,small_airport,Milliken Airport,-14.4505996704,28.3791999817,3920,ZM
+31154,FLLD,small_airport,Lundazi Airport,-12.2860002518,33.186000824,3750,ZM
+31155,FLLG,small_airport,Luwingu Airport,-10.245300293,29.9139995575,4650,ZM
+31156,FLLO,small_airport,Kalomo Airport,-16.9829998016,26.4829998016,4100,ZM
+31158,FLMB,small_airport,Maamba Airport,-17.3670005798,27.1830005646,2050,ZM
+31159,FLMK,small_airport,Mkushi Airport,-13.6169996262,29.3829994202,4195,ZM
+31160,FLMO,small_airport,Monze Airport,-16.283000946,27.5170001984,3700,ZM
+31161,FLMP,small_airport,Mpika Airport,-11.8992004395,31.4347000122,4600,ZM
+31162,FLMU,small_airport,Mulobezi Airport,-16.7670001984,25.1830005646,3175,ZM
+31163,FLMW,small_airport,Mwinilunga Airport,-11.6540002823,24.4309997559,4524,ZM
+31164,FLMZ,small_airport,Mazabuka Airport,-15.8500003815,27.7416992188,3450,ZM
+31165,FLNL,small_airport,Namwala Airport,-15.7650003433,26.4319000244,3200,ZM
+31166,FLNY,small_airport,Nyimba Airport,-14.5685997009,30.8341007233,2600,ZM
+31167,FLPA,small_airport,Kasempa Airport,-13.4399995804,25.7859992981,4150,ZM
+31168,FLPE,small_airport,Petauke Airport,-14.1999998093,31.216999054,3300,ZM
+31169,FLPK,small_airport,Mporokoso Airport,-9.3666601181,30.1389007568,4570,ZM
+31170,FLPO,small_airport,Kabompo Airport,-13.5760002136,24.2299995422,3535,ZM
+31171,FLRO,small_airport,Rosa Airport,-9.5268297195,31.2374992371,5000,ZM
+31172,FLRU,small_airport,Rufansa Airport,-15.0830001831,29.6329994202,3000,ZM
+31173,FLSE,small_airport,Serenje Airport,-13.1829996109,30.2329998016,4650,ZM
+31174,FLSH,small_airport,Shiwa n'gandu Airport,-11.2009000778,31.7481994629,4600,ZM
+31175,FLSJ,small_airport,Sakeji Airport,-11.2327003479,24.316400528,4500,ZM
+31176,FLWA,small_airport,West One Airport,-12.8549003601,27.0722007751,4000,ZM
+31177,FLWB,small_airport,West Two Airport,-13.7664003372,27.5172996521,3760,ZM
+31178,FLWC,small_airport,West Three Airport,-13.3552999496,26.6005992889,3650,ZM
+31179,FLWD,small_airport,West Four Airport,-13.6454000473,25.4218997955,3400,ZM
+31180,FLWE,small_airport,West Five Airport,-13.9642000198,24.4605998993,3550,ZM
+31181,FLWF,small_airport,West Six Airport,-12.2172002792,27.4904994965,4000,ZM
+31182,FLWG,small_airport,West Seven Airport,-11.9126996994,25.6844005585,4000,ZM
+31183,FLWW,small_airport,Waka Waka Airport,-12.4504003525,32.2569999695,1800,ZM
+31184,FLYA,small_airport,Samfya Airport,-11.3653001785,29.5480995178,3800,ZM
+31185,FMMJ,small_airport,Ambohijanahary Airport,-17.4644789611,48.3267116547,2496,MG
+31186,FMMP,small_airport,Amparafaravola Airport,-17.6545730219,48.2144451141,2576,MG
+31187,FMSA,small_airport,Ambalavao Airport,-21.8148910188,46.914024353,3189,MG
+31188,FMSE,small_airport,Betroka Airport,-23.2743078483,46.1249828339,2841,MG
+31189,FNCB,small_airport,Camembe Airport,-8.1330003738,14.5,2264,AO
+31190,FNCC,small_airport,Cacolo Airport,-10.2829999924,19.2670001984,3937,AO
+31191,FNCM,small_airport,Camabatela Airport,-8.2170000076,15.3669996262,410,AO
+31192,FNDB,small_airport,Damba Airport,-6.9000000954,15.1330003738,3648,AO
+31193,DFEF,small_airport,Fada N'gourma Airport,12.0329999924,0.349999994,1011,BF
+31195,HAFN,small_airport,Fincha Airport,9.5830001831,37.3499984741,7600,ET
+31196,FNMQ,small_airport,Maquela do Zombo Airport,-6.0302801132,15.1368999481,3051,AO
+31197,FNPB,small_airport,Sanza Pombo Airport,-7.3000001907,15.9329996109,3251,AO
+31198,FNTO,small_airport,Toto Airport,-7.1463899612,14.2486000061,1775,AO
+31201,FOOC,small_airport,Cocobeach Airport,1,9.5830001831,69,GA
+31202,FOGF,small_airport,Fougamou Airport,-1.2829999924,10.6169996262,263,GA
+31203,FQFU,small_airport,Furancungo Airport,-14.9186000824,33.6282997131,,MZ
+31210,FTTE,small_airport,Biltine Airport,14.5170001984,20.8999996185,1680,TD
+31211,FTTF,small_airport,Fada Airport,17.1669998169,21.5669994354,1788,TD
+31212,FTTG,small_airport,Goz-Beida Airport,12.1999998093,21.466999054,1765,TD
+31213,FTTR,small_airport,Zouar Airport,20.4500007629,16.5830001831,2655,TD
+31214,FTTZ,small_airport,Bardai Zougra Airport,21.4500007629,17.0499992371,3524,TD
+31216,FVAB,small_airport,Aberdeen Airport,-18.1669998169,32.6669998169,4495,ZW
+31217,FVAE,small_airport,Braebourne Airport,-16.6669998169,31.2329998016,3600,ZW
+31218,FVBI,small_airport,Binga Airport,-17.6480998993,27.3174991608,1950,ZW
+31219,FVBL,small_airport,Mabalauta Airport,-21.9169998169,31.466999054,950,ZW
+31220,FVBM,small_airport,Bumi Airport,-16.8169994354,28.3500003815,1650,ZW
+31221,FVBO,small_airport,Bosbury Airport,-18.216999054,30.1329994202,3940,ZW
+31222,FVCC,small_airport,C.C. Strip,-17.4330005646,30.2999992371,4050,ZW
+31223,FVCD,small_airport,Chirundu Airport,-16,28.8999996185,1310,ZW
+31224,FVCE,small_airport,Celina Airport,-17.5170001984,30.8500003815,4058,ZW
+31225,FVCM,small_airport,Cam+Motor Airport,-18.2999992371,29.966999054,3720,ZW
+31226,FVCR,small_airport,Chizarira Airport,-17.6830005646,27.8999996185,3280,ZW
+31227,FVCV,small_airport,Chivu Airport,-19.033000946,30.8999996185,4790,ZW
+31228,FVDA,small_airport,Dawsons Airport,-17.0170001984,30.8999996185,4800,ZW
+31229,FVDE,small_airport,Deka Airport,-18.1000003815,26.716999054,1750,ZW
+31230,FVDU,small_airport,Dudley Airport,-18.283000946,31.4829998016,4986,ZW
+31231,FVED,small_airport,Eduan Airport,-18.7670001984,29.783000946,3900,ZW
+31232,FVFG,small_airport,Fothergill Airport,-16.7000007629,28.6669998169,1630,ZW
+31233,FVFI,small_airport,Filabusi Airport,-20.533000946,29.2670001984,3525,ZW
+31234,FVGD,small_airport,Gwanda Airport,-20.8999996185,29,3328,ZW
+31235,FVGT,small_airport,Gaths Mine Airport,-19.9829998016,30.5,3454,ZW
+31236,FVGW,small_airport,Gweru Airport,-19.5499992371,29.7329998016,4660,ZW
+31237,FVHP,small_airport,Home Park Airport,-18.2000007629,31.7329998016,5150,ZW
+31238,FVHY,small_airport,Hippo Valley Airport,-21.0499992371,31.6669998169,1420,ZW
+31239,FVIN,small_airport,Induna Airport,-20.0830001831,28.7000007629,4489,ZW
+31240,FVIT,small_airport,Itafa Airport,-18.2999992371,29.8829994202,3800,ZW
+31241,FVKK,small_airport,Kwekwe Airport,-18.9333000183,29.8428001404,4000,ZW
+31242,FVKW,small_airport,Mkwasine Airport,-20.7999992371,31.8169994354,1620,ZW
+31243,FVKZ,small_airport,Kezi Airport,-20.9169998169,28.4829998016,3300,ZW
+31244,FVLA,small_airport,Langford Airport,-17.9330005646,30.9500007629,4600,ZW
+31245,FVLG,small_airport,Longuiel Airport,-17,29.6329994202,4200,ZW
+31246,FVLU,small_airport,Lusulu Airport,-18.0830001831,27.8670005798,3240,ZW
+31247,FVMA,small_airport,Marondera Airport,-18.1830005646,31.466999054,5370,ZW
+31248,FVMB,small_airport,Mashumbi Airport,-16.1669998169,30.5669994354,1240,ZW
+31249,FVMF,small_airport,Mabikwa Airport,-18.7329998016,27.533000946,3450,ZW
+31250,FVMK,small_airport,Mkonono Airport,-17.716999054,30.4169998169,4650,ZW
+31251,FVMN,small_airport,Mana Pools Airport,-15.7670001984,29.3829994202,1300,ZW
+31252,FVMS,small_airport,Middle Sabi Airport,-20.216999054,32.3670005798,1510,ZW
+31253,FVMW,small_airport,Murewa Airport,-17.6499996185,31.7999992371,4579,ZW
+31254,FVNY,small_airport,Nyanyadzi Airport,-19.7329998016,32.4329986572,1850,ZW
+31255,FVPL,small_airport,Plumtree Airport,-20.4829998016,27.783000946,4527,ZW
+31256,FVRA,small_airport,Ratelshoek Airport,-20.1669998169,32.8330001831,3250,ZW
+31257,FVRE,small_airport,Renroc Airport,-16.966999054,29.5669994354,4200,ZW
+31258,FVRT,small_airport,Rutenga Airport,-21.2329998016,30.7329998016,1825,ZW
+31259,FVRU,small_airport,Rusape Airport,-18.533000946,32.1329994202,4560,ZW
+31260,FVSE,small_airport,Sanyati Estate Airport,-17.966999054,29.216999054,2790,ZW
+31261,FVSN,small_airport,Sun Yet Sen Airport,-21.3330001831,28.5170001984,2891,ZW
+31262,FVSV,small_airport,Spray View Airport,-17.9169998169,25.8169994354,3210,ZW
+31263,FVSX,small_airport,Sengwa Gorge Airport,-18.1669998169,28.8500003815,2900,ZW
+31264,FVSY,small_airport,Siyalima Airport,-16.6329994202,30.6499996185,4540,ZW
+31265,FVTA,small_airport,Tashinga Airport,-16.8169994354,28.4330005646,1630,ZW
+31266,FVTD,small_airport,Tinfields Airport,-19.9500007629,31.4330005646,3600,ZW
+31267,FVTE,small_airport,Tengwe Airport,-17.1170005798,29.6170005798,4000,ZW
+31268,FVTJ,small_airport,Tonje Airport,-20.3169994354,32.3499984741,1500,ZW
+31269,FVTS,small_airport,Tsholothso Airport,-19.7670001984,27.7670001984,3580,ZW
+31270,FVTU,small_airport,Tuli Airport,-21.9349250793,29.1963386536,1940,ZW
+31271,FVWD,small_airport,Wedza Airport,-18.6170005798,31.5830001831,4600,ZW
+31272,FVYT,small_airport,Inyati Airport,-19.7000007629,28.8500003815,4400,ZW
+31273,FVZC,small_airport,Zisco Airport,-19.033000946,29.716999054,3975,ZW
+31274,FVZK,small_airport,Zaka Airport,-20.3500003815,31.4169998169,2550,ZW
+31275,FWCT,small_airport,Chitipa Airport,-9.6999998093,33.266998291,4270,MW
+31276,FWDZ,small_airport,Dedza Airport,-14.3830003738,34.3170013428,5240,MW
+31277,FWKK,small_airport,Nkhota Kota Airport,-12.9169998169,34.266998291,1720,MW
+31278,FWLP,small_airport,Lifupa Airport,-13.0500001907,33.1500015259,3326,MW
+31279,FWMZ,small_airport,Mzimba Airport,-11.8830003738,33.6170005798,4440,MW
+31280,FWNB,small_airport,Ngabu Airport,-16.4829998016,34.8499984741,450,MW
+31281,FWSJ,small_airport,Nsanje Airport,-16.9169998169,35.25,200,MW
+31282,FWTK,small_airport,Mtakatata Airport,-14.2170000076,34.533000946,1725,MW
+31283,FXBB,small_airport,Bobete Airport,-29.4249992371,28.6669998169,7100,LS
+31284,FXKB,small_airport,Kolberg Airport,-29.3803005219,28.4906997681,7000,LS
+31285,FXMA,small_airport,Matsaile Airport,-29.8405990601,28.7763996124,6200,LS
+31286,FXMH,small_airport,Mohale's Hoek Airport,-30.1445007324,27.4708003998,5146,LS
+31287,FXML,small_airport,Malefiloane Airstrip,-29.3355007172,29.185300827,8267,LS
+31288,FXMN,small_airport,Mantsonyane Airport,-29.5461006165,28.2709999084,7100,LS
+31289,FXMP,small_airport,Mohlanapeng Airport,-29.5830001831,28.6830005646,7294,LS
+31290,FXMS,small_airport,Mashai Store Airport,-29.6830005646,28.7999992371,7300,LS
+31291,FXMT,small_airport,Matabeng Store Airport,-29.783000946,28.7670001984,6300,LS
+31292,FXMV,small_airport,Matabeng Village Airport,-29.814699173,28.8082008362,6150,LS
+31293,FXNH,small_airport,Nohanas Airport,-30.0669994354,27.8670005798,5400,LS
+31294,FXSE,small_airport,Sehlabathebe Airport,-29.9158000946,29.0387992859,7300,LS
+31295,FXST,small_airport,St. Theresa Airport,-29.6170005798,28.783000946,6800,LS
+31296,FXTB,small_airport,Tebellong Airport,-30.0499992371,28.4330005646,5600,LS
+31297,FYMB,small_airport,Meob Bay Landing Site,-24.6170005798,14.6829996109,20,NA
+31299,FZAD,small_airport,Celo Zongo Airport,-4.7829999924,14.9169998169,1660,CD
+31300,FZAE,small_airport,Kimpoko Airport,-4.2170000076,15.5670003891,1017,CD
+31301,FZAF,small_airport,Nsangi Airport,-5.5999999046,15.3170003891,2297,CD
+31302,FZAH,small_airport,Tshela Airport,-4.9829998016,12.9329996109,361,CD
+31303,FZAN,small_airport,Inga Airport,-5.5316700935,13.5794000626,741,CD
+31304,FZAP,small_airport,Lukala Airport,-5.5170001984,14.5,1312,CD
+31305,FZAS,small_airport,Inkisi Airport,-5.1669998169,15,1968,CD
+31306,FZAU,small_airport,Konde Airport,-5.75,12.25,7,CD
+31307,FZAW,small_airport,Kwilu-Ngongo Airport,-5.5,14.6999998093,1296,CD
+31308,FZAX,small_airport,Luheki Airport,-4.8499999046,13.7670001984,984,CD
+31309,FZAY,small_airport,Mvula Sanda Airport,-5.632999897,13.4169998169,1148,CD
+31310,FZBB,small_airport,Bongimba Airport,-3.382999897,20,1476,CD
+31311,FZBC,small_airport,Bikoro Airport,-0.7329999804,18.1329994202,1312,CD
+31312,FZBD,small_airport,Oshwe Airport,-3.382999897,19.5,1542,CD
+31313,FZBE,small_airport,Beno Airport,-3.5999999046,17.783000946,1345,CD
+31314,FZBF,small_airport,Bonkita Airport,-3.0999999046,18.7329998016,931,CD
+31315,FZBG,small_airport,Kempa Airport,-2.9330000877,18.3999996185,1148,CD
+31316,FZBH,small_airport,Isongo Airport,-1.3999999762,18.3999996185,1020,CD
+31317,FZBJ,small_airport,Mushie Airport,-3,16.9330005646,1214,CD
+31318,FZBK,small_airport,Boshwe Airport,-3.0666599274,18.6417007446,1181,CD
+31319,FZBL,small_airport,Djokele Airport,-3.0499999523,17.1000003815,1007,CD
+31320,FZBN,small_airport,Malebo Airport,-2.4670000076,16.5499992371,1411,CD
+31321,FZBP,small_airport,Bolongonkele Airport,-2.7999899387,19.9083003998,1158,CD
+31322,FZBQ,small_airport,Bindja Airport,-3.3833301067,19.6597003937,1201,CD
+31323,FZBS,small_airport,Semendua Airport,-3.1830000877,18.0830001831,1148,CD
+31324,FZBU,small_airport,Ipeke Airport,-2.4830000401,18.25,1017,CD
+31325,FZBV,small_airport,Kempile Airport,-2.7170000076,18.1329994202,984,CD
+31326,FZBW,small_airport,Basengele Airport,-1.9170000553,17.9169998169,1309,CD
+31327,FZCD,small_airport,Vanga Airport,-4.4000000954,18.466999054,1312,CD
+31328,FZCF,small_airport,Kahemba Airport,-7.3330001831,19.0170001984,3425,CD
+31329,FZCI,small_airport,Banga Airport,-5.4499998093,20.4500007629,2493,CD
+31330,FZCK,small_airport,Kajiji Airport,-7.617000103,18.5499992371,3510,CD
+31331,FZCL,small_airport,Banza Lute Airport,-4.1999998093,17.8330001831,1476,CD
+31332,FZCM,small_airport,Mangai Ii Airport,-4.0830001831,19.5,1410,CD
+31333,FZCO,small_airport,Boko Airport,-5.3000001907,16.8500003815,2297,CD
+31334,FZCP,small_airport,Popokabaka Airport,-5.6999998093,16.5830001831,1575,CD
+31335,FZCR,small_airport,Busala Airport,-4.132999897,18.716999054,1312,CD
+31336,FZCS,small_airport,Kenge Airport,-4.8388900757,17.0291996002,1808,CD
+31337,FZCT,small_airport,Fatundu Airport,-4.132999897,17.2999992371,1526,CD
+31338,FZCU,small_airport,Ito Airport,-3.3329999447,17.466999054,1148,CD
+31339,FZCW,small_airport,Kikongo Sur Wamba Airport,-4.2670001984,17.2670001984,1312,CD
+31340,FZCX,small_airport,Kimafu Airport,-4.5999999046,17.5830001831,1312,CD
+31341,FZCY,small_airport,Yuki Airport,-4.0830001831,19.4330005646,1398,CD
+31342,FZDA,small_airport,Malanga Airport,-5.5329999924,14.8500003815,1247,CD
+31343,FZDB,small_airport,Kimbau Airport,-5.617000103,17.6000003815,1640,CD
+31344,FZDD,small_airport,Wamba Luadi Airport,-6.5500001907,17.3999996185,2297,CD
+31345,FZDE,small_airport,Tono Airport,-6.5500001907,18.2000007629,2461,CD
+31346,FZDF,small_airport,Nzamba Airport,-6.8330001831,17.6669998169,2953,CD
+31347,FZDG,small_airport,Nyanga Airport,-5.9670000076,20.4169998169,2231,CD
+31348,FZDH,small_airport,Ngi Airport,-4.4169998169,17.1669998169,1509,CD
+31349,FZDJ,small_airport,Mutena Airport,-6.7670001984,21.1499996185,2395,CD
+31350,FZDK,small_airport,Kipata Katika Airport,-5.0329999924,17.6499996185,2133,CD
+31351,FZDL,small_airport,Kolokoso Airport,-4.4499998093,17.4169998169,1312,CD
+31352,FZDM,small_airport,Masamuna Airport,-4.8000001907,17.5830001831,1476,CD
+31353,FZDN,small_airport,Mongo Wa Kenda Airport,-6.9000000954,16.9500007629,1804,CD
+31354,FZDO,small_airport,Moanza Airport,-5.5329999924,17.6170005798,2297,CD
+31355,FZDP,small_airport,Mukedi Airport,-5.6999998093,19.7670001984,1804,CD
+31356,FZDQ,small_airport,Mazelele Airport,-7.2829999924,17.033000946,1650,CD
+31357,FZDR,small_airport,Bokela Airport,-1.1499999762,21.8999996185,1210,CD
+31358,FZDS,small_airport,Yasa Bongo Airport,-4.4499998093,17.783000946,2008,CD
+31359,FZDT,small_airport,Matari Airport,-6.1999998093,17.6499996185,2559,CD
+31360,FZDU,small_airport,Kimpangu Airport,-5.8330001831,15,2133,CD
+31361,FZDY,small_airport,Missayi Airport,-3.882999897,17.3500003815,1280,CD
+31362,FZEB,small_airport,Monieka Airport,-0.0670000017,19.9829998016,1253,CD
+31363,FZEI,small_airport,Ingende Airport,0.25,18.9330005646,1246,CD
+31364,FZEM,small_airport,Yembe Moke Airport,-4.6830000877,18.216999054,1220,CD
+31365,FZEO,small_airport,Beongo Airport,1.0169999599,20.6000003815,1279,CD
+31366,FZEP,small_airport,Mentole Airport,1.3170000315,20.7000007629,1295,CD
+31367,FZER,small_airport,Kodoro Airport,1.2829999924,20.3330001831,1312,CD
+31368,FZES,small_airport,Ngumu Airport,1.4670000076,20.2999992371,1227,CD
+31369,FZFB,small_airport,Imesse Airport,2.5169999599,18.283000946,1110,CD
+31370,FZFC,small_airport,Engengele Airport,2.0999999046,22.6972007751,1279,CD
+31371,FZFE,small_airport,Abumumbazi Airport,3.6830000877,22.1499996185,1499,CD
+31372,FZFF,small_airport,Bau Airport,3.7330000401,19.0830001831,1640,CD
+31373,FZFG,small_airport,Bokada Airport,4.117000103,19.4169998169,1647,CD
+31374,FZFH,small_airport,Mokaria-Yamoleka Airport,2.117000103,23.283000946,1378,CD
+31375,FZFJ,small_airport,Goyongo Airport,4.1830000877,19.783000946,1640,CD
+31376,FZFL,small_airport,Kala Airport,3.383611111,18.654722222,1640,CD
+31377,FZFN,small_airport,Lombo Airport,4.4388899803,19.5389003754,2331,CD
+31378,FZFQ,small_airport,Mpaka Airport,4.117000103,19.216999054,1969,CD
+31379,FZFR,small_airport,Mombongo Airport,1.6499999762,23.1499996185,1476,CD
+31380,FZFS,small_airport,Karawa Airport,3.367000103,20.2999992371,1640,CD
+31381,FZFT,small_airport,Tandala Airport,2.9775845186,19.3514084816,1640,CD
+31382,FZFV,small_airport,Gbado Airport,3.882999897,20.783000946,1476,CD
+31383,FZFW,small_airport,Gwaka Airport,2.4670000076,20.1000003815,1476,CD
+31384,FZGB,small_airport,Bosondjo Airport,1.8669999838,21.783000946,1312,CD
+31385,FZGC,small_airport,Bolila Airport,1.8500000238,23.1170005798,1279,CD
+31386,FZGE,small_airport,Binga Airport,2.4330000877,20.5,1476,CD
+31387,FZGF,small_airport,Bokungu Airport,-0.6830000281,22.3330001831,1214,CD
+31388,FZGG,small_airport,Mondombe Airport,-0.8830000162,22.8169994354,1457,CD
+31389,FZGH,small_airport,Wema Airport,-0.4329999983,21.6499996185,1368,CD
+31390,FZGI,small_airport,Yalingimba Airport,2.2829999924,22.8500003815,1427,CD
+31391,FZGT,small_airport,Boteka Airport,-0.3170000017,19.0669994354,1247,CD
+31392,FZGX,small_airport,Monkoto Airport,-1.6000000238,20.6499996185,1282,CD
+31393,FZGY,small_airport,Yemo Airport,-0.4670000076,21.9330005646,1525,CD
+31394,FZIG,small_airport,KM 95 CFL Airport,-0.150000006,25.3500003815,1591,CD
+31395,FZIK,small_airport,Katende Airport,0.3330000043,25.5,1476,CD
+31396,FZIZ,small_airport,Lokutu Airport,1.1169999838,23.6170005798,1214,CD
+31397,FZJB,small_airport,Doko Airport,3.2330000401,29.5669994354,2874,CD
+31398,FZJC,small_airport,Dungu-Uye Airport,3.5999999046,28.8999996185,2378,CD
+31399,FZJD,small_airport,Doruma Airport,4.7329998016,27.6830005646,2378,CD
+31400,FZJF,small_airport,Aba Airport,3.9000000954,30.25,3051,CD
+31401,FZJI,small_airport,Watsa Airport,3.0169401169,29.5592002869,3199,CD
+31402,FZJK,small_airport,Faradje Airport,3.7330000401,29.7000007629,2690,CD
+31403,FZJN,small_airport,Luniemu Airport,-8.1999998093,24.7329998016,3272,CD
+31404,FZJR,small_airport,Kere Kere Airport,2.7330000401,30.533000946,4429,CD
+31405,FZKB,small_airport,Bambili-Dingila Airport,3.6500000954,26.1170005798,2050,CD
+31406,FZKC,small_airport,Mahagi Airport,2.1670000553,31.1499996185,2555,CD
+31407,FZKF,small_airport,Kilomines Airport,1.8170000315,30.2329998016,4593,CD
+31408,FZKI,small_airport,Yedi Airport,2.0329999924,24.7999992371,3642,CD
+31409,FZKN,small_airport,Aketi Airport,2.7000000477,23.8330001831,1230,CD
+31410,FZKO,small_airport,Ango Airport,4.0289998055,25.8619995117,2133,CD
+31411,FZMC,small_airport,Mulungu Airport,-2.9830000401,27.8500003815,2400,CD
+31412,FZMD,small_airport,Nzovu Airport,-2.5829999447,27.9829998016,1970,CD
+31413,FZMK,small_airport,Bulongo Kigogo Airport,-2.6670000553,28.7999992371,5249,CD
+31414,FZMP,small_airport,Kimano Ii Airport,-4.382999897,28.3500003815,2461,CD
+31415,FZMW,small_airport,Shabunda Airport,-2.6830000877,27.3330001831,1837,CD
+31416,FZNB,small_airport,Katale Airport,-1.3047200441,29.3738994598,4589,CD
+31417,FZNC,small_airport,Rutshuru Airport,-1.1670000553,29.4169998169,3707,CD
+31418,FZNF,small_airport,Lubero Airport,-0.1330000013,29.25,5906,CD
+31419,FZNI,small_airport,Ishasha Airport,-0.75,29.6329994202,820,CD
+31420,FZNK,small_airport,Katanda Rusthuru Airport,-0.8000000119,29.3670005798,2297,CD
+31421,FZNQ,small_airport,Obaye Airport,-1.3329999447,27.7329998016,2000,CD
+31422,FZNR,small_airport,Rwindi Airport,-0.7902780175,29.2749996185,3412,CD
+31423,FZOB,small_airport,Tingi-Tingi Airport,-0.7624999881,26.6096992493,862,CD
+31424,FZOE,small_airport,Kampene Airport,-3.5829999447,26.7000007629,2034,CD
+31425,FZOF,small_airport,Kiapupe Airport,-2.9000000954,27.2999992371,3281,CD
+31426,FZOG,small_airport,Lulingu Tshionka Airport,-2.3169999123,27.5499992371,1968,CD
+31427,FZOH,small_airport,Moga Airport,-2.4670000076,26.7999992371,2018,CD
+31428,FZOJ,small_airport,Obokote Airport,-0.8500000238,26.3330001831,1378,CD
+31429,FZOK,small_airport,Kasongo Airport,-4.5329999924,26.6170005798,1785,CD
+31430,FZOO,small_airport,Kailo Airport,-2.632999897,26.1000003815,1804,CD
+31431,FZOQ,small_airport,Punia-Basenge Airport,-1.4670000076,26.4330005646,1738,CD
+31432,FZOR,small_airport,Saulia Airport,-1.5329999924,26.533000946,1870,CD
+31433,FZOS,small_airport,Kasese Airport,-1.6330000162,27.0499992371,1863,CD
+31434,FZOT,small_airport,Phibraki Airport,-2.9330000877,27.533000946,2100,CD
+31435,FZPB,small_airport,Kamituga Airport,-3.0329999924,28.1170005798,3871,CD
+31436,FZPC,small_airport,Lugushwa Airport,-3.3169999123,27.8829994202,2300,CD
+31437,FZQD,small_airport,Mulungwishi Airport,-10.75,26.6329994202,3500,CD
+31438,FZQF,small_airport,Fungurume Airport,-10.5333003998,26.3250007629,3855,CD
+31439,FZQH,small_airport,Katwe Airport,-10.5500001907,27.8500003815,5577,CD
+31440,FZQI,small_airport,Kamatanda Airport,-10.8330001831,26.75,4261,CD
+31441,FZQJ,small_airport,Mwadingusha Airport,-10.75,27.2000007629,3707,CD
+31442,FZQN,small_airport,Mutshatsha Airport,-10.5670003891,24.3999996185,3806,CD
+31443,FZQP,small_airport,Kisenge Airport,-10.6669998169,23.1669998169,3412,CD
+31444,FZQU,small_airport,Lubudi Airport,-9.9329996109,26,4541,CD
+31445,FZQV,small_airport,Mitwaba Airport,-8.6450004578,27.3449993134,5240,CD
+31446,FZRC,small_airport,Mukoy Airport,-7.5329999924,28.7000007629,5249,CD
+31447,FZRD,small_airport,Kabombo Airport,-7.3499999046,28.033000946,1969,CD
+31448,FZRE,small_airport,Bukena Airport,-7.75,27.2000007629,3868,CD
+31449,FZRG,small_airport,Sominka Airport,-7.4169998169,27.1499996185,2066,CD
+31450,FZRJ,small_airport,Pepa Airport,-7.7170000076,29.7999992371,6562,CD
+31451,FZRK,small_airport,Kansimba Airport,-7.3169999123,29.1669998169,5413,CD
+31452,FZRL,small_airport,Lusinga Airport,-8.9329996109,27.1830005646,5840,CD
+31453,FZRN,small_airport,Nyunzu Airport,-5.9330000877,28,2297,CD
+31454,FZRO,small_airport,Luvua Airport,-7.9330000877,28.533000946,4298,CD
+31455,FZSB,small_airport,Ville Airport,-8.7286100388,24.991399765,3475,CD
+31456,FZSC,small_airport,Songa Airport,-8.1000003815,25.033000946,3526,CD
+31457,FZSD,small_airport,Sandoa Airport,-9.6330003738,22.8500003815,3022,CD
+31458,FZSE,small_airport,Kanene Airport,-9.3000001907,24.6669998169,3707,CD
+31459,FZSI,small_airport,Dilolo Airport,-10.7170000076,22.3500003815,3378,CD
+31460,FZSJ,small_airport,Kasaji Airport,-10.3500003815,23.4169998169,3297,CD
+31461,FZTL,small_airport,Luena Airport,-9.4670000076,25.75,2349,CD
+31462,FZTS,small_airport,Kaniama Airport,-7.6999998093,24.0499992371,2871,CD
+31463,FZUE,small_airport,Lubondaie Airport,-6.5830001831,22.5,2657,CD
+31464,FZUF,small_airport,Kasonga Airport,-6.6500000954,22.3829994202,2707,CD
+31465,FZUH,small_airport,Moma Airport,-7.2329998016,22.6000003815,2789,CD
+31466,FZUI,small_airport,Mboi Airport,-6.8330001831,22,2789,CD
+31467,FZUJ,small_airport,Muambi Airport,-6.6830000877,22.533000946,2493,CD
+31468,FZUL,small_airport,Bulape Airport,-4.617000103,21.6000003815,1640,CD
+31469,FZUM,small_airport,Mutoto Airport,-5.6999998093,23.716999054,2297,CD
+31470,FZUN,small_airport,Luebo Airport,-5.3499999046,21.3330001831,1640,CD
+31471,FZUO,small_airport,Musese Airport,-5.5,21.4330005646,1870,CD
+31472,FZUP,small_airport,Diboko Airport,-7.0036101341,21.2441997528,2431,CD
+31473,FZUR,small_airport,Tshibala Airport,-6.9330000877,22,2287,CD
+31474,FZUS,small_airport,Tshikaji Airport,-5.9670000076,22.4169998169,2287,CD
+31475,FZUT,small_airport,Katubwe Airport,-6.0500001907,22.6000003815,2461,CD
+31476,FZUU,small_airport,Lutshatsha Airport,-6.2170000076,22.0830001831,2329,CD
+31477,FZUV,small_airport,Kalonda Airport,-6.4670000076,20.7999992371,1873,CD
+31478,FZVC,small_airport,Kole Sur Lukenie Airport,-3.4000000954,22.533000946,1542,CD
+31479,FZVD,small_airport,Dingele Airport,-3.5999999046,24.5830001831,1985,CD
+31480,FZVE,small_airport,Lomela Airport,-2.2999999523,23.2670001984,1434,CD
+31481,FZVF,small_airport,Kutusongo Airport,-2.6670000553,23.1669998169,1722,CD
+31482,FZVG,small_airport,Katako'kombe Airport,-3.4670000076,24.4330005646,1978,CD
+31483,FZVH,small_airport,Shongamba Airport,-4.3499999046,21.283000946,2133,CD
+31484,FZVJ,small_airport,Tshumbe Airport,-4.0999999046,24.3670005798,1804,CD
+31485,FZVK,small_airport,Lukombe-Batwa Airport,-4.3330001831,22.0830001831,1640,CD
+31486,FZVL,small_airport,Wasolo Airport,-3.9500000477,22.5170001984,1673,CD
+31487,FZVN,small_airport,Wembo-Nyama Airport,-4.4829998016,24.4500007629,1801,CD
+31488,FZVO,small_airport,Beni-Dibele Airport,-4.0830001831,22.8330001831,1738,CD
+31489,FZVP,small_airport,Dikungu Airport,-4.0329999924,24.466999054,1833,CD
+31490,FZVT,small_airport,Dekese Airport,-3.4670000076,21.4330005646,1279,CD
+31491,FZVU,small_airport,Idumbe Airport,-3.9170000553,21.5830001831,1847,CD
+31492,FZWB,small_airport,Bibanga Airport,-6.25,23.9829998016,2953,CD
+31493,FZWE,small_airport,Mwene-Ditu Airport,-6.9829998016,23.0830001831,3198,CD
+31494,FZWF,small_airport,Kipushi Airport,-6.1669998169,25.1830005646,2953,CD
+31495,FZWI,small_airport,Kashia Airport,-7.2170000076,23.75,2887,CD
+31496,FZWL,small_airport,Munkamba Airport,-5.7670001984,23.0499992371,2230,CD
+31497,FZWR,small_airport,Kisengwa Airport,-6.0170001984,25.8829994202,2428,CD
+31498,FZWS,small_airport,Lubao Airport,-5.3000001907,25.7329998016,2625,CD
+31499,GAAO,small_airport,Ansongo Airport,15.6999998093,0.5,853,ML
+31500,GABD,small_airport,Bandiagara Airport,14.3330001831,-3.5999999046,1312,ML
+31501,GABF,small_airport,Bafoulabe Airport,13.8000001907,-10.8500003815,380,ML
+31502,GABG,small_airport,Bougouni Airport,11.4499998093,-7.5170001984,1139,ML
+31503,GABR,small_airport,Bourem Airport,17.033000946,-0.400000006,941,ML
+31504,GADA,small_airport,Dioila Airport,12.5,-6.8000001907,1050,ML
+31505,GADZ,small_airport,Douentza Airport,15,-2.9170000553,984,ML
+31506,GAFD,small_airport,Faladie Airport,13.1499996185,-8.3330001831,1115,ML
+31507,GAKL,small_airport,Kidal Airport,18.4330005646,1.4170000553,1496,ML
+31508,GAKM,small_airport,Ke-Macina Airport,13.9670000076,-5.382999897,902,ML
+31509,GAKN,small_airport,Kolokani Airport,13.5329999924,-8.0500001907,1457,ML
+31510,GAKT,small_airport,Kita Airport,13.0670003891,-9.4829998016,1122,ML
+31511,GAMA,small_airport,Markala Airport,13.6999998093,-6.0669999123,1251,ML
+31512,GAMK,small_airport,Menaka Airport,15.8500003815,2.4330000877,899,ML
+31513,GANF,small_airport,Niafunke Airport,15.9329996109,-4.0170001984,866,ML
+31514,HKGA,small_airport,Garissa Airport,-0.4635080099,39.6483001709,475,KE
+31517,GFGK,small_airport,Gbangbatok Airport,7.7670001984,-12.3830003738,75,SL
+31518,HSKG,small_airport,Khashm El Girba Airport,14.9250001907,35.8779983521,1560,SD
+31521,FZWC,small_airport,Gandajika Airport,-6.7329998016,23.9500007629,2618,CD
+31525,GFHA,small_airport,Hastings Airport,8.3971300125,-13.1290998459,60,SL
+31526,GFTO,small_airport,Tongo Airport,8.2170000076,-11.0670003891,750,SL
+31527,DIGA,small_airport,Gagnoa Airport,6.132999897,-5.9499998093,732,CI
+31528,DIGL,small_airport,Guiglo Airport,6.5249900818,-7.4786100388,722,CI
+31529,HBBE,small_airport,Gitega Airport,-3.4172093868,29.9113082886,5741,BI
+31530,GUSI,small_airport,Siguiri Airport,11.4329996109,-9.1669998169,1296,GN
+31533,GLBU,small_airport,Buchanan Airport,5.1676502228,-9.2834701538,41,LR
+31534,ET-GLC,small_airport,Geladi Airport,6.9844398499,46.4213981628,1383,ET
+31535,GLCM,small_airport,Robertsport/Cape Mount Airport,6.8000001907,-11.3669996262,10,LR
+31536,HCMR,small_airport,Galcaio Airport,6.7808299065,47.45470047,975,SO
+31538,GLLB,small_airport,Lamco Airport,5.867000103,-10.0500001907,30,LR
+31539,MA-GLN,small_airport,Goulimime Airport,29.0266990662,-10.0502996445,984,MA
+31543,FCOG,small_airport,Gamboma Airport,-1.8669999838,15.8669996262,1509,CG
+31544,GMMB,small_airport,Ben Slimane Airport,33.6553993225,-7.221449852,627,MA
+31545,HAGH,small_airport,Ghinnir Airport,7.1500000954,40.716999054,6499,ET
+31546,HAGB,small_airport,Robe Airport,7.0170001984,40,7892,ET
+31547,HAGR,small_airport,Gore Airport,8.1614,35.5529,6580,ET
+31548,GQNM,small_airport,Dahara Airport,16.2999992371,-8.0500001907,722,MR
+31553,HSGF,small_airport,Azaza Airport,14.1330003738,35.3170013428,1640,SD
+31555,GAGM,small_airport,Goundam Airport,16.3614006042,-3.5997200012,866,ML
+31556,GUGO,small_airport,Gbenko Airport,9.2460298538,-9.2951402664,2133,GN
+31557,GUKR,small_airport,Kawass Airport,10.6510000229,-14.5335998535,36,GN
+31558,GUSA,small_airport,Sangaredi Airport,11.1169996262,-13.8330001831,686,GN
+31560,GVAN,small_airport,Agostinho Neto Airport,17.2028007507,-25.0905990601,32,CV
+31561,FKKJ,small_airport,Yagoua Airport,10.3561000824,15.2371997833,,CM
+31564,HAAD,small_airport,Adaba Airport,7.0500001907,39.4000015259,7896,ET
+31565,HADO,small_airport,Dodola Airport,7.0205597878,39.0511016846,8234,ET
+31566,HAMJ,small_airport,Tume Airport,5.8330001831,35.533000946,2500,ET
+31567,HAML,small_airport,Masslo Airport,6.4080600739,39.7238998413,4180,ET
+31568,HAMM,small_airport,Metema Airport,12.9329996109,36.1669998169,2650,ET
+31569,HASH,small_airport,Sheik Hussein Airport,7.1500000954,40.5670013428,6500,ET
+31572,HCMN,small_airport,Belet Uen Airport,4.6999998093,45.216999054,559,SO
+31574,HDCH,small_airport,Chabelley Airport,11.5167999268,43.0614013672,279,DJ
+31579,HKBR,small_airport,Bura East Airport,-1.1000000238,39.9500007629,345,KE
+31580,HKEM,small_airport,Embu Airport,-0.5669999719,37.483001709,4150,KE
+31581,HKEW,small_airport,El Wak Airport,2.7330000401,40.9329986572,1295,KE
+31582,HKGT,small_airport,Garba Tula Airport,0.5329999924,38.516998291,2000,KE
+31583,HKHB,small_airport,Homa Bay Airport,-0.6000000238,34.466999054,4280,KE
+31584,HKIS,small_airport,Isiolo Airport,0.3381709456,37.5916938782,3495,KE
+31586,HKKB,small_airport,Kiambere Airport,-0.6330000162,37.8829994202,2450,KE
+31587,HKKE,small_airport,Keekorok Airport,-1.5829999447,35.25,5800,KE
+31588,HKKS,small_airport,Kisii Airport,-0.6669999957,34.7000007629,4905,KE
+31589,HKKU,small_airport,Kitui Airport,-1.372789979,37.978099823,3790,KE
+31590,HKLG,small_airport,Lokitaung Airport,4.3789000511,35.6589012146,1805,KE
+31591,HKMI,small_airport,Maralal (Kisima) Airport,0.9499999881,36.7999992371,5940,KE
+31592,HKMK,small_airport,Meru Mulika Airport,0.2329999954,38.1829986572,2230,KE
+31593,HKMM,small_airport,Migori Airport,-1.1169999838,34.483001709,4575,KE
+31594,HKMS,medium_airport,Mara Serena Lodge Airstrip,-1.406111002,35.0080566406,5200,KE
+31595,HKNO,small_airport,Narok Airport,-1.1499999762,35.766998291,6070,KE
+31596,HKUK,small_airport,Ukunda Airstrip,-4.2933301926,39.5710983276,98,KE
+31598,HKVO,small_airport,Voi Airport,-3.3745388985,38.5347480774,1900,KE
+31599,HKWE,small_airport,Webuye Airport,0.6169999838,34.783000946,4300,KE
+31600,HLAM,small_airport,Amal V12 Airport,29.4794998169,21.1224002838,145,LY
+31601,HLBD,small_airport,Beda (M-3) Airport,28.5032997131,19.0027999878,499,LY
+31602,HLNR,small_airport,Nafurah 1 Airport,29.2131996155,21.5923995972,122,LY
+31604,HLSA,small_airport,Sarir (C-4) Airport,27.662399292,22.508600235,400,LY
+31607,HLWA,small_airport,Warehouse 59A Airport,28.3223991394,19.9300003052,488,LY
+31608,HLZG,small_airport,Oxy A 103 Airport,29.0062999725,20.7861003876,318,LY
+31611,HKHO,small_airport,Hola Airport,-1.5219999552,40.0040016174,195,KE
+31612,HRYN,small_airport,Nemba Airport,-2.3329999447,30.2000007629,4905,RW
+31613,HRYO,small_airport,Gabiro Airport,-1.5499999523,30.3829994202,4806,RW
+31614,HSAW,small_airport,Aweil Airport,8.7670001984,27.3999996185,1394,SS
+31615,HSBR,small_airport,Bor Airport,6.1999998093,31.5669994354,1394,SS
+31616,HSBT,small_airport,Bentu Airport,9.2170000076,29.8169994354,2000,SS
+31617,HSCG,small_airport,Carthago Airport,18.75,37,3230,SD
+31618,HSDL,small_airport,Dilling Airport,11.9905996323,29.6732006073,2206,SD
+31619,HSGO,small_airport,Gogrial Airport,18.8670005798,28.1170005798,1640,SD
+31620,HSKJ,small_airport,Kago Kaju Airport,3.9170000553,31.6669998169,2500,SS
+31621,HSKP,small_airport,Kapoeta Airport,4.7829999924,33.5830001831,2220,SS
+31622,HSMD,small_airport,Marida Airport,4.9169998169,29.466999054,1901,SS
+31623,HSMK,small_airport,Rumbek Airport,6.8249998093,29.6690006256,1378,SS
+31625,HSND,small_airport,Shendi Airport,16.7000007629,33.4329986572,1181,SD
+31626,HSNM,small_airport,Nimuli Airport,3.617000103,32.1329994202,2059,SS
+31627,HSPA,small_airport,Pachella Airport,7.178563118,34.0973587036,2000,SS
+31628,HSRJ,small_airport,Raga Airport,8.4611101151,25.6811008453,1788,SS
+31629,HSSP,small_airport,Port Sudan Air Base,19.576499939,37.2159004211,10,SD
+31630,HSTO,small_airport,Tong Airport,7.2670001984,28.9829998016,1413,SS
+31631,HSTR,small_airport,Torit Airport,4.4000000954,32.5830001831,2050,SS
+31632,HSTU,small_airport,Tumbura Airport,5.5999999046,27.4500007629,2230,SS
+31633,HSYA,small_airport,Yambio Airport,4.567220211,28.4239006042,2375,SS
+31634,HSYE,small_airport,Yei Airport,4.0830001831,30.6499996185,2000,SS
+31635,HSYL,small_airport,Yirol Airport,6.5669999123,30.5,1424,SS
+31636,HSZA,small_airport,Zalingei Airport,12.8999996185,23.4829998016,2953,SD
+31637,HTCH,small_airport,Chunya Airport,-8.5500001907,33.4329986572,5000,TZ
+31638,HTKO,small_airport,Kongwa Airport,-6.1500000954,36.4169998169,3300,TZ
+31639,HTKT,small_airport,Kilimatinde Airport,-5.8330001831,34.9329986572,3608,TZ
+31640,HTMG,small_airport,Morogoro Airport,-6.7972202301,37.6530990601,1676,TZ
+31641,HTMO,small_airport,Mombo Airport,-4.882999897,38.283000946,1350,TZ
+31642,HTMP,small_airport,Mpanda Airport,-6.3499999046,31.0830001831,3520,TZ
+31643,HTMX,small_airport,Mpwapwa Airport,-6.3499999046,36.483001709,3240,TZ
+31645,HTSD,small_airport,Singida Airport,-4.8169999123,34.733001709,5000,TZ
+31646,HTSE,small_airport,Same Airport,-4.0830001831,37.716999054,3000,TZ
+31647,HTSH,small_airport,Mafinga Airport,-8.3500003815,35.2999992371,6300,TZ
+31648,HTTU,small_airport,Tunduru Airport,-11.1000003815,37.3670005798,2200,TZ
+31649,HTUR,small_airport,Urambo Airport,-5.0669999123,32.0499992371,3600,TZ
+31650,HTWK,small_airport,West Kilimanjaro Airport,-3.0499999523,37,4300,TZ
+31653,HAHU,small_airport,Humera Airport,14.25,36.5830001831,1930,ET
+31654,BW-HUK,small_airport,Hukuntsi Airport,-23.9897003174,21.7581005096,,BW
+31655,HULI,small_airport,Lira Airport,2.25,32.9169998169,3580,UG
+31665,FZCB,small_airport,Idiofa Airport,-5,19.6000003815,2299,CD
+31668,FMSI,small_airport,Ihosy Airport,-22.4047202024,46.1649370193,2500,MG
+31671,FZGV,small_airport,Ikela Airport,-1.2000000477,23.283000946,1283,CD
+31672,FMMQ,small_airport,Atsinanana Airport,-19.5830001831,48.8030014038,33,MG
+31673,HKKL,small_airport,Kilaguni Airport,-2.9106099606,38.0652008057,2750,KE
+31676,FEFZ,small_airport,Zemio Airport,5.0500001907,25.1499996185,1995,CF
+31678,DATG,small_airport,In Guezzam Airport,19.5669994354,5.75,1312,DZ
+31679,FZBA,small_airport,Inongo Airport,-1.9472199678,18.2858009338,1040,CD
+31680,FCOI,small_airport,Impfondo Airport,1.6169999838,18.0669994354,1099,CG
+31687,FEFI,small_airport,Birao Airport,10.2363996506,22.7168998718,1696,CF
+31688,FMNJ,small_airport,Ambanja Airport,-13.6457053132,48.4594273567,36,MG
+31702,HUJI,small_airport,Jinja Airport,0.4499999881,33.2000007629,3855,UG
+31708,HTNJ,small_airport,Njombe Airport,-9.3500003815,34.7999992371,6400,TZ
+31715,FMMK,small_airport,Ankavandra Airport,-18.8050095209,45.2734673023,427,MG
+31716,FZSK,small_airport,Kapanga Airport,-8.3500003815,22.5830001831,3025,CD
+31721,GFKB,small_airport,Kabala Airport,9.6383229134,-11.5155601501,1012,SL
+31724,HUKF,small_airport,Kabalega Falls Airport,2.326390028,31.497800827,2365,UG
+31725,FKKB,small_airport,Kribi Airport,2.8738899231,9.9777803421,148,CM
+31726,FZWT,small_airport,Tunta Airport,-6.132999897,24.4829998016,2766,CD
+31727,FZRM,small_airport,Kabalo Airport,-6.0830001831,26.9169998169,1840,CD
+31728,GFBO,medium_airport,Bo Airport,7.9443998337,-11.7609996796,328,SL
+31733,HUMI,small_airport,Masindi Airport,1.7580599785,31.736700058,3850,UG
+31734,DBBK,small_airport,Kandi Airport,11.1330003738,2.9330000877,951,BJ
+31736,FOGJ,small_airport,Ville Airport,-0.1829999983,10.75,164,GA
+31737,FOGE,small_airport,Ndende Airport,-2.4000000954,11.3669996262,417,GA
+31739,FZQG,small_airport,Kasenga Airport,-10.3500003815,28.6329994202,3146,CD
+31740,FCOK,small_airport,Kelle Airport,-0.0829999968,14.5329999924,1526,CG
+31741,GFKE,medium_airport,Kenema Airport,7.8912901878,-11.1766004562,485,SL
+31742,DIOD,small_airport,Odienne Airport,9.5,-7.5669999123,1365,CI
+31743,HKKR,small_airport,Kericho Airport,-0.4169999957,35.25,6562,KE
+31751,FBKR,small_airport,Khwai River Lodge Airport,-19.1499996185,23.783000946,3000,BW
+31753,ZA-KIG,small_airport,Koingnaas Airport,-30.1877994537,17.2791996002,228,ZA
+31754,HTKI,small_airport,Kilwa Masoko Airport,-8.9329996109,39.516998291,50,TZ
+31756,FLKL,small_airport,Kalabo Airport,-14.9982995987,22.6453990936,3450,ZM
+31757,FKKH,small_airport,Ka�l� Airport,10.092499733,14.445599556,1276,CM
+31758,HKFG,small_airport,Kalokol Airport,3.4830000401,35.8330001831,1245,KE
+31759,FZOD,small_airport,Kinkungwa Airport,-2.5780000687,26.7339992523,1808,CD
+31760,FCPA,small_airport,Makabana Airport,-3.4830000401,12.6169996262,495,CG
+31762,FLKO,small_airport,Kaoma Airport,-14.8000001907,24.783000946,3670,ZM
+31763,FCBK,small_airport,Kindamba Airport,-3.9500000477,14.5170001984,1460,CG
+31764,FZTK,small_airport,Kaniama Airport,-7.5830001831,24.1499996185,2772,CD
+31765,GAKA,small_airport,Kenieba Airport,12.8330001831,-11.25,449,ML
+31767,FZRQ,small_airport,Kongolo Airport,-5.3944401741,26.9899997711,1850,CD
+31775,FZBT,small_airport,Basango Mboliasa Airport,-1.4349999428,19.0240001678,1013,CD
+31776,HUKS,small_airport,Kasese Airport,0.1829999983,30.1000003815,3146,UG
+31777,GUKU,small_airport,Kissidougou Airport,9.1605596542,-10.1244001389,1808,GN
+31778,GASK,small_airport,Sikasso Airport,11.3330001831,-5.6999998093,1378,ML
+31779,HSKI,small_airport,Kosti Airport,13.1829996109,32.733001709,1289,SD
+31783,GAKO,small_airport,Koutiala Airport,12.3830003738,-5.4670000076,1240,ML
+31796,KE-LBK,small_airport,Liboi Airport,0.3483330011,40.8816986084,280,KE
+31797,FZVI,small_airport,Lusambo Airport,-4.9616699219,23.3782997131,1407,CD
+31798,FCBL,small_airport,Lague Airport,-2.4500000477,14.5329999924,2756,CG
+31801,HTLI,small_airport,Kikwetu Airport,-9.8511104584,39.7578010559,100,TZ
+31806,FXLK,small_airport,Lebakeng Airport,-29.8908004761,28.6555995941,6000,LS
+31808,FXLS,small_airport,Lesobeng Airport,-29.7828998566,28.3166999817,7130,LS
+31815,HAKL,small_airport,Kelafo East Airport,5.6570000648,44.3499984741,1730,ET
+31825,FZFA,small_airport,Libenge Airport,3.632999897,18.6329994202,1125,CD
+31826,FWLK,small_airport,Likoma Island Airport,-12.0830001831,34.733001709,1600,MW
+31827,FZVA,small_airport,Lodja Airport,-3.4170000553,23.4500007629,1647,CD
+31833,FWSM,small_airport,Salima Airport,-13.75,34.5830001831,1688,MW
+31842,HKLY,small_airport,Loyengalani Airport,2.75,36.716999054,1195,KE
+31855,FTTH,small_airport,Lai Airport,9.3999996185,16.2999992371,1171,TD
+31857,FOOR,small_airport,Lastourville Airport,-0.8266670108,12.7486000061,1585,GA
+31863,FZCE,small_airport,Lusanga Airport,-4.8000001907,18.716999054,1365,CD
+31869,FLLK,small_airport,Lukulu Airport,-14.3747997284,23.2495002747,3480,ZM
+31873,FZUG,small_airport,Luiza Airport,-7.1830000877,22.3999996185,2890,CD
+31875,FZAL,small_airport,Luozi Airport,-4.9499998093,14.1330003738,722,CD
+31877,FZAM,small_airport,Tshimpi Airport,-5.7996101379,13.4404001236,1115,CD
+31879,GOSM,medium_airport,Ouro Sogui Airport,15.5936002731,-13.3227996826,85,SN
+31880,FOGG,small_airport,M'Bigou Airport,-1.8830000162,11.9329996109,2346,GA
+31881,HTMB,small_airport,Mbeya Airport,-8.9169998169,33.466999054,5600,TZ
+31884,HUMA,small_airport,Mbarara Airport,-0.5552780032,30.5993995667,4600,UG
+31886,GUMA,small_airport,Macenta Airport,8.5329999924,-9.4670000076,1690,GN
+31891,FZVM,small_airport,Mweka Airport,-4.8499999046,21.5499992371,1968,CD
+31893,HTMA,small_airport,Mafia Island Airport,-7.9169998169,39.6669998169,60,TZ
+31894,FOOD,small_airport,Moanda Airport,-1.5329999924,13.2670001984,1877,GA
+31899,HCMM,medium_airport,Aden Adde International Airport,2.0144400597,45.3046989441,29,SO
+31902,FOGI,small_airport,Moabi Airport,-2.4330000877,11,787,GA
+31912,FMSJ,small_airport,Manja Airport,-21.4261052506,44.31650877,787,MG
+31915,FOOE,small_airport,Mekambo Airport,1.0169999599,13.9329996109,1686,GA
+31916,FEGE,small_airport,M'Boki Airport,5.3330101967,25.9319000244,1969,CF
+31917,FCOM,small_airport,Makoua Airport,-0.0170000009,15.5830001831,1293,CG
+31921,FKKF,small_airport,Mamfe Airport,5.7041702271,9.3063898087,413,CM
+31922,FLBA,small_airport,Mbala Airport,-8.85916996,31.3363990784,5454,ZM
+31929,FZRA,small_airport,Manono Airport,-7.2888898849,27.3943996429,2077,CD
+31934,GQNL,small_airport,Letfotar Airport,17.75,-12.5,256,MR
+31944,LY-MRA,small_airport,Misratah Airport,32.3250007629,15.0609998703,60,LY
+31957,FZCV,small_airport,Masi Manimba Airport,-4.7829999924,17.8500003815,1952,CD
+31959,FCMM,small_airport,Mossendjo Airport,-2.9500000477,12.6999998093,1519,CG
+31960,HAMT,small_airport,Mizan Teferi Airport,6.9571,35.5547,4396,ET
+31961,GVMT,small_airport,Mosteiros Airport,15.0450000763,-24.3391990662,66,CV
+31963,MTU,small_airport,Montepuez Airport,-13.1218996048,39.0527992249,,MZ
+31971,FCBM,small_airport,Mouyondzi Airport,-4.0148739815,13.9661121368,1670,CG
+31972,HTMU,small_airport,Musoma Airport,-1.503,33.8021,3806,TZ
+31975,FTTM,small_airport,Mongo Airport,12.1669998169,18.6749992371,1414,TD
+31976,FOGV,small_airport,Minvoul Airport,2.1500000954,12.1330003738,1969,GA
+31978,HSMR,small_airport,Merowe Airport,18.4500007629,31.8330001831,846,SD
+31979,HTMD,small_airport,Mwadui Airport,-3.5,33.6170005798,3970,TZ
+31982,FMMO,small_airport,Maintirano Airport,-18.0499992371,44.033000946,95,MG
+31984,FOOY,small_airport,Mayumba Airport,-3.4584197998,10.6740760803,13,GA
+31988,HKML,medium_airport,Malindi Airport,-3.2293100357,40.1016998291,80,KE
+31998,FWMY,small_airport,Monkey Bay Airport,-14.0836000443,34.9197006226,1580,MW
+31999,FOOM,small_airport,Mitzic Airport,0.7829999924,11.5500001907,1913,GA
+32001,DBBN,small_airport,Natitingou Airport,10.3170003891,1.3830000162,1411,BJ
+32009,HTNA,small_airport,Nachingwea Airport,-10.3575000763,38.7792015076,1400,TZ
+32014,HKMA,small_airport,Mandera Airport,3.9330000877,41.8499984741,805,KE
+32016,FEFN,small_airport,N'D�l� Airport,8.4272060394,20.6351566315,1631,CF
+32017,HAMN,small_airport,Mendi Airport,9.7670001984,35.0999984741,5500,ET
+32021,HANJ,small_airport,Nejjo Airport,9.5500001907,35.466999054,6150,ET
+32022,HANK,small_airport,Nekemte Airport,9.0500001907,36.5999984741,6500,ET
+32027,HSNW,small_airport,New Halfa Airport,15.3556003571,35.7277984619,1480,SD
+32028,GLNA,small_airport,Nimba Airport,7.5,-8.6000003815,1632,LR
+32030,FZBI,small_airport,Nioki Airport,-2.7174999714,17.6847000122,1043,CD
+32031,GANR,small_airport,Nioro du Sahel Airport,15.2381000519,-9.5761098862,778,ML
+32033,FZAR,small_airport,Nkolo Fuma Airport,-5.4499998093,14.8330001831,1476,CD
+32034,FKAN,small_airport,Nkongsamba Airport,4.9499998093,9.9329996109,2641,CM
+32035,FXNK,small_airport,Nkaus Airport,-30.0216999054,28.1968994141,5621,LS
+32036,FCBY,small_airport,Yokangassi Airport,-4.2170000076,13.2829999924,541,CG
+32046,GANK,small_airport,Nara Airport,15.2170000076,-7.2670001984,889,ML
+32054,HSNH,small_airport,En Nahud Airport,12.6669998169,28.3330001831,1955,SD
+32065,HKNI,small_airport,Nyeri Airport,-0.3644140065,36.9784851074,5830,KE
+32066,HKNY,medium_airport,Nanyuki Airport,-0.0623988993,37.0410079956,6250,KE
+32069,GUNZ,small_airport,Nzerekore Airport,7.8060193062,-8.7017974854,1657,GN
+32082,HDOB,small_airport,Obock Airport,11.9670000076,43.266998291,69,DJ
+32083,FEFW,small_airport,Ouadda Airport,8.0105600357,22.3985996246,2461,CF
+32084,FEGO,small_airport,Ouanda Djall� Airport,8.8999996185,22.783000946,1985,CF
+32095,DIOF,small_airport,Ouango Fitini Airport,9.6000003815,-4.0500001907,974,CI
+32098,DIAU,small_airport,Abengourou Airport,6.7155599594,-3.470279932,676,CI
+32099,FTTB,small_airport,Bongor Airport,10.2881002426,15.3810997009,1076,TD
+32110,CG-OKG,small_airport,Okoyo Airport,-1.4483300447,15.0733003616,,CG
+32130,FTTL,small_airport,Bol Airport,13.4433002472,14.73939991,955,TD
+32131,GQNB,small_airport,Boutilimit Airport,17.533000946,-14.6829996109,121,MR
+32132,DFCC,small_airport,Ouahigouya Airport,13.5670003891,-2.4170000553,1106,BF
+32133,FKKI,small_airport,Batouri Airport,4.4749999046,14.3625001907,2152,CM
+32134,FTTS,small_airport,Bousso Airport,10.4829998016,16.716999054,1099,TD
+32135,GQPZ,small_airport,Tazadit Airport,22.7563991547,-12.4835996628,1129,MR
+32136,FMSL,small_airport,Bekily Airport,-24.2356947547,45.3045272827,1270,MG
+32141,HKMY,small_airport,Moyale Airport,3.4697198868,39.101398468,2790,KE
+32151,FXPG,small_airport,Pelaneng Airport,-29.1205997467,28.5053005219,7200,LS
+32156,FZVS,small_airport,Ilebo Airport,-4.3330001831,20.5830001831,1450,CD
+32157,FNCH,small_airport,Chitato Airport,-7.3588900566,20.8047008514,2500,AO
+32162,DBBP,small_airport,Parakou Airport,9.3576898575,2.6096799374,1266,BJ
+32163,FTTP,small_airport,Pala Airport,9.3780603409,14.9250001907,1532,TD
+32169,GOSP,small_airport,Podor Airport,16.6830005646,-14.9670000076,20,SN
+32178,FZOP,small_airport,Punia Airport,-1.3669999838,26.3330001831,1742,CD
+32179,DFCP,small_airport,Po Airport,11.1499996185,-1.1499999762,1050,BF
+32182,FZQC,small_airport,Pweto Airport,-8.4670000076,28.8829994202,3425,CD
+32185,FADQ,small_airport,Zulu Inyala Airport,-27.8493995667,32.3097000122,160,ZA
+32191,FBPY,small_airport,Palapye Airport,-22.5669994354,27.1499996185,3000,BW
+32192,NG-QRW,medium_airport,Warri Airport,5.5961098671,5.8177800179,242,NG
+32194,HTMS,small_airport,Moshi Airport,-3.3633298874,37.3269004822,2801,TZ
+32195,LY-QUB,small_airport,Ubari Airport,26.5674991608,12.82310009,1387,LY
+32198,HKMB,small_airport,Segel Airport,2.3499999046,37.983001709,4395,KE
+32202,GOSR,small_airport,Richard Toll Airport,16.4330005646,-15.6499996185,20,SN
+32204,FEGR,small_airport,Rafa� Airport,4.9886097908,23.9277992249,1759,CF
+32208,HRYU,small_airport,Ruhengeri Airport,-1.5,29.6329994202,6102,RW
+32234,HUAR,medium_airport,Arua Airport,3.0499999523,30.9169998169,3951,UG
+32250,GUSB,small_airport,Sambailo Airport,12.5726995468,-13.358499527,295,GN
+32280,DISG,small_airport,Seguela Airport,7.9683299065,-6.7108302116,1056,CI
+32283,HTSN,small_airport,Seronera Airport,-2.4580600262,34.8224983215,5080,TZ
+32285,HE24,small_airport,Siwa Oasis North Airport,29.345500946,25.5067005157,330,EG
+32287,GVSF,small_airport,S�o Filipe Airport,14.8850002289,-24.4799995422,617,CV
+32293,HTSO,small_airport,Songea Airport,-10.6829996109,35.5830001831,3445,TZ
+32294,ET-SHC,small_airport,Shire Inda Selassie Airport,14.0781002045,38.2724990845,6207,ET
+32297,HTSY,small_airport,Shinyanga Airport,-3.6093,33.5035,3800,TZ
+32298,FXSS,small_airport,Seshutes Airport,-29.2675991058,28.5522994995,7000,LS
+32300,FCBS,small_airport,Sibiti Airport,-3.6830000877,13.3500003815,1883,CG
+32304,FLSS,small_airport,Sesheke Airport,-17.4762992859,24.3047008514,3100,ZM
+32317,FXSK,small_airport,Sekakes Airport,-30.0389003754,28.370300293,5700,LS
+32332,GOTS,small_airport,Simenti Airport,13.0467996597,-13.2953996658,171,SN
+32335,GLGE,small_airport,Greenville Sinoe Airport,5.034309864,-9.0668001175,10,LR
+32344,FCOS,small_airport,Souanke Airport,2.0669999123,14.1330003738,1722,CG
+32383,FTTA,small_airport,Sarh Airport,9.1444396973,18.3743991852,1198,TD
+32392,HTSU,small_airport,Sumbawanga Airport,-7.9670000076,31.6669998169,5920,TZ
+32405,FLSN,small_airport,Senanga Airport,-16.1000003815,23.2670001984,3370,ZM
+32409,HASD,small_airport,Soddu Airport,6.8169999123,37.75,6400,ET
+32426,HTTB,small_airport,Tabora Airport,-5.0763897896,32.8333015442,3868,TZ
+32428,FOOT,small_airport,Tchibanga Airport,-2.8499999046,11.0170001984,269,GA
+32430,HDTJ,small_airport,Tadjoura Airport,11.7829999924,42.9169998169,246,DJ
+32431,FMSN,small_airport,Samangoky Airport,-21.7000007629,43.733001709,89,MG
+32432,DFET,small_airport,Tenkodogo Airport,11.8000001907,-0.3670000136,1017,BF
+32435,HHTS,small_airport,Tessenei Airport,15.1169996262,36.6829986572,2018,ER
+32441,MZ-TGS,small_airport,Chokw� Airport,-24.5205993652,32.9653015137,,MZ
+32442,FXTA,small_airport,Thaba-Tseka Airport,-29.5228004456,28.6158008575,7500,LS
+32443,GLTN,small_airport,Tchien Airport,6.0456504822,-8.1387233734,790,LR
+32444,GQNC,small_airport,Tichitt Airport,18.4500007629,-9.5170001984,561,MR
+32446,GQNT,small_airport,Tamchakett Airport,17.2329998016,-10.8170003891,620,MR
+32448,HATP,small_airport,Tippi Airport,7.2024,35.415,1100,ET
+32453,FXTK,small_airport,Tlokoeng Airport,-29.2329998016,28.8829994202,7000,LS
+32454,HTKA,small_airport,Kigoma Airport,-4.8862,29.6709,2700,TZ
+32461,GQNH,small_airport,Timbedra Airport,16.2329998016,-8.1669998169,692,MR
+32465,DFEM,small_airport,Tambao Airport,14.8000001907,0.0500000007,820,BF
+32467,HLGN,small_airport,Gamal Abdel Nasser Airport,31.861000061,23.906999588,519,LY
+32476,HUTO,small_airport,Tororo Airport,0.6830000281,34.1669998169,3840,UG
+32478,FZUK,small_airport,Tshikapa Airport,-6.4383301735,20.7947006226,1595,CD
+32481,FMNT,small_airport,Tsaratanana Airport,-16.7510643983,47.6190161705,1073,MG
+32482,DFOT,small_airport,Tougan Airport,13.0670003891,-3.0669999123,984,BF
+32484,FMMR,small_airport,Morafenobe Airport,-17.850083459,44.9204671383,748,MG
+32498,FNUA,small_airport,Luau Airport,-10.7158002853,22.2311000824,3609,AO
+32500,HKSB,small_airport,Samburu South Airport,0.530583024,37.5341949463,3295,KE
+32557,FXQG,small_airport,Quthing Airport,-30.4074993134,27.6933002472,5350,LS
+32566,FMMY,small_airport,Vatomandry Airport,-19.383333,48.95,39,MG
+32579,FQXA,small_airport,Xai-Xai Airport,-25.0377998352,33.6273994446,,MZ
+32590,GLVA,small_airport,Voinjama Airport,8.3999996185,-9.7670001984,1400,LR
+32604,FMMH,small_airport,Mahanoro Airport,-19.8330001831,48.7999992371,16,MG
+32627,HAWC,small_airport,Waca Airport,7.1669998169,37.1669998169,4200,ET
+32628,FMSZ,small_airport,Ankazoabo Airport,-22.2964423522,44.5315361023,1411,MG
+32630,FMMZ,small_airport,Ambatondrazaka Airport,-17.7953776085,48.4425830841,2513,MG
+32633,FMMG,small_airport,Antsalova Airport,-18.7012732424,44.6149206161,551,MG
+32636,FMNF,small_airport,Avaratra Airport,-15.1999998093,48.483001709,820,MG
+32644,FMSB,small_airport,Antsoa Airport,-21.6069837647,45.1360201836,820,MG
+32648,HSSW,small_airport,Wadi Halfa Airport,21.8026981354,31.5215778351,961,SD
+32656,FVWT,small_airport,Hwange Airport,-18.3624992371,26.5167007446,2500,ZW
+32659,FMNX,small_airport,Mandritsara Airport,-15.8330494086,48.8332843781,1007,MG
+32670,FMSC,small_airport,Mandabe Airport,-21.0463049303,44.9404120445,951,MG
+32671,FMMC,small_airport,Malaimbandy Airport,-20.3553902921,45.5433726311,597,MG
+32673,FMNG,small_airport,Port Berg� Airport,-15.5842864741,47.6235866547,213,MG
+32678,FMMU,small_airport,Tambohorano Airport,-17.4761009216,43.9728012085,23,MG
+32682,FMMX,small_airport,Tsiroanomandidy Airport,-18.7596765564,46.0540652275,2776,MG
+32689,GFYE,medium_airport,Yengema Airport,8.6104698181,-11.0453996658,1300,SL
+32691,DFOY,small_airport,Aribinda Airport,14.2170000076,-0.8830000162,1122,BF
+32693,DFEB,small_airport,Bogande Airport,12.9829998016,-0.1669999957,984,BF
+32694,DFEA,small_airport,Boulsa Airport,12.6499996185,-0.5669999719,984,BF
+32695,DFOU,small_airport,Diebougou Airport,10.9499998093,-3.25,984,BF
+32696,DFCJ,small_airport,Djibo Airport,14.1000003815,-1.6330000162,1001,BF
+32698,DFOG,small_airport,Gaoua Airport,10.299200058,-3.2508299351,912,BF
+32699,DFEG,small_airport,Gorom-Gorom Airport,14.4499998093,-0.2329999954,935,BF
+32702,DFEL,small_airport,Kantchari Airport,12.4670000076,1.5,879,BF
+32704,DFCA,small_airport,Kaya Airport,13.0670003891,-1.1000000238,984,BF
+32705,DFCL,small_airport,Leo Airport,11.1000003815,-2.0999999046,1181,BF
+32707,HTMI,small_airport,Masasi Airport,-10.7329998016,38.766998291,1700,TZ
+32710,DFON,small_airport,Nouna Airport,12.75,-3.867000103,886,BF
+32711,DFEP,small_airport,Pama Airport,11.25,0.6999999881,699,BF
+32712,DFES,small_airport,Sebba Airport,13.4499998093,0.5170000196,886,BF
+32715,DFEZ,small_airport,Zabr� Airport,11.1669998169,-0.6169999838,886,BF
+32716,FZIR,small_airport,Yangambi Airport,0.7829999924,24.466999054,1378,CD
+32737,FMCN,small_airport,Iconi Airport,-11.7108001709,43.2439002991,33,KM
+32742,FLNA,small_airport,Ngoma Airport,-15.9658002853,25.9333000183,3400,ZM
+32746,FLKY,small_airport,Kasaba Bay Airport,-8.5249996185,30.6630001068,2780,ZM
+32747,FOOS,small_airport,Sette Cama Airport,-2.5329999924,9.7670001984,10,GA
+32750,DISS,small_airport,Sassandra Airport,4.9283299446,-6.1327800751,203,CI
+35165,UG-OYG,small_airport,Moyo Airport,3.6444001198,31.7627620697,,UG
+35166,SO-BXX,small_airport,Boorama Airport,9.9463,43.1495,,SO
+35210,FMNP,small_airport,Mampikony Airport,-16.0722693402,47.6441645622,,MG
+35322,GA-GAX,small_airport,Gamba Airport,-2.710160017,9.9606199265,73,GA
+35324,FN17,small_airport,Cahama Airport,-16.2383995056,14.3260002136,3970,AO
+35325,AO-0001,small_airport,Saurimo North Airport,-9.433429718,20.3118000031,3498,AO
+35350,DBBS,small_airport,Sav� Airport,8.0181703568,2.4645800591,597,BJ
+35351,BW-0001,small_airport,Two Rivers Airport,-26.4479007721,20.6056003571,3018,BW
+39580,HDAS,small_airport,Ali-Sabieh Airport,11.1468888889,42.72,2320,DJ
+39581,HDAG,small_airport,Assa-Gueyla Airport,12.1999998093,42.6333007813,,DJ
+39582,HDDK,small_airport,Dikhil Airport,11.1000003815,42.3499984741,,DJ
+39583,HDHE,small_airport,Herkale Airport,12.4333333969,43.2999992371,,DJ
+39584,HDMO,small_airport,Moucha Airport,11.7166671753,43.2000007629,,DJ
+39587,GGBU,small_airport,Bubaque Airport,11.2973556519,-15.8380794525,,GW
+39588,GGBF,small_airport,Bafat� Airport,12.1666669846,-14.6666669846,,GW
+41135,SD-0001,medium_airport,Wadi Seidna Air Base,15.8173999786,32.5159988403,,SD
+41138,FAPX,small_airport,Paradise Beach Airport,-34.1027793884,24.8827781677,15,ZA
+41139,FAHD,small_airport,Humansdorp Airport,-34.0365982056,24.7889003754,345,ZA
+41140,FAKW,small_airport,Kareedouw Airport,-33.9666671753,24.2999992371,1050,ZA
+41141,ZA-0001,small_airport,Beulah Airport,-33.9052772522,24.956943512,34,ZA
+41142,FAJP,small_airport,Joubertina Airport,-33.831199646,23.8300991058,2007,ZA
+41143,FAKX,small_airport,Kenton on Sea Airport,-33.6693000793,26.6308994293,172,ZA
+41144,FALR,small_airport,Steytlerville Airport,-33.3370018005,24.3213996887,1450,ZA
+41145,ZA-0002,small_airport,Bhejane Game Reserve Airport,-33.1966667175,23.9346675873,1895,ZA
+41146,FADP,small_airport,Darlington Dam Lodge Airport,-33.1832008362,25.1931991577,847,ZA
+41147,FAJV,small_airport,Jansenville Airport,-32.9390983582,24.6707000732,1430,ZA
+41148,FACH,small_airport,Cookhouse Airport,-32.7447013855,25.7963008881,1893,ZA
+41149,ZA-0004,small_airport,Brown's Landing Airport,-32.6974983215,28.3202781677,200,ZA
+41150,FATM,small_airport,Stutterheim Airport,-32.5666656494,27.4500007629,2675,ZA
+41151,FAZP,small_airport,Mazeppa Bay Airport,-32.4719009399,28.6527996063,13,ZA
+41152,FABU,small_airport,Butterworth Airport,-32.3188018799,28.1373996735,1656,ZA
+41153,FACX,small_airport,Cathcart Airport,-32.2871017456,27.1387996674,3959,ZA
+41154,ZA-0005,small_airport,Blanco Airport,-32.0833320618,26.2999992371,4200,ZA
+41155,FAKF,small_airport,Koffee Bay Airport,-31.9638996124,29.14909935,10,ZA
+41156,FABT,small_airport,Bethesda Road Airport,-31.8731994629,24.7968997955,4630,ZA
+41157,FAMT,small_airport,Molteno Airport,-31.3896007538,26.348400116,5254,ZA
+41158,FADG,small_airport,Dordrecht Airport,-31.3833332062,27.0333328247,5200,ZA
+41159,FAET,small_airport,Elliot Airport,-31.3069000244,27.8495006561,5028,ZA
+41160,ZA-0006,small_airport,Brosterlea Farm Airport,-31.2833328247,26.5666675568,5500,ZA
+41161,ZA-0007,small_airport,Stockdale Landing Strip Airport,-31.2451000214,26.298500061,5315,ZA
+41162,FAUG,small_airport,Ugie Airport,-31.2199993134,28.2099990845,4580,ZA
+41163,FAMQ,small_airport,Maclear Airport,-31.0832996368,28.3763999939,4106,ZA
+41164,FABF,small_airport,Barkley East Airport,-30.9666671753,27.6041660309,5940,ZA
+41165,ZA-0008,small_airport,Venterstad Airport,-30.7756996155,25.7875003815,4200,ZA
+41166,ZA-0009,small_airport,Philippolis Airport,-30.2159004211,25.2203006744,4695,ZA
+41167,FAJF,small_airport,Jagersfontain Airport,-29.7625007629,25.4330005646,4714,ZA
+41168,FAED,small_airport,Edenburg Airport,-29.75,25.8999996185,4509,ZA
+41169,ZA-0010,small_airport,Arbeitsgenot Airport,-28.7359008789,27.2318000793,4800,ZA
+41170,ZA-0011,small_airport,Brandfort Airport,-28.6903991699,26.4207992554,4647,ZA
+41171,ZA-0012,small_airport,Arizona Airport,-28.453332901,27.5249996185,5500,ZA
+41172,ZA-0013,small_airport,Phuthadijhaba Airport,-28.406665802,28.8108329773,5800,ZA
+41173,ZA-0014,small_airport,Sterkfontein Airport,-28.3768005371,29.0062007904,5479,ZA
+41174,ZA-0015,small_airport,Aldam Airport,-28.2688884735,27.1613883972,5105,ZA
+41175,ZA-0016,small_airport,Aero Farm Airport,-28.2236118317,29.1158332825,5580,ZA
+41176,ZA-0017,small_airport,Alberta Airport,-27.984167099,28.394443512,5540,ZA
+41177,ZA-0018,small_airport,Bartsrus Airport,-27.9604167938,25.8358325958,4200,ZA
+41178,FAOD,small_airport,Odendaalsrus Airport,-27.8710002899,26.6933994293,1340,ZA
+41179,ZA-0019,small_airport,Braehead Airport,-27.6805000305,27.2534999847,4300,ZA
+41180,FAVI,small_airport,Von Abo's Villa Airport,-27.6105995178,26.6835002899,4304,ZA
+41181,ZA-0020,small_airport,Anton Fourie Farm Airport,-27.5,26.3305549622,4300,ZA
+41182,FAFF,small_airport,Frankfort Airport,-27.2854003906,28.5153007507,5176,ZA
+41184,ZA-0022,small_airport,Appleby Airport,-27.2013339996,26.9034996033,4300,ZA
+41185,ZA-0023,small_airport,Villiers Airport,-27.0499992371,28.6000003815,5097,ZA
+41186,FACR,small_airport,Carltonville Airport,-26.3666667938,27.3466663361,5000,ZA
+41187,FADV,small_airport,Devon Airport,-26.3589992523,28.7896995544,5460,ZA
+41188,FATA,small_airport,Tedderfield Air Park,-26.3519992828,27.9689998627,5198,ZA
+41189,FADR,small_airport,Dunnottar Airport,-26.3497009277,28.4419002533,5241,ZA
+41190,FARA,small_airport,Petit Airport,-26.0816669464,28.3999996185,5460,ZA
+41191,ZA-0024,small_airport,Sun Valley Airfield,-26.0333328247,27.8999996185,5000,ZA
+41192,ZA-0025,small_airport,Aero 57 Airport,-25.9031658173,28.0820007324,5100,ZA
+41193,ZA-0026,small_airport,Blue Mountain Valley Airport,-25.8575000763,27.6277770996,4150,ZA
+41194,ZA-0027,small_airport,Bronkhorstspruit Airport,-25.7713890076,28.7269439697,4800,ZA
+41195,ZA-0028,small_airport,Wakkerstroom Airport,-27.3500003815,30.1666679382,5848,ZA
+41196,ZA-0029,small_airport,Amersfoort Airport,-27.0200004578,29.8700008392,4500,ZA
+41197,ZA-0030,small_airport,Dasville Airport,-26.8166675568,28.4666671753,5250,ZA
+41198,FAAM,small_airport,Amsterdam Airport,-26.6333332062,30.6000003815,4310,ZA
+41199,ZA-0031,small_airport,Evander Landing Strip Airport,-26.4899997711,29.0799999237,5288,ZA
+41200,ZA-0032,small_airport,New Scotland Airport,-26.2999992371,30.7333335876,5280,ZA
+41201,ZA-0033,small_airport,Mooivlei Airport,-26.2479991913,29.7154006958,5600,ZA
+41202,ZA-0034,small_airport,Vanggatfontein Airport,-26.2000007629,28.8166675568,5100,ZA
+41203,ZA-0035,small_airport,Blesbokfontain Airport,-26.175699234,29.1821994781,5294,ZA
+41204,FADE,small_airport,Delmas Airport,-26.1416664124,28.6916675568,5075,ZA
+41205,FANL,small_airport,New Largo Airport,-25.9785003662,28.9843997955,5038,ZA
+41206,ZA-0036,small_airport,Forel Airport,-25.9500007629,30.1166667938,6464,ZA
+41209,ZA-0039,small_airport,Blackie Swart Airport,-25.5755004883,30.9758605957,3300,ZA
+41210,FASE,small_airport,Sabi Sabi Airport,-24.9414997101,31.4445991516,1276,ZA
+41211,ZA-0040,small_airport,Lavino Airport,-24.8333339691,30.1000003815,2550,ZA
+41212,ZA-0041,small_airport,Malamala West Airport,-24.8080940247,31.5045642853,1176,ZA
+41213,FARM,small_airport,Richmond Airport,-31.423500061,23.9782009125,4731,ZA
+41214,FANV,small_airport,Nieuwoudtville Airfield,-31.3500003815,19.1166667938,1890,ZA
+41215,FADY,small_airport,De Aar Military Airport,-30.6365089417,23.9197254181,4037,ZA
+41216,ZA-0042,small_airport,Adamsfontein Airport,-30.5813884735,25.2600002289,3970,ZA
+41217,FAFG,small_airport,Flamingo Vlei Airport,-30.4909992218,21.1217002869,3248,ZA
+41218,ZA-0043,small_airport,Bosluispan  Airport,-29.850276947,18.965555191,2874,ZA
+41219,ZA-0044,small_airport,Bateleur Airport,-29.1391658783,23.6483325958,3368,ZA
+41220,ZA-0045,small_airport,John Weston Airport,-28.7333335876,24.6666660309,3936,ZA
+41221,ZA-0046,small_airport,Schmidtsdrif Airport,-28.6666660309,24.0333328247,3366,ZA
+41222,ZA-0047,small_airport,Augrabies Airport,-28.6301670074,20.3203334808,2200,ZA
+41223,ZA-0048,small_airport,Barkley West Airport,-28.5328330994,24.53383255,3800,ZA
+41224,ZA-0049,small_airport,Baken Mine Airport,-28.4092502594,16.7797222137,135,ZA
+41225,FAUC,small_airport,Ulco Airport,-28.3544998169,24.2290992737,3512,ZA
+41226,ZA-0050,small_airport,Warrenton Airport,-28.1207008362,24.871799469,3798,ZA
+41227,ZA-0051,small_airport,Bells Bank Airport,-28.1049995422,24.3783340454,3875,ZA
+41228,FALH,small_airport,Lohathla Military Airport,-28.0368003845,23.0986995697,4500,ZA
+41229,ZA-0052,small_airport,Dippiesfield Airport,-28.0322227478,23.2027778625,4500,ZA
+41230,ZA-0053,small_airport,Ganspan Airport,-27.9416675568,24.8199996948,3778,ZA
+41231,FAVS,small_airport,Vastrap Airport,-27.8413887024,21.6341667175,3245,ZA
+41232,ZA-0054,small_airport,Askham Airport,-26.9869441986,20.7772216797,2801,ZA
+41233,ZA-0055,small_airport,Barrange Airport,-26.125,22.618888855,3300,ZA
+41234,FADM,small_airport,Kokstad Airport,-30.5564994812,29.4081993103,4084,ZA
+41235,ZA-0056,small_airport,Scottburg Airport,-30.2856998444,30.6569004059,196,ZA
+41236,ZA-0057,small_airport,Diamond Valley Airport,-30.2719993591,29.3973999023,4900,ZA
+41237,FAUB,small_airport,Underberg Airport,-29.78840065,29.4983005524,5057,ZA
+41238,ZA-0058,small_airport,Alverstone Airfield,-29.7797222137,30.718334198,2740,ZA
+41239,ZA-0059,small_airport,Baynesfield Estate Airport,-29.7616672516,30.3397216797,2772,ZA
+41240,FADZ,small_airport,Drakensberg Gardens Airport,-29.75,29.25,5948,ZA
+41241,FASA,small_airport,Sani Pass Airport,-29.6571998596,29.4477005005,5933,ZA
+41242,ZA-0060,small_airport,Ballito Bay (Dophin Coast) Airport,-29.488899231,31.1790008545,200,ZA
+41243,FANH,small_airport,New Hanover Airport,-29.3560009003,30.5184001923,2490,ZA
+41244,ZA-0061,small_airport,Clan Airport,-29.3549003601,30.4281005859,2180,ZA
+41245,FAIS,small_airport,Isithebe Airport,-29.105556488,31.4074993134,313,ZA
+41246,ZA-0062,small_airport,Amatikulu (Microlight) Airport,-29.0981674194,31.5049991608,240,ZA
+41247,FALQ,small_airport,El Mirador Airport,-28.9861106873,29.4797229767,3897,ZA
+41248,FAGH,small_airport,Glen Grey Airport,-28.8333339691,29.4666671753,3500,ZA
+41249,ZA-0063,small_airport,Amphitheatre Lodge Airport,-28.655834198,29.1499996185,3900,ZA
+41250,ZA-0064,small_airport,Riverview Airport,-28.4333324432,32.1500015259,210,ZA
+41251,ZA-0065,small_airport,St Lucia Estuary,-28.3500003815,32.4166679382,60,ZA
+41252,ZA-0066,small_airport,Battlefields Airport,-28.131526947,30.2904167175,4040,ZA
+41253,FANA,small_airport,Nongoma Airport,-27.9139995575,31.6562004089,2596,ZA
+41254,FAIA,small_airport,Itala Airport,-27.486700058,31.1711006165,2665,ZA
+41255,FAMX,small_airport,Mbazwana Airport,-27.4813995361,32.5938987732,195,ZA
+41256,ZA-0067,small_airport,Jozini Airport,-27.3500003815,32.1333351135,355,ZA
+41257,FAIV,small_airport,Ingwavuma Airport,-27.117099762,32.0087013245,2100,ZA
+41258,FAKB,small_airport,Kosibaai Airport,-27.0333328247,32.75,140,ZA
+41259,ZA-0068,small_airport,Bonwa Phala Airport,-24.8866672516,28.0472221375,3650,ZA
+41260,ZA-0069,small_airport,Ulusaba Airport,-24.7854003906,31.3549003601,1263,ZA
+41261,FARO,small_airport,Rooiberg Airport,-24.7666664124,27.75,3811,ZA
+41262,FALD,small_airport,Londolozi Airport,-24.7502002716,31.4757003784,1300,ZA
+41263,FACC,small_airport,Arathusa Safari Lodge Airport,-24.7441673279,31.5224990845,1200,ZA
+41264,ZA-0070,small_airport,Batavia Airport,-24.6683330536,26.5366668701,3195,ZA
+41265,FAMV,small_airport,Montrose Airport,-24.625,30.1861114502,2690,ZA
+41266,FATI,small_airport,Thabazimbi Airport,-24.6000003815,27.3999996185,3200,ZA
+41267,ZA-0071,small_airport,Blyde Canyon Airport,-24.5744438171,30.7772216797,4300,ZA
+41268,ZA-0072,small_airport,Tanda Tula Airport,-24.5335998535,31.2999992371,1555,ZA
+41269,FAHB,small_airport,Hartebeespoortdam Airport,-24.5023994446,28.0790996552,3740,ZA
+41270,FATB,small_airport,Thorny Bush Game Lodge Airport,-24.4147224426,31.1650009155,1900,ZA
+41271,FANG,small_airport,Ngala Airport,-24.3878002167,31.325799942,3357,ZA
+41272,ZA-0073,small_airport,Nederland Airport,-24.3013000488,31.2912998199,1298,ZA
+41273,FAQR,small_airport,Potgietersrus Airport,-24.2333335876,28.9833335876,3500,ZA
+41274,ZA-0074,small_airport,Boulders Game Ranch Airport,-24.1080551147,30.9091663361,1500,ZA
+41275,ZA-0075,small_airport,Boulders Game Ranch 2 (Microlight) Airport,-24.0866661072,30.8438892365,1500,ZA
+41276,ZA-0076,small_airport,Ranch Motel Airport,-24.0410003662,29.2758998871,4500,ZA
+41277,ZA-0077,small_airport,Babala Lodge Airport,-23.3286113739,27.6096115112,2700,ZA
+41278,ZA-0078,small_airport,Baltimore Airport,-23.2568340302,28.40883255,3203,ZA
+41279,ZA-0079,small_airport,Bergtop Airport,-22.9179439545,29.4578342438,2620,ZA
+41280,ZA-0080,small_airport,Swartwater Highway Strip Airport,-22.8409996033,28.2087001801,2800,ZA
+41281,ZA-0081,small_airport,Alldays (Greater Kuduland) Airport,-22.8038063049,28.9957504272,2590,ZA
+41282,ZA-0082,small_airport,Alldays Safaris Airport,-22.6672000885,29.3152008057,2650,ZA
+41283,ZA-0083,small_airport,Avarel Airport,-22.5795993805,29.9689006805,2100,ZA
+41284,FAMP,small_airport,Madimbo Airport,-22.3747005463,30.8815994263,2116,ZA
+41285,FAMH,small_airport,Messina Airport,-22.3560009003,29.9862003326,1904,ZA
+41286,FAOT,small_airport,Ottosdal Airport,-26.7982997894,26.0002994537,4860,ZA
+41287,ZA-0084,small_airport,Bospoort Airport,-26.5955562592,26.229221344,5085,ZA
+41288,FAVE,small_airport,Ventersdorp Airport,-26.3008995056,26.8141994476,4917,ZA
+41289,FAMK,small_airport,Mafeking Airport,-25.8166675568,25.6166667938,4201,ZA
+41290,ZA-0085,small_airport,Mafeking North Airport,-25.7920570374,25.6110305786,4181,ZA
+41291,ZA-0086,small_airport,Aero Den Airport,-25.7266674042,27.7397212982,4050,ZA
+41292,ZA-0087,small_airport,Botsalano Airport,-25.5333328247,25.7333335876,4659,ZA
+41293,ZA-0088,small_airport,Beestekraal Airport,-25.2999992371,27.5333328247,3200,ZA
+41294,ZA-0089,small_airport,Lobatse Southeast Airport,-25.2462005615,25.8819007874,3742,ZA
+41296,FAAF,small_airport,Andrew's Field Airport,-34.7628898621,20.0349159241,30,ZA
+41297,FACY,small_airport,Stilbaal Airport,-34.3517990112,21.4248008728,266,ZA
+41298,FAAS,small_airport,Ashton Airport,-33.8166656494,20.0666675568,525,ZA
+41299,ZA-0090,small_airport,Assegaay Bosch Game Lodge Airport,-33.7602500916,21.5472221375,620,ZA
+41300,ZA-0091,small_airport,Altona Airport,-33.7076377869,18.6462497711,261,ZA
+41301,FADX,small_airport,Delta 200 Airstrip,-33.6943016052,18.4563007355,60,ZA
+41302,FAPU,small_airport,Paarl East Airport,-33.6833343506,19.0333328247,596,ZA
+41303,FADS,small_airport,De Doorns Airport,-33.4707984924,19.6567993164,1475,ZA
+41304,FACE,small_airport,Ceres Airport,-33.3530006409,19.3113994598,1519,ZA
+41305,FALS,small_airport,Somersveld Airport,-33.2462272644,18.4799976349,196,ZA
+41306,FAKA,small_airport,Kagga Kamma Airport,-32.7469940186,19.5620994568,3494,ZA
+41307,FACI,small_airport,Citrusdal Airport,-32.6176986694,19.005399704,532,ZA
+41308,ZA-0092,small_airport,Holrivier Airport,-31.5666675568,18.3833332062,225,ZA
+41309,ZA-0093,small_airport,Britstown Airport,-30.5833339691,23.5166664124,3500,ZA
+41310,FDGL,small_airport,Lavumisa Airport,-27.3201007843,31.889799118,563,SZ
+41311,FDKB,small_airport,Kubuta Airport,-26.8666667938,31.4833335876,1555,SZ
+41312,FDUB,small_airport,Ubombo Ranches Airport,-26.7707996368,31.9363994598,,SZ
+41544,ZA-0021,heliport,Pretoria Central Heliport,-25.6557006836,28.2206001282,4087,ZA
+41603,ZA-0094,small_airport,Hazyview Airport,-25.0501003265,31.1319007874,1810,ZA
+41604,ZA-0095,small_airport,Khoka Moya Airport,-24.593000412,31.4151000977,1440,ZA
+41605,ZA-0096,small_airport,Mkambati Airport,-31.2833003998,29.9666996002,560,ZA
+41606,ZA-0097,small_airport,Inyati Airport,-24.7777004242,31.3854999542,1245,ZA
+41607,ZA-0098,small_airport,Tshipise Airport,-22.6193008423,30.1756000519,1786,ZA
+41843,ZA-0099,small_airport,Holbank Airport,-26.5709991455,30.2430000305,,ZA
+41844,ZA-0100,small_airport,Punda Milia,-22.7707500458,31.0125274658,,ZA
+41845,ZA-0101,small_airport,Sappi / Ngodwana,-25.58867836,30.6223640442,,ZA
+41851,ZM-0001,small_airport,Lilayi Airport,-15.5122003555,28.3246002197,4264,ZM
+41852,ZM-CGJ,small_airport,Chingola Airport,-12.516699791,27.8833007813,4375,ZM
+41919,FMSU,small_airport,Vangaindrano,-23.3507665915,47.5817012787,,MG
+42333,NA-0045,small_airport,Vredeshoop Landing Site,-27.1002826691,19.534450531,2926,NA
+42334,NA-0069,small_airport,Rietfontein Airport,-26.7450008392,20.0333328247,2750,NA
+42335,NA-0070,small_airport,Guibes Landing Strip,-26.7000007629,16.9500007629,4091,NA
+42336,NA-0071,small_airport,Keetmansh Railroad Airport,-26.5930500031,18.1422176361,3231,NA
+42337,NA-0072,small_airport,Klipdrif Airstrip,-26.5166664124,16.9166679382,4245,NA
+42338,NA-0073,small_airport,Zuuberg Landing Site,-26.2666664124,17,3645,NA
+42339,NA-0074,small_airport,Koes Airport,-25.9377822876,19.1205501556,3175,NA
+42340,NA-0075,small_airport,Tses Airstrip,-25.8902835846,18.1263828278,3152,NA
+42341,NA-0076,small_airport,Helmering Airstrip,-25.8633327484,16.8099994659,4563,NA
+42342,NA-0077,closed,Mata Mata Landing Site,-25.7677822113,20,3125,NA
+42343,NA-0078,small_airport,Brukkaros Landing Strip,-25.6994495392,18.0530490875,3190,NA
+42344,NA-0079,small_airport,Finger Gottes Airstrip,-25.4972171783,18.1725006104,3461,NA
+42345,NA-0080,small_airport,Tweerivier Landing Site,-25.4563827515,19.4383335114,3325,NA
+42346,NA-0081,small_airport,Guamus Airport,-25.1977825165,18.2736167908,3838,NA
+42347,NA-0082,small_airport,Gibeon Airport,-25.1272163391,17.7619495392,3428,NA
+42348,NA-0083,small_airport,Witbooisvley Landing Site,-25.0688838959,18.4516677856,3813,NA
+42349,NA-0084,small_airport,Maltahoehe S Airport,-24.8355998993,16.9752006531,4465,NA
+42350,NA-0085,small_airport,Katzensteg Airport,-24.7697162628,18.9883327484,3683,NA
+42351,NA-0086,small_airport,Maltahoehe Airstrip,-24.7683334351,16.9752826691,4419,NA
+42352,NA-0087,small_airport,Lendepas Landing Site,-24.7452831268,20,3451,NA
+42353,NA-0088,small_airport,Witwater East Landing Site,-24.7016677856,15.9752826691,2985,NA
+42354,NA-0089,small_airport,Wandervogel Airstrip,-24.6391677856,19.703332901,3605,NA
+42355,NA-0090,small_airport,Kouwater Landing Site,-24.6263828278,18.0436172485,3777,NA
+42356,NA-0091,small_airport,Salzbrunn Airstrip,-24.3826999664,17.9698009491,3863,NA
+42357,NA-0092,small_airport,Gianti-1 Airport,-24.2525997162,16.3155002594,4521,NA
+42358,NA-0093,small_airport,Kub Landing Site,-24.215549469,17.4933338165,3982,NA
+42359,NA-0094,small_airport,Twilight Airstrip,-24.1672172546,17.9891662598,4009,NA
+42360,NA-0095,small_airport,Bullsport Landig Site,-24.1166667938,16.3666667938,5120,NA
+42361,NA-0096,small_airport,Morester Landing Site,-24.1161174774,19.9777832031,3863,NA
+42362,NA-0097,small_airport,Lidfontein Landing Site,-24.0816669464,18.1966667175,3975,NA
+42363,NA-0098,small_airport,Kalkrand Airport,-24.0741672516,17.5919494629,3992,NA
+42364,NA-0099,small_airport,Nabus Landing Site,-24.0383338928,18.9750003815,3968,NA
+42365,NA-0100,small_airport,Runnersrest Landing Site,-24.0133323669,17.7447166443,4031,NA
+42366,NA-0101,small_airport,Victory Airstrip,-23.9697170258,18.2691669464,4048,NA
+42367,NA-0102,small_airport,Rietoog Airport,-23.9666671753,16.5638828278,4902,NA
+42368,NA-0103,small_airport,Hoachanas Airport,-23.9150009155,18.0491676331,4137,NA
+42369,NA-0104,small_airport,Droeplaas Landing Site,-23.8186168671,19.0825004578,4058,NA
+42370,NA-0105,small_airport,Tsumis Airport,-23.7286167145,17.4400005341,4178,NA
+42371,NA-0106,small_airport,Bimsfarm Landing Site,-23.7283325195,18.1472167969,4215,NA
+42372,NA-0107,small_airport,Olifantwater West Landing Site,-23.7049999237,18.3616676331,4187,NA
+42373,NA-0108,small_airport,Gomnab Airport,-23.6917991638,18.2723999023,4190,NA
+42374,NA-0109,small_airport,Neuloore Landing Site,-23.6822166443,18.4055500031,4172,NA
+42375,NA-0110,small_airport,Nauchas Landing Site,-23.6333332062,16.3250007629,5842,NA
+42376,NA-0111,small_airport,Kaukerus Landing Site,-23.6177825928,17.8722171783,4314,NA
+42377,NA-0112,small_airport,Cowdray Airstrip,-23.5447177887,17.7877826691,4314,NA
+42378,NA-0113,small_airport,Rheinpfalz Landing Site,-23.5288829803,17.9899997711,4362,NA
+42379,NA-0114,small_airport,Leonardville Airport,-23.5013828278,18.7877826691,4166,NA
+42380,NA-0115,small_airport,Beenbreek Landing Site,-23.4832992554,17.9500007629,4399,NA
+42381,NA-0116,small_airport,Gamsberg Landing Site,-23.3666992188,16.25,5885,NA
+42382,NA-0117,small_airport,Gams Farm Landing Site,-23.3666667938,16.2999992371,6063,NA
+42383,NA-0118,small_airport,Rehoboth Town Airport,-23.3216667175,17.0711174011,4537,NA
+42384,NA-0119,small_airport,Klein Nauas Landing Site,-23.3166675568,17.8441677094,4474,NA
+42385,NA-0120,small_airport,Rehoboth Airstrip,-23.3125,17.0444507599,4537,NA
+42386,NA-0121,small_airport,Rehoboth Sta Airport,-23.3105506897,17.1883335114,4537,NA
+42387,NA-0122,small_airport,Rooisand Airport,-23.2912006378,16.1107006073,3796,NA
+42388,NA-0123,small_airport,Goellschau Farm Landing Site,-23.2749996185,16.5388832092,5934,NA
+42389,NA-0124,small_airport,Louwater S M7 Airport,-23.2583007813,17.9699001312,4504,NA
+42390,NA-0125,small_airport,Garib Landing Site,-23.1350002289,17.6327991486,4750,NA
+42391,NA-0126,small_airport,Nossob Gabel Landing Site,-23.1202831268,18.7016677856,4178,NA
+42392,NA-0127,small_airport,Doornpoort Airstrip,-23.0738830566,18.0513820648,4597,NA
+42393,NA-0128,small_airport,Oamites Landing Strip,-23.0074996948,17.1169490814,5450,NA
+42394,NA-0129,small_airport,Bergland Landing  Strip,-22.9733333588,17.1447162628,5517,NA
+42395,NA-0130,small_airport,Krumneck Airport,-22.9613838196,16.9344501495,5768,NA
+42396,NA-0131,small_airport,Keitzaub Landing Site,-22.8102836609,18.8497161865,4469,NA
+42397,NA-0132,small_airport,Spatzenfeld Landing Site,-22.785282135,18.8897171021,4528,NA
+42398,NA-0133,small_airport,Aris Landrig Strip,-22.7563838959,17.1352672577,5820,NA
+42399,NA-0134,small_airport,Okapanje Airport,-22.5891666412,17.965549469,4922,NA
+42400,NA-0135,small_airport,Gobabis Street-T Airport,-22.4361171722,19.0136165619,4815,NA
+42401,NA-0136,small_airport,Ninette Landing Site,-22.3999996185,18.75,4836,NA
+42402,NA-0137,small_airport,Solingen Airstrip,-22.3963832855,19.1108322144,4866,NA
+42403,NA-0138,small_airport,Eintracht Airstrip,-22.3530502319,18.2450008392,4958,NA
+42404,NA-0139,small_airport,Otjihaenena Landing Strip,-22.2902832031,17.7713832855,5276,NA
+42405,NA-0140,small_airport,Sandfontein Airstrip,-22.2802829742,20,4161,NA
+42406,NA-0141,small_airport,Buitepos Airstrip,-22.2666664124,20,4210,NA
+42407,NA-0142,small_airport,Drimiopsis Landing Site,-22.0666675568,19.0666675568,5023,NA
+42408,NA-0143,small_airport,Swa Knie Landing Site,-22,20,4345,NA
+42409,NA-0144,small_airport,Wilskrag Landing Site,-22,20.6277828217,4094,NA
+42410,NA-0145,small_airport,Albrechts Aistrip,-21.9455509186,16.0699996948,4478,NA
+42411,NA-0146,small_airport,Okahennesiva Landing Site,-21.8652820587,18.4027824402,5284,NA
+42412,NA-0147,small_airport,Steinhausen Landing Site,-21.8244495392,18.2319507599,5382,NA
+42413,NA-0148,small_airport,Fortuna Landing Site,-21.8083324432,19.9083328247,4389,NA
+42414,NA-0149,small_airport,Okamapu Landing Site,-21.7369499207,17.8850002289,5541,NA
+42415,NA-0150,small_airport,Epukiro North Landing Site,-21.6752662659,19.2169322968,4770,NA
+42416,NA-0151,small_airport,Epukiru Airport,-21.6166667938,19.3999996185,4633,NA
+42417,NA-0152,small_airport,Onduruqea Lodge Airport,-21.6025009155,16.073299408,4149,NA
+42418,NA-0153,small_airport,Hochfeld Airport,-21.4902820587,17.8519496918,5127,NA
+42419,NA-0154,small_airport,Godehoop Landing Site,-21.2833328247,15.5333328247,3567,NA
+42420,NA-0155,small_airport,Rhenoster K Airport,-21.1652832031,16.4025001526,4775,NA
+42421,NA-0156,small_airport,Omaha Landing Site,-21.1319503784,16.5261173248,4954,NA
+42422,NA-0157,small_airport,Otjiwarongo Center Airport,-20.4638824463,16.6477832794,4850,NA
+42423,CD-0001,small_airport,Beni,0.5027468204,29.4742584229,,CD
+42424,FZJA,closed,Isiro-Ville,2.7822198868,27.6257991791,,CD
+42425,FZOC,small_airport,Kamisuku Airport,-2.5499999523,26.6166667938,,CD
+42441,DRRI,small_airport,Bilma Airport,18.6867008209,12.9191999435,1715,NE
+42442,DRZG,small_airport,Goure Airport,13.9835996628,10.2749004364,1499,NE
+42443,DRZL,small_airport,Arlit Airport,18.7903995514,7.3659501076,1443,NE
+42444,DRZM,small_airport,Maine-Soroa Airport,13.205499649,12.0322999954,944,NE
+42445,DRZN,small_airport,N'Guigmi Airport,14.2510004044,13.1289997101,977,NE
+42446,DRZT,small_airport,Tanout Airport,14.9702997208,8.8916702271,1751,NE
+42447,DRRB,small_airport,Birni-N'Konni Airport,13.8015003204,5.2423601151,846,NE
+42463,NG-0001,closed,Agbara-Otor,5.5291938782,6.0588312149,,NG
+42464,NG-0002,small_airport,Kainji,9.8926668167,4.4854435921,,NG
+42467,EG-0001,small_airport,Al Rahmaniyah,31.0433006287,30.6645183563,,EG
+42473,HE15,small_airport,Hulwan,29.8225002289,31.3309001923,,EG
+42475,HE26,small_airport,Wadi Abu Shihat,26.5572185516,33.1219291687,,EG
+42476,HTIY,small_airport,Inyonga Airport,-6.7166700363,32.0999984741,3790,TZ
+42477,HTKB,small_airport,Kibondo Airport,-3.5259799957,30.6504001617,4262,TZ
+42478,HTKD,small_airport,Kondoa Airport,-4.8937101364,35.7682991028,4578,TZ
+42479,HTKL,small_airport,Kirondatal Airport,-4.3143720627,34.3333206177,5033,TZ
+42480,HTKS,small_airport,Kilosa Airport,-6.9000000954,37.0166664124,1567,TZ
+42481,HTLD,small_airport,Loliondo Airport,-2.0696899891,35.5457000732,6620,TZ
+42482,HTLL,small_airport,Liuli Airport,-11.116399765,34.6521987915,1667,TZ
+42483,HTMF,small_airport,Mufindi Airport,-8.7320404053,35.3026008606,4175,TZ
+42484,HTMK,small_airport,Mikumi Airport,-7.333427906,37.1163597107,1737,TZ
+42485,HTML,small_airport,Malya Airport,-2.9778599739,33.5163002014,4079,TZ
+42486,HTNR,small_airport,Ngara Airport,-2.5417900085,30.7031002045,5030,TZ
+42487,HTOL,small_airport,Oldeani Airport,-3.4333300591,35.6166687012,4668,TZ
+42488,HTUK,small_airport,Nansio Airport,-2.0435299873,33.0643997192,4010,TZ
+42489,HTUT,small_airport,Utete Airport,-8.002579689,38.7616996765,208,TZ
+42490,HTUV,small_airport,Uvinza Airport,-5.0879502296,30.4060001373,563,TZ
+42491,TZ-GIT,small_airport,Geita Airport,-2.8713600636,32.1716995239,4208,TZ
+42492,TZ-LUY,small_airport,Lushoto Airport,-4.7832598686,38.3041992188,5360,TZ
+42493,TZ-0001,small_airport,Mtera Airport,-7.0976200104,35.9790000916,2399,TZ
+42494,TZ-0002,small_airport,Ibadakuli Airport,-3.6087200642,33.5010986328,22,TZ
+42495,TZ-0003,small_airport,Mbinga Airport,-10.9639997482,35.0117988586,4335,TZ
+42496,TZ-0004,small_airport,Tura Airport,-5.4892401695,33.878200531,4216,TZ
+42530,HKBA,small_airport,Busia Airport,0.4570850134,34.130279541,3989,KE
+42531,HKBU,small_airport,Bungoma Airport,0.5762079954,34.5534515381,4726,KE
+42532,HKED,small_airport,Eldoret Aistrip Airport,0.5363680124,35.2788658142,7050,KE
+42533,HKLT,small_airport,Loitokitok Airport,-2.9098849297,37.5261077881,5320,KE
+42534,HKMG,small_airport,Magadi Airport,-1.9480570555,36.2833328247,1955,KE
+42535,HKMR,small_airport,Mackinnon Road Airport,-3.7356851101,39.03332901,1443,KE
+42536,HKMT,small_airport,Mtito Andei Airport,-2.7170820236,38.1975669861,2397,KE
+42537,HKMU,small_airport,Makindu Airport,-2.2897129059,37.8286209106,3513,KE
+42538,HKSA,small_airport,Embakasi Airport,-1.2982189655,36.9155464172,5357,KE
+42539,KE-6002,small_airport,Laisamis Airport,1.6029390097,37.7216453552,1866,KE
+42540,KE-6007,small_airport,Lokori Airport,1.9167399406,36.0057182312,1990,KE
+42541,KE-6012,small_airport,Arroket Airport,-0.6234269738,35.0658683777,5955,KE
+42542,KE-6013,small_airport,Balesa Airport,3.646971941,37.3508605957,2000,KE
+42544,KE-6018,small_airport,Fig Tree  Airport,-1.4347219467,35.1932487488,5050,KE
+42545,KE-6019,small_airport,Head Office Delamere Estates Airport,-0.4666669965,36.2166671753,6500,KE
+42546,KE-6020,small_airport,Itona Ranch Airport,-1.1359169483,34.83411026,5500,KE
+42547,KE-6021,small_airport,Karimbuni Airport,-0.8029670119,36.0906105042,9300,KE
+42548,KE-6024,small_airport,Masai Mara Airport,1.2666670084,35.03332901,5360,KE
+42549,KE-6025,small_airport,Kisima Farm Airport,0.0472779982,37.4341926575,7800,KE
+42550,KWY,medium_airport,Kiwayu Airport,-1.9605599642,41.2975006104,21,KE
+42551,KE-6027,small_airport,Kamok Airport,0.013944,36.8008346558,6290,KE
+42552,KE-6028,small_airport,Kulalu Ranch Airport,-3.0833330154,39.4166679382,500,KE
+42553,KE-6029,small_airport,Lubarra Airport,-1.2999999523,36.9500007629,6100,KE
+42554,KE-6033,small_airport,Hagadera Airport,0.1253229976,40.2899856567,360,KE
+42555,KE-6034,small_airport,Lomolo Airport,0.0310570002,35.9886817932,5200,KE
+42556,KE-6035,small_airport,Loporot Airport,2.3333330154,35.8499984741,2011,KE
+42557,KE-6036,small_airport,Lothagah Airport,3.0333330631,36.0499992371,1600,KE
+42558,KE-6037,small_airport,Lotubae Airport,1.9833329916,36.0499992371,1700,KE
+42559,KE-6040,small_airport,Menengai Airport,-0.2360280007,36.0008049011,6650,KE
+42560,KE-6041,small_airport,Nampaso Airport,-1.0423929691,35.2499542236,5500,KE
+42561,KE-6042,small_airport,Ndovu Airport,2.0137779713,38.6342201233,1150,KE
+42562,KE-6043,small_airport,Lanet Prairies Airport,-0.2860000134,36.150806427,6200,KE
+42563,KE-6044,small_airport,Ngore Ngore Airport,-1.8359440565,37.7841949463,6290,KE
+42564,KE-6045,small_airport,Njoro Airport,-0.3154120147,35.9245452881,7140,KE
+42565,KE-6046,small_airport,Nkreta Airport,-1.0166670084,35.8333320618,6700,KE
+42566,KE-6048,small_airport,Oleleren Airport,0.013944,36.8841667175,5580,KE
+42567,KE-6050,small_airport,Gaitu Airport,-0.0527219996,37.7341957092,3805,KE
+42568,KE-6053,small_airport,Taita Hills Airport,-3.5123889446,38.2502212524,3150,KE
+42569,KE-6054,small_airport,Taveta Sisal Airport,-3.4188890457,37.6341667175,2525,KE
+42570,KE-6055,small_airport,Turkwel Gorge Airport,1.8971389532,35.3841400146,2625,KE
+42571,KE-6056,small_airport,Ziwani Airport,-3.2193610668,37.8007202148,3025,KE
+42572,KE-6058,small_airport,Didima Bule Airport,-2.3691670895,39.6175842285,500,KE
+42573,KE-6061,small_airport,Komofodo Galana Ranch Airport,2.5525000095,39.6675834656,500,KE
+42574,KE-6062,small_airport,Embori Farm Airport,0.0692450032,37.343547821,8666,KE
+42575,KE-6064,small_airport,Shekiko Airport,-2.5666670799,40.3499984741,6,KE
+42576,KE-6066,small_airport,Ngerende Airport,-1.0873810053,35.1851348877,5510,KE
+42577,KE-6067,small_airport,Barina Airport,-0.1360000074,36.0174713135,5600,KE
+42578,KE-6068,small_airport,Soy-Chemoset Airport,0.7138890028,36.8675003052,5130,KE
+42579,KE-6071,small_airport,Ngorare Ranch Airport,0.3305830061,36.6508331299,6400,KE
+42580,KE-6072,small_airport,Ilkek Airport,-0.6026390195,36.3674736023,6350,KE
+42581,KE-6074,small_airport,Kalacha South Airport,3.0199999809,37.4483337402,1000,KE
+42582,KE-6075,small_airport,Masnami Airport,-1.1333329678,35.3333320618,5600,KE
+42583,KE-6076,small_airport,Segera Ranch Airport,0.1821729988,36.9118423462,5700,KE
+42584,KE-6077,small_airport,Lali Galana Airport,-3.1357779503,39.3008880615,500,KE
+42585,KE-6079,small_airport,Kilgoris Airport,-1.0038830042,34.8924751282,6000,KE
+42586,KE-6081,small_airport,Oserian Naivasha Airport,-0.8526390195,36.2674713135,6350,KE
+42587,KE-6082,small_airport,Kinna Airport,0.3166669905,38.2000007629,2211,KE
+42588,KE-6084,small_airport,Green Park Airport,-0.6696670055,36.3102798462,6791,KE
+42589,KE-6087,small_airport,Buffalo Airport,-1.1476512166,35.1412296295,5500,KE
+42590,KE-6088,small_airport,Cottar's Camp Airport,-1.4952269793,35.4121170044,5350,KE
+42591,KE-6089,small_airport,Maji Mazuri Airport,0.9333329797,35.1666679382,6980,KE
+42592,KE-6095,small_airport,Kilifi Plantation Farm Airport,-3.6333329678,39.8499984741,3,KE
+42593,KE-6109,small_airport,Mitunguu Airport,-0.1096829996,37.7901000977,3100,KE
+42594,KE-6110,small_airport,Mkowe Airport,-2.2340381145,40.8464660645,3,KE
+42595,KE-6112,small_airport,Olkurruk Mara Airport,-1.2692500353,34.9507789612,6200,KE
+42596,KE-6121,small_airport,Musiara Airstrip,-1.2991379499,35.0638771057,5117,KE
+42597,KE-6123,small_airport,Namanga Airport,-2.5793888889,36.9121666667,4080,KE
+42598,KE-6127,small_airport,Beverley Airport,3.3166670799,37.0666656494,1187,KE
+42599,KE-6151,small_airport,Solio Ranch Airport,-0.2451670021,36.8848876953,6300,KE
+42600,KE-6152,small_airport,Rumuruti Airport,0.2775940001,36.5333328247,6066,KE
+42601,KE-6153,small_airport,Sabarei Airport,4.2945141792,36.9305419922,2300,KE
+42602,KE-6155,small_airport,Sigor Airport,1.4833329916,35.4666671753,3218,KE
+42603,KE-6158,small_airport,Oljogi Ranch Airport,0.263944,36.9508628845,5640,KE
+42604,KE-6166,small_airport,Todenyang Airport,4.5302500725,35.9175262451,1195,KE
+42605,KE-6175,small_airport,Voi Park Airport,-3.36272192,38.6051673889,1700,KE
+42606,KE-6178,small_airport,Wamba Airport,0.9777780175,37.3188819885,4324,KE
+42607,KE-6208,small_airport,Olkiombo Airport,-1.4192500114,35.1674423218,5800,KE
+42608,KE-6320,small_airport,Laikipia Ranch Airport,0.5833330154,36.4333343506,6100,KE
+42609,KE-6394,small_airport,Lunga-Lunga Airport,-4.5500001907,39.1166687012,193,KE
+42610,KE-6396,small_airport,Maralal Airport,1.0994509459,36.6950950623,6450,KE
+42611,KE-6557,small_airport,Kakuma Airport,3.7166669369,34.8666687012,1906,KE
+42612,KE-6576,small_airport,Taveta Airport,-3.3947649002,37.6977577209,2988,KE
+42613,KE-6596,small_airport,Kajiado Airport,-1.8500000238,36.7833328247,5603,KE
+42614,KE-6646,small_airport,Marrian's Airport,-0.3405900002,36.9135246277,6400,KE
+42615,KE-6647,small_airport,Nginyang (Kinkang) Airport,0.9666669965,36.0166664124,2368,KE
+42616,KE-6648,small_airport,Ngulia Lodge Airport,-2.935806036,38.2341957092,2500,KE
+42617,KE-6649,small_airport,Takabba Airport,3.4126420021,40.2261276245,1991,KE
+42618,KE-6650,small_airport,Sololo Airport,3.5545470715,38.6436347961,2296,KE
+42619,KE-6656,small_airport,Banisa Airport,3.8943190575,40.3209915161,2998,KE
+42620,KE-6873,small_airport,George Smith Farm Airport,0.6166669726,35.2999992371,6880,KE
+42621,KE-6874,small_airport,Impala Farm Airport,0.3666670024,36.9166679382,5500,KE
+42622,KE-6878,small_airport,Shimba Hills Airport,-1.2356940508,39.4175567627,1200,KE
+42623,KE-6883,small_airport,Mount Kenya Game Ranch Airport,-0.0364239998,37.1400413513,7020,KE
+42624,KE-6885,small_airport,Lewa Downs Airport,0.1805830002,37.4674987793,5500,KE
+42625,KE-6888,small_airport,Kapsumbeiwa Nandi Airport,0.130339995,35.2208251953,1750,KE
+42626,KE-6890,small_airport,Baragoi Airport,1.7814079523,36.8013687134,4202,KE
+42627,KE-6893,small_airport,Changoi Tea Estate Airport,0.4769439995,35.2422218323,6100,KE
+42628,KE-6894,small_airport,Borana Airport,0.2305829972,37.2841682434,6100,KE
+42629,KE-6907,small_airport,Kambi Ya Samaki Airport,-2.3166670799,37.9166679382,3093,KE
+42630,KE-6911,small_airport,Samburu North Airport,-3.7666668892,39.2833328247,967,KE
+42631,KE-6920,small_airport,Masalani (Fanjaa) Airport,-1.6956549883,40.1257209778,150,KE
+42632,KE-6924,small_airport,Mado Gashi Airport,0.7223730087,39.1761436462,1000,KE
+42633,KE-6937,small_airport,Lokichar Airport,2.3833329678,35.6500015259,2440,KE
+42634,KE-6946,small_airport,Kapenguria (Kisiaunet) Airport,1.2693220377,35.0763244629,6482,KE
+42635,KE-6951,small_airport,Hulugho Airport,-1.135972023,41.0509719849,490,KE
+42636,KE-6957,small_airport,Aruba Airport,-3.3333330154,38.7666664124,1300,KE
+42637,KE-6978,small_airport,Kerio Valley Airport,0.3196380138,35.6625595093,4325,KE
+42638,KE-6996,small_airport,Kapchomuswo (Kabarnet) Airport,0.530583024,35.7341384888,6205,KE
+42639,KE-KIU,small_airport,Kiunga Airport,-1.7438290119,41.4843444824,1,KE
+42640,KE-LBN,small_airport,Lake Baringo Airport,0.6661030054,36.1041908264,3226,KE
+42641,KE-LKU,small_airport,Lake Rudolf Airport,3.4166669846,35.8833312988,1300,KE
+42642,KE-MRE,small_airport,Mara Lodges Airport,-1.1782759428,35.1113090515,5706,KE
+42643,KE-MUM,small_airport,Mumias Airport,0.3333300054,34.4833335876,4163,KE
+42644,KE-0001,small_airport,Mfangano Airport,-0.4665000141,34.063999176,3750,KE
+42645,KE-0002,small_airport,Nzoia Airport,0.1333329976,34.0833320618,3770,KE
+42646,KE-0003,small_airport,Rusinga Airport,-0.4126670063,34.1425018311,3800,KE
+42647,KE-0004,small_airport,Oropoi Airport,3.8084490299,34.3600959778,2842,KE
+42648,KE-0005,small_airport,Mara Shikar Airport,-1.0692780018,35.0507774353,5500,KE
+42649,KE-0006,small_airport,Intrepid Mara Airport,-1.4087779522,35.1097488403,5000,KE
+42650,KE-0007,small_airport,Chepgoiven Airport,-0.3860000074,35.33411026,6955,KE
+42651,KE-0008,small_airport,Muswani Airport,-1.1359169483,35.3341407776,5600,KE
+42652,KE-0009,small_airport,Sergoit Airport,0.6499999762,35.3833312988,7200,KE
+42653,KE-0010,small_airport,Siana Springs Airport,-1.4833329916,35.4166679382,5350,KE
+42654,KE-0011,small_airport,Olerai Airport,0.9859439731,35.5508041382,6500,KE
+42655,KE-0012,small_airport,Oleshabani Airport,-0.9723460078,35.746723175,6700,KE
+42656,KE-0013,small_airport,Njoro Country Club Airport,-0.3359999955,35.9174728394,7100,KE
+42657,KE-0014,small_airport,Barclays Airport,-0.1877959967,35.9670982361,6368,KE
+42658,KE-0015,small_airport,Lake Baringo (Kampi Ya Samaki) Airport,0.6031669974,36.0130004883,3000,KE
+42659,KE-0016,small_airport,Shompole (Dry Lake) Airport,-2.0203330517,36.0391120911,2050,KE
+42660,KE-0017,small_airport,"Shompole (""All"" weather) Airport",-1.9755829573,36.0483894348,2000,KE
+42661,KE-0018,small_airport,Kapedo Airport,1.1638610363,36.0841674805,2500,KE
+42662,KE-0019,small_airport,Naishi Airport,-0.4565829933,36.0849990845,5500,KE
+42663,KE-0020,small_airport,Congrieve Airport,-0.4839439988,36.1243591309,5800,KE
+42664,KE-0021,small_airport,Ndabibi Airport,-0.7430350184,36.1722221375,7100,KE
+42665,KE-0022,small_airport,Seislucho Airport,4.3777780533,36.2166671753,1350,KE
+42666,KE-0023,small_airport,Kongoni Airport,-0.8666669726,36.2333335876,6600,KE
+42667,KE-0024,small_airport,Delamare Camp Airport,-0.4025560021,36.2360572815,5800,KE
+42668,KE-0025,small_airport,Ngelesha Airport,1.5172220469,36.2852783203,6000,KE
+42669,KE-0026,small_airport,Oserongoni Airport,-0.8190000057,36.2878341675,6200,KE
+42670,KE-0027,small_airport,Loldia Airport,-0.6999999881,36.3166656494,1970,KE
+42671,KE-0028,small_airport,Manyatta Airport,-0.4911960065,36.3506546021,6400,KE
+42672,KE-0029,small_airport,Nyahururu Airport,-0.0137670003,36.3697357178,7750,KE
+42673,KE-0030,small_airport,Kigio (Malewa) Airport,-0.5677779913,36.3833618164,6734,KE
+42674,KE-0031,small_airport,Ndume Langa Airport,-0.519306004,36.3841400146,6500,KE
+42675,KE-0032,small_airport,Mugle Ranch Airport,0.75,36.5833320618,6150,KE
+42676,KE-0033,small_airport,Olmaisor Airport,0.3333329856,36.6333312988,5900,KE
+42677,KE-0034,small_airport,Orly (Olooitikosh) Airport,-1.5811940432,36.8128318787,5600,KE
+42678,KE-0035,small_airport,Tadlitium Airport,-2.1228759289,36.8174819946,5000,KE
+42679,KE-0036,small_airport,Muridjo Ranch Airport,0.6472219825,36.8508605957,5800,KE
+42680,KE-0037,small_airport,Nanyuki West Airport,-0.1360280067,36.9008331299,600,KE
+42681,KE-0038,small_airport,Olpejeta Airport,0.0306109991,36.9008331299,5845,KE
+42682,KE-0039,small_airport,El Karama Airport,0.1972499937,36.9174995422,5700,KE
+42683,KE-0040,small_airport,Talu Airport,-1.1459519863,36.9179878235,5110,KE
+42684,KE-0041,small_airport,Laburra Airport,-0.3000000119,36.9500007629,6030,KE
+42685,KE-0042,small_airport,Hall Hall Airport,0.9333329797,37.0666656494,6000,KE
+42686,KE-0043,small_airport,Hall Strip Airport,2.9303610325,37.067527771,6000,KE
+42687,KE-0044,small_airport,Kamwaki Farm Airport,0.1338440031,37.1592063904,6530,KE
+42688,KE-0045,small_airport,Ibis Farm Airport,0.0472779982,37.2008323669,7000,KE
+42689,KE-0046,small_airport,Oldonyo Farm Airport,0.0972779989,37.3008613586,7800,KE
+42690,KE-0047,small_airport,Tassia Airport,0.4262219965,37.3340263367,3400,KE
+42691,KE-0048,small_airport,Wanguru (Thiba) Airport,-0.6966760159,37.3746185303,3400,KE
+42692,KE-0049,small_airport,Loloroi Airport,0.6333330274,37.3833312988,3000,KE
+42693,KE-0050,small_airport,Sarara Airport,-1.0499999523,37.4333343506,3760,KE
+42694,KE-0051,small_airport,Rutundu Airport,-0.0526540019,37.4645423889,10200,KE
+42695,KE-0052,small_airport,Il Ngwesi Airport,0.1972499937,37.4675292969,5600,KE
+42696,KE-0053,small_airport,Mbirikani Airport,-2.5608329773,37.5410003662,3900,KE
+42697,KE-0054,small_airport,Harris Hills Airport,3.4166669846,37.7666664124,4300,KE
+42698,KE-0055,small_airport,Lake Jipe Airport,-3.6169440746,37.7789154053,2400,KE
+42699,KE-0056,small_airport,Finch Hattons Airport,-2.9459679127,37.9146881104,2644,KE
+42700,KE-0057,small_airport,Maktau Gate Airport,-3.4081668854,38.1196670532,3500,KE
+42701,KE-0058,small_airport,Kamboyo(Tsavo West) Airport,-2.75,38.1199989319,2805,KE
+42702,KE-0059,small_airport,Kangetchwa Airport,-3.179363966,38.1310119629,3050,KE
+42703,KE-0060,small_airport,Kinna Meru Airport,0.165083006,38.1951408386,2000,KE
+42704,KE-0061,small_airport,Ithumba Airport,-2.2167220116,38.3868904114,1700,KE
+42705,KE-0062,small_airport,Satao Airport,-3.3937499523,38.9468612671,1400,KE
+42706,KE-0063,small_airport,Kone Airport,-2.2191939354,39.1008872986,500,KE
+42707,KE-0064,small_airport,Moyale (Boma) Airport,3.4500000477,39.1329994202,2790,KE
+42708,KE-0065,small_airport,Crocodile Camp Airport,-3.0691111088,39.2342224121,500,KE
+42709,KE-0066,small_airport,Kwale Airport,-4.1697950363,39.4318656921,1380,KE
+42710,KE-0067,small_airport,Kore Galana Ranch Airport,-2.7333331108,39.5333328247,500,KE
+42711,KE-0068,small_airport,Komawayu (Tanke) Airport,-2.9166669846,39.5509185791,500,KE
+42712,KE-0069,small_airport,Vipingo Estate Airport,-3.8598539829,39.7869758606,86,KE
+42713,KE-0070,small_airport,Kijipwa Airport,-3.8431389332,39.8051681519,40,KE
+42714,KE-0071,small_airport,Garsen Airport,-2.2680559158,40.0937767029,16,KE
+42715,KE-0072,small_airport,Rhamu Airport,3.9230821133,41.223690033,805,KE
+43203,GLST,small_airport,Sasstown Airport,4.6666669846,-8.4333333969,6,LR
+43272,GCHU,heliport,Hospital Universitario De Canarias Heliport,28.456199646,-16.2921009064,1080,ES
+43297,GCGO,heliport,San Sebasti�n De La Gomera Heliport,28.0972003937,-17.102399826,1,ES
+43321,FNLK,small_airport,Lucapa Airport,-8.4457273483,20.7320861816,3029,AO
+43322,AO-KNP,small_airport,Capanda Airport,-9.769370079,15.4553194046,3366,AO
+43323,AO-DRC,small_airport,Dirico Airport,-17.981924057,20.7680606842,3504,AO
+43324,AO-JMB,small_airport,Jamba Airport,-14.6981925964,16.070148468,4912,AO
+43325,AO-GGC,small_airport,Lumbala Airport,-12.6398773193,22.5868206024,3510,AO
+43326,AO-NDF,small_airport,Ndalatandos Airport,-9.275188446,14.9772424698,2684,AO
+43788,SO-0001,medium_airport,K50 International Airport,2.0052800179,44.9865989685,,SO
+43968,AO-0002,small_airport,Nankova Airport,-16.3963699341,18.9787635803,,AO
+43969,AO-0003,small_airport,Rito Airport,-16.6893920898,19.0837669373,,AO
+43970,AO-0004,small_airport,Coemba Airport,-12.1437044144,18.0853633881,,AO
+43971,AO-0005,small_airport,Andulo Airport,-11.4722995758,16.710899353,,AO
+43976,HSAK,small_airport,Akobo Airport,7.7833299637,33,,SS
+44465,KE-0073,small_airport,Private Airstrip,0.2306990027,37.3620986938,,KE
+44466,KE-0074,small_airport,Private Airstrip,0.269569993,37.3280982971,,KE
+44467,KE-0075,medium_airport,Laikipia Air Base,0.0329332016,37.0269012451,,KE
+44470,KE-0076,small_airport,Private Airstrip near Lenana,-0.1621779948,37.4458999634,,KE
+44577,GUXN,small_airport,Kankan Airport,10.3940000534,-9.3037996292,1234,GN
+44578,NG-0003,medium_airport,Gombe Lawanti International Airport,10.2983333333,10.8963888889,1590,NG
+44579,LY-0001,small_airport,Warehouse ? Airport,28.168800354,19.2094993591,,LY
+44869,ER-0001,small_airport,Dahalak Island Airfield,15.68151,40.104431,,ER
+44902,FR-0314,small_airport,Europa Island Airstrip,-22.3486995697,40.3515014648,,TF
+46207,FEFB,small_airport,Poste Airport,5.403888889,26.487222222,,CF
+46533,FABR,medium_airport,Barberton Airport,-25.7168687423,30.9751796722,2250,ZA
+299324,AHY,small_airport,Ambatolhy Airport,-20.0158333333,45.535,340,MG
+299485,HSPI,small_airport,Pibor Airport,6.7933333333,33.1305555556,1377,SS
+299486,HSRN,small_airport,Renk Airport,11.8324692723,32.8104972839,1278,SS
+299529,NL-0042,closed,Bergen Airfield,0,4.6922222222,-3,NL
+299598,ZA-0038,small_airport,Hippo Pools Airport,-24.1997222222,30.8125,1145,ZA
+299605,ZA-0104,small_airport,Winterveldt Mine Airport,-24.665,30.18528,3000,ZA
+299614,ZA-0105,small_airport,Aviators Paradise Field,-25.69389,27.7825073972,3800,ZA
+299617,FADU,small_airport,Walkersons Field,-25.36278,30.18778,6041,ZA
+300056,ZA-0037,small_airport,Benics Airport,-25.8188991547,29.2217006683,5100,ZA
+300057,ZA-0106,small_airport,Benics Airport,-25.8188991547,29.2217006683,5100,ZA
+300208,CD-0002,small_airport,Kashobwe Airport,-9.666293,28.619004,3100,CD
+300239,HAHM,medium_airport,Harar Meda Airport,8.7163,39.0059,,ET
+300253,FMBI,small_airport,Betainomby Airport,-18.1958013864,49.348526001,40,MG
+300307,AEE,small_airport,Adareil Airport,10.0536111111,32.9594444444,1301,SS
+300333,DAOY,small_airport,El Bayadh Airport,33.7216666667,1.0925,4493,DZ
+300564,PHG,small_airport,Port Harcourt City Airport,4.8461111111,0,57,NG
+300565,NG-0004,small_airport,Port Harcourt City Airport,4.8461111111,7.0213888889,57,NG
+300605,GMFB,medium_airport,Bouarfa Airport,32.5143055556,-1.9830555556,3630,MA
+300670,ZA-0107,closed,Robben Island Airstrip,-33.8004044125,18.3637332916,,ZA
+300673,HSMN,medium_airport,Merowe (Merowe New),18.4433333333,31.8433333333,897,SD
+300757,GTZ,small_airport,Kirawira B Aerodrome,-2.1608333333,34.2255555556,3970,TZ
+300759,TZ-0005,small_airport,Mvumi Airport,-6.3763888889,35.8986111111,3445,TZ
+300760,TZ-0006,small_airport,Kasulu Airport,-4.5491666667,30.1022222222,4175,TZ
+300781,DNAS,medium_airport,Asaba International Airport,6.2033333333,6.6588888889,305,NG
+300790,BJE,small_airport,Baleela Airport,11.1994444444,28.5230555556,1690,SD
+300795,FALE,large_airport,King Shaka International Airport,-29.6144444444,31.1197222222,295,ZA
+300862,HGI,small_airport,Palogue Airport,10.5291666667,32.5005555556,1290,SS
+300893,HEMK,medium_airport,Sohag International Airport,26.3427777778,31.7427777778,310,EG
